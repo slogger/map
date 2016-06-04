@@ -1,0 +1,200 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T000218+0600",
+      "endTime" : "20140416T080355+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140416T043221Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T080902+0600",
+      "endTime" : "20140416T081904+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20140416T043221Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6136506075, 56.8931730869 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T082614+0600",
+      "endTime" : "20140416T083832+0600",
+      "place" : {
+        "id" : 103374854,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8931730869,
+          "lon" : 60.6136506075
+        }
+      },
+      "lastUpdate" : "20140416T043221Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T085756+0600",
+      "endTime" : "20140416T115130+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T130606+0600",
+      "endTime" : "20140416T173615+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20140416T133924Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141383865, 56.8419563375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T174820+0600",
+      "endTime" : "20140416T220732+0600",
+      "place" : {
+        "id" : 65062140,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419563375,
+          "lon" : 60.6141383865
+        }
+      },
+      "lastUpdate" : "20140416T180340Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5993050431, 56.836362756 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T222712+0600",
+      "endTime" : "20140416T223300+0600",
+      "place" : {
+        "id" : 70981726,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.836362756,
+          "lon" : 60.5993050431
+        }
+      },
+      "lastUpdate" : "20140416T180340Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6137089965, 56.8869537387 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T224250+0600",
+      "endTime" : "20140416T235621+0600",
+      "place" : {
+        "id" : 103535242,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8869537387,
+          "lon" : 60.6137089965
+        }
+      },
+      "lastUpdate" : "20140416T202800Z",
+      "date" : "20140416"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140416T235734+0600",
+      "endTime" : "20140417T095800+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140417T182216Z",
+      "date" : "20140416"
+    }
+  } ]
+}

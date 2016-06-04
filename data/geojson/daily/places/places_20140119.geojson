@@ -1,0 +1,95 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140118T005319+0600",
+      "endTime" : "20140119T115820+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140121T040933Z",
+      "date" : "20140119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140119T125407+0600",
+      "endTime" : "20140119T134904+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59483528137207, 56.836766545903366 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140119T141254+0600",
+      "endTime" : "20140119T142239+0600",
+      "place" : {
+        "id" : 70827121,
+        "name" : "Вилка Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "4d7f3bfecd09224bebcd5730",
+        "location" : {
+          "lat" : 56.836766545903366,
+          "lon" : 60.59483528137207
+        }
+      },
+      "lastUpdate" : "20140121T040933Z",
+      "date" : "20140119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140119T145259+0600",
+      "endTime" : "20140121T100536+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140121T090138Z",
+      "date" : "20140119"
+    }
+  } ]
+}

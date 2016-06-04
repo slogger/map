@@ -1,0 +1,133 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160428T172347+0600",
+      "endTime" : "20160429T084344+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160429"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5848810327, 56.8293777804 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160429T091009+0600",
+      "endTime" : "20160429T092616+0600",
+      "place" : {
+        "id" : 282055549,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8293777804,
+          "lon" : 60.5848810327
+        }
+      },
+      "lastUpdate" : "20160429T111428Z",
+      "date" : "20160429"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160429T092616+0600",
+      "endTime" : "20160429T193741+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20160429"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5919245979, 56.8235759904 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160429T194928+0600",
+      "endTime" : "20160429T222656+0600",
+      "place" : {
+        "id" : 279188582,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8235759904,
+          "lon" : 60.5919245979
+        }
+      },
+      "lastUpdate" : "20160429T185651Z",
+      "date" : "20160429"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59749, 56.828279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160429T224209+0600",
+      "endTime" : "20160429T224854+0600",
+      "place" : {
+        "id" : 326010396,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.828279,
+          "lon" : 60.59749
+        }
+      },
+      "lastUpdate" : "20160429T185651Z",
+      "date" : "20160429"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160429T232141+0600",
+      "endTime" : "20160430T102115+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20160430T054407Z",
+      "date" : "20160429"
+    }
+  } ]
+}

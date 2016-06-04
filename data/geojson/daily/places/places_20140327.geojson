@@ -1,0 +1,205 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140326T201211+0600",
+      "endTime" : "20140327T083538+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140327T040856Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T092200+0600",
+      "endTime" : "20140327T121310+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T122322+0600",
+      "endTime" : "20140327T130647+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20140327T141200Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6017764937, 56.8369894653 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T132151+0600",
+      "endTime" : "20140327T133032+0600",
+      "place" : {
+        "id" : 97029568,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8369894653,
+          "lon" : 60.6017764937
+        }
+      },
+      "lastUpdate" : "20140327T141200Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6200203945, 56.8400081466 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T134436+0600",
+      "endTime" : "20140327T141757+0600",
+      "place" : {
+        "id" : 98522336,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8400081466,
+          "lon" : 60.6200203945
+        }
+      },
+      "lastUpdate" : "20140327T141218Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T161220+0600",
+      "endTime" : "20140327T172859+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20140327T152318Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T180659+0600",
+      "endTime" : "20140327T181859+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20140327T152318Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60819268226624, 56.83265218310204 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T200823+0600",
+      "endTime" : "20140327T205242+0600",
+      "place" : {
+        "id" : 77461081,
+        "name" : "Свинья, которая думала, что она мандарин",
+        "type" : "foursquare",
+        "foursquareId" : "5204f024498e74b87a164764",
+        "location" : {
+          "lat" : 56.83265218310204,
+          "lon" : 60.60819268226624
+        }
+      },
+      "lastUpdate" : "20140327T170108Z",
+      "date" : "20140327"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T213507+0600",
+      "endTime" : "20140328T092139+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140328T051952Z",
+      "date" : "20140327"
+    }
+  } ]
+}

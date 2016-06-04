@@ -1,0 +1,197 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140310T182454+0600",
+      "endTime" : "20140311T100652+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6076976691, 56.8385610291 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T105305+0600",
+      "endTime" : "20140311T114428+0600",
+      "place" : {
+        "id" : 68245571,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8385610291,
+          "lon" : 60.6076976691
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6172751906, 56.8396121191 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T115058+0600",
+      "endTime" : "20140311T123054+0600",
+      "place" : {
+        "id" : 65241987,
+        "name" : "Кофехаус",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8396121191,
+          "lon" : 60.6172751906
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6134645678, 56.8416651303 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T123055+0600",
+      "endTime" : "20140311T160152+0600",
+      "place" : {
+        "id" : 68725751,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8416651303,
+          "lon" : 60.6134645678
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6134645678, 56.8416651303 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T164407+0600",
+      "endTime" : "20140311T173502+0600",
+      "place" : {
+        "id" : 68725751,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8416651303,
+          "lon" : 60.6134645678
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5954952288, 56.8345404569 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T180445+0600",
+      "endTime" : "20140311T181053+0600",
+      "place" : {
+        "id" : 94947013,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8345404569,
+          "lon" : 60.5954952288
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59453487396241, 56.83620899112139 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T181428+0600",
+      "endTime" : "20140311T184223+0600",
+      "place" : {
+        "id" : 70827217,
+        "name" : "ТЦ Успенский",
+        "type" : "foursquare",
+        "foursquareId" : "4c7a726597028cfa0417defe",
+        "location" : {
+          "lat" : 56.83620899112139,
+          "lon" : 60.59453487396241
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6523558908, 56.839655037 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T191634+0600",
+      "endTime" : "20140311T211734+0600",
+      "place" : {
+        "id" : 94947030,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.839655037,
+          "lon" : 60.6523558908
+        }
+      },
+      "lastUpdate" : "20140311T212249Z",
+      "date" : "20140311"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5738869885, 56.8910507379 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140311T230908+0600",
+      "endTime" : "20140312T094622+0600",
+      "place" : {
+        "id" : 66665530,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8910507379,
+          "lon" : 60.5738869885
+        }
+      },
+      "lastUpdate" : "20140312T092327Z",
+      "date" : "20140311"
+    }
+  } ]
+}

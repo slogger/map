@@ -1,0 +1,226 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131209T171120+0600",
+      "endTime" : "20131210T074350+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131210T022027Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6526380619, 56.8399683706 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T084620+0600",
+      "endTime" : "20131210T085126+0600",
+      "place" : {
+        "id" : 68863547,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8399683706,
+          "lon" : 60.6526380619
+        }
+      },
+      "lastUpdate" : "20131210T121041Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T085609+0600",
+      "endTime" : "20131210T090559+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20131210T121041Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6231195838, 56.8407654522 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T092445+0600",
+      "endTime" : "20131210T094014+0600",
+      "place" : {
+        "id" : 79635637,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8407654522,
+          "lon" : 60.6231195838
+        }
+      },
+      "lastUpdate" : "20131210T121041Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T094015+0600",
+      "endTime" : "20131210T120216+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T121243+0600",
+      "endTime" : "20131210T125652+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20131210T121041Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T130535+0600",
+      "endTime" : "20131210T143222+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5958396914, 56.83620549 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T144710+0600",
+      "endTime" : "20131210T175405+0600",
+      "place" : {
+        "id" : 70797602,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.83620549,
+          "lon" : 60.5958396914
+        }
+      },
+      "lastUpdate" : "20131210T143341Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T181143+0600",
+      "endTime" : "20131210T211207+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20131210T194924Z",
+      "date" : "20131210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131210T223422+0600",
+      "endTime" : "20131211T080445+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131211T043932Z",
+      "date" : "20131210"
+    }
+  } ]
+}

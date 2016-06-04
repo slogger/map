@@ -1,0 +1,157 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T012135+0600",
+      "endTime" : "20140401T123356+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140401T081557Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T132915+0600",
+      "endTime" : "20140401T145132+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T155220+0600",
+      "endTime" : "20140401T161154+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141383865, 56.8419563375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T162059+0600",
+      "endTime" : "20140401T183441+0600",
+      "place" : {
+        "id" : 65062140,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419563375,
+          "lon" : 60.6141383865
+        }
+      },
+      "lastUpdate" : "20140401T155332Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6423977735, 56.8402313498 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T210647+0600",
+      "endTime" : "20140401T211010+0600",
+      "place" : {
+        "id" : 99806812,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8402313498,
+          "lon" : 60.6423977735
+        }
+      },
+      "lastUpdate" : "20140401T155332Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5990505554, 56.8360045189 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T213135+0600",
+      "endTime" : "20140401T222133+0600",
+      "place" : {
+        "id" : 76438086,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360045189,
+          "lon" : 60.5990505554
+        }
+      },
+      "lastUpdate" : "20140401T173514Z",
+      "date" : "20140401"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140401T230514+0600",
+      "endTime" : "20140402T003936+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140402T053001Z",
+      "date" : "20140401"
+    }
+  } ]
+}

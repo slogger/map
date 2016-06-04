@@ -1,0 +1,138 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151214T220032+0600",
+      "endTime" : "20151215T103848+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151215T053858Z",
+      "date" : "20151215"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151215T105400+0600",
+      "endTime" : "20151215T140935+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151215T083816Z",
+      "date" : "20151215"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151215T141655+0600",
+      "endTime" : "20151215T143619+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20151215T110543Z",
+      "date" : "20151215"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151215T144500+0600",
+      "endTime" : "20151215T171559+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151215T115734Z",
+      "date" : "20151215"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151215T175635+0600",
+      "endTime" : "20151215T214218+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151215"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151215T220601+0600",
+      "endTime" : "20151216T124337+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20151215"
+    }
+  } ]
+}

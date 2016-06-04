@@ -1,0 +1,295 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140319T200446+0600",
+      "endTime" : "20140320T083246+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140320T061536Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T091521+0600",
+      "endTime" : "20140320T103327+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5994714965, 56.8369050908 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T105304+0600",
+      "endTime" : "20140320T110249+0600",
+      "place" : {
+        "id" : 66735238,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8369050908,
+          "lon" : 60.5994714965
+        }
+      },
+      "lastUpdate" : "20140320T070541Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61697959899902, 56.83924316257851 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T113556+0600",
+      "endTime" : "20140320T113606+0600",
+      "place" : {
+        "id" : 65246277,
+        "name" : "Театр оперы и балета / Opera and Ballet Theatre",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fca0dd3c2b60ce4c5d7bc",
+        "location" : {
+          "lat" : 56.83924316257851,
+          "lon" : 60.61697959899902
+        }
+      },
+      "lastUpdate" : "20140321T030707Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6330147173, 56.8416943545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T113840+0600",
+      "endTime" : "20140320T115602+0600",
+      "place" : {
+        "id" : 96776880,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8416943545,
+          "lon" : 60.6330147173
+        }
+      },
+      "lastUpdate" : "20140320T070541Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6346033954, 56.8419438628 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T115603+0600",
+      "endTime" : "20140320T115616+0600",
+      "place" : {
+        "id" : 96776881,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419438628,
+          "lon" : 60.6346033954
+        }
+      },
+      "lastUpdate" : "20140320T070541Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65583944320679, 56.84258809563361 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T121502+0600",
+      "endTime" : "20140320T135001+0600",
+      "place" : {
+        "id" : 96978714,
+        "name" : "УрФУ ТэФ",
+        "type" : "foursquare",
+        "foursquareId" : "4c79e01797028cfaf8cbdcfe",
+        "location" : {
+          "lat" : 56.84258809563361,
+          "lon" : 60.65583944320679
+        }
+      },
+      "lastUpdate" : "20140321T030737Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.63626159651933, 56.84451215480135 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T140743+0600",
+      "endTime" : "20140320T153744+0600",
+      "place" : {
+        "id" : 78201188,
+        "name" : "Глобус",
+        "type" : "foursquare",
+        "foursquareId" : "4f23ebe4e4b0085e496334e7",
+        "location" : {
+          "lat" : 56.84451215480135,
+          "lon" : 60.63626159651933
+        }
+      },
+      "lastUpdate" : "20140320T113736Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60819268226624, 56.83265218310204 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T161413+0600",
+      "endTime" : "20140320T172227+0600",
+      "place" : {
+        "id" : 77461081,
+        "name" : "Свинья, которая думала, что она мандарин",
+        "type" : "foursquare",
+        "foursquareId" : "5204f024498e74b87a164764",
+        "location" : {
+          "lat" : 56.83265218310204,
+          "lon" : 60.60819268226624
+        }
+      },
+      "lastUpdate" : "20140321T030559Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60054302215576, 56.82857258964238 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T174225+0600",
+      "endTime" : "20140320T175627+0600",
+      "place" : {
+        "id" : 77461100,
+        "name" : "Купец",
+        "type" : "foursquare",
+        "foursquareId" : "4c07c47d624def3bcf15253c",
+        "location" : {
+          "lat" : 56.82857258964238,
+          "lon" : 60.60054302215576
+        }
+      },
+      "lastUpdate" : "20140320T125803Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59447050094604, 56.836308764692326 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T182028+0600",
+      "endTime" : "20140320T192848+0600",
+      "place" : {
+        "id" : 96975791,
+        "name" : "SUBWAY",
+        "type" : "foursquare",
+        "foursquareId" : "50050346e4b0b02ea207eeb4",
+        "location" : {
+          "lat" : 56.836308764692326,
+          "lon" : 60.59447050094604
+        }
+      },
+      "lastUpdate" : "20140321T024147Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61378987764257, 56.88799574544797 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T204747+0600",
+      "endTime" : "20140320T210516+0600",
+      "place" : {
+        "id" : 71375807,
+        "name" : "остановка Заря",
+        "type" : "foursquare",
+        "foursquareId" : "4fae71c3e4b09cca618c9f91",
+        "location" : {
+          "lat" : 56.88799574544797,
+          "lon" : 60.61378987764257
+        }
+      },
+      "lastUpdate" : "20140320T160453Z",
+      "date" : "20140320"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140320T212656+0600",
+      "endTime" : "20140321T094554+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140321T070812Z",
+      "date" : "20140320"
+    }
+  } ]
+}

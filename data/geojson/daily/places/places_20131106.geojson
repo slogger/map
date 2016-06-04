@@ -1,0 +1,159 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131105T201834+0600",
+      "endTime" : "20131106T080642+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131106T103236Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T090022+0600",
+      "endTime" : "20131106T152013+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T152359+0600",
+      "endTime" : "20131106T152815+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6289970645, 56.8893303646 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T160717+0600",
+      "endTime" : "20131106T191633+0600",
+      "place" : {
+        "id" : 72457686,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8893303646,
+          "lon" : 60.6289970645
+        }
+      },
+      "lastUpdate" : "20131106T145836Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6289970645, 56.8893303646 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T194539+0600",
+      "endTime" : "20131106T213922+0600",
+      "place" : {
+        "id" : 72457686,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8893303646,
+          "lon" : 60.6289970645
+        }
+      },
+      "lastUpdate" : "20131106T233821Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T215307+0600",
+      "endTime" : "20131106T220052+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20131127T040935Z",
+      "date" : "20131106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T222346+0600",
+      "endTime" : "20131107T081129+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131107T090741Z",
+      "date" : "20131106"
+    }
+  } ]
+}

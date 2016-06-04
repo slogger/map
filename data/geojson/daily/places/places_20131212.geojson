@@ -1,0 +1,140 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131211T232013+0600",
+      "endTime" : "20131212T080504+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131212T082907Z",
+      "date" : "20131212"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131212T080936+0600",
+      "endTime" : "20131212T081843+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20131212T082907Z",
+      "date" : "20131212"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131212T092932+0600",
+      "endTime" : "20131212T123746+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131212"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131212T123747+0600",
+      "endTime" : "20131212T131150+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20131212T082907Z",
+      "date" : "20131212"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131212T131151+0600",
+      "endTime" : "20131212T134547+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131212"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131212T142529+0600",
+      "endTime" : "20131212T200427+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131213T092731Z",
+      "date" : "20131212"
+    }
+  } ]
+}

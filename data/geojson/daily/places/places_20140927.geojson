@@ -1,0 +1,91 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140926T184204+0600",
+      "endTime" : "20140927T202850+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140927T182701Z",
+      "date" : "20140927"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6440116971, 56.8576181523 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140927T212423+0600",
+      "endTime" : "20140927T221704+0600",
+      "place" : {
+        "id" : 158552484,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8576181523,
+          "lon" : 60.6440116971
+        }
+      },
+      "lastUpdate" : "20140927T182704Z",
+      "date" : "20140927"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6048819033, 56.8388297766 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140927T225416+0600",
+      "endTime" : "20140927T232732+0600",
+      "place" : {
+        "id" : 103010606,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8388297766,
+          "lon" : 60.6048819033
+        }
+      },
+      "lastUpdate" : "20140927T184642Z",
+      "date" : "20140927"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140927T234716+0600",
+      "endTime" : "20140928T001030+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140927"
+    }
+  } ]
+}

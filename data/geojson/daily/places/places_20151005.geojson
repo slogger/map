@@ -1,0 +1,139 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T212114+0600",
+      "endTime" : "20151005T090539+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151005T053006Z",
+      "date" : "20151005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151005T100001+0600",
+      "endTime" : "20151005T135715+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614938777696345, 56.83979098470767 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151005T143057+0600",
+      "endTime" : "20151005T150046+0600",
+      "place" : {
+        "id" : 271963087,
+        "name" : "Бургер-бар «Огонь»",
+        "type" : "foursquare",
+        "foursquareId" : "555f2922498e67b29d69e5b2",
+        "location" : {
+          "lat" : 56.83979098470767,
+          "lon" : 60.614938777696345
+        }
+      },
+      "lastUpdate" : "20151006T163813Z",
+      "date" : "20151005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151005T150617+0600",
+      "endTime" : "20151005T203640+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151005T161102Z",
+      "date" : "20151005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61006282418169, 56.84056250226312 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151005T211249+0600",
+      "endTime" : "20151005T215046+0600",
+      "place" : {
+        "id" : 271963191,
+        "name" : "McDonald's",
+        "type" : "foursquare",
+        "foursquareId" : "53e611b8498e457cc2d6b18f",
+        "location" : {
+          "lat" : 56.84056250226312,
+          "lon" : 60.61006282418169
+        }
+      },
+      "lastUpdate" : "20151006T163836Z",
+      "date" : "20151005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151005T224355+0600",
+      "endTime" : "20151006T090113+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151006T052615Z",
+      "date" : "20151005"
+    }
+  } ]
+}

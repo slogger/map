@@ -1,0 +1,90 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.617726, 56.831442 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160226T233440+0600",
+      "endTime" : "20160227T015747+0600",
+      "place" : {
+        "id" : 309098281,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.831442,
+          "lon" : 60.617726
+        }
+      },
+      "lastUpdate" : "20160226T222152Z",
+      "date" : "20160227"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160227T015748+0600",
+      "endTime" : "20160227T194005+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160227T153450Z",
+      "date" : "20160227"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.607766, 56.835013 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160227T194911+0600",
+      "endTime" : "20160227T200241+0600",
+      "place" : {
+        "id" : 309363432,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.835013,
+          "lon" : 60.607766
+        }
+      },
+      "lastUpdate" : "20160227T153451Z",
+      "date" : "20160227"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61108628692485, 56.83920305604998 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160227T202245+0600",
+      "endTime" : "20160227T202938+0600",
+      "place" : {
+        "id" : 283080836,
+        "name" : "Red Cup",
+        "type" : "foursquare",
+        "foursquareId" : "54e2e10f498e1f5a1803605c",
+        "location" : {
+          "lat" : 56.83920305604998,
+          "lon" : 60.61108628692485
+        }
+      },
+      "lastUpdate" : "20160227T153451Z",
+      "date" : "20160227"
+    }
+  } ]
+}

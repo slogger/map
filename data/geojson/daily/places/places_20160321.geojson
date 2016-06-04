@@ -1,0 +1,132 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160320T204950+0600",
+      "endTime" : "20160321T104047+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160321T060548Z",
+      "date" : "20160321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.618312549, 56.8399761567 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160321T105728+0600",
+      "endTime" : "20160321T110632+0600",
+      "place" : {
+        "id" : 79487537,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8399761567,
+          "lon" : 60.618312549
+        }
+      },
+      "lastUpdate" : "20160321T060548Z",
+      "date" : "20160321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.652725, 56.846692 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160321T113000+0600",
+      "endTime" : "20160321T125603+0600",
+      "place" : {
+        "id" : 315027702,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.846692,
+          "lon" : 60.652725
+        }
+      },
+      "lastUpdate" : "20160321T074005Z",
+      "date" : "20160321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.654223, 56.848155 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160321T125604+0600",
+      "endTime" : "20160321T183710+0600",
+      "place" : {
+        "id" : 315090123,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.848155,
+          "lon" : 60.654223
+        }
+      },
+      "lastUpdate" : "20160321T135347Z",
+      "date" : "20160321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160321T185653+0600",
+      "endTime" : "20160321T191350+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20160321T135347Z",
+      "date" : "20160321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143909952, 56.8315163405 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160321T192643+0600",
+      "endTime" : "20160322T020829+0600",
+      "place" : {
+        "id" : 280257344,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8315163405,
+          "lon" : 60.6143909952
+        }
+      },
+      "lastUpdate" : "20160321T213422Z",
+      "date" : "20160321"
+    }
+  } ]
+}

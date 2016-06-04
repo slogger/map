@@ -1,0 +1,198 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151102T213408+0600",
+      "endTime" : "20151103T000641+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6138876007, 56.8321437088 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T003641+0600",
+      "endTime" : "20151103T091813+0600",
+      "place" : {
+        "id" : 279249044,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8321437088,
+          "lon" : 60.6138876007
+        }
+      },
+      "lastUpdate" : "20151103T051404Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T093325+0600",
+      "endTime" : "20151103T135455+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151103T094443Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T141447+0600",
+      "endTime" : "20151103T171053+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151103T161128Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T171053+0600",
+      "endTime" : "20151103T183200+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20151103T161128Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6206081411, 56.8403045388 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T184033+0600",
+      "endTime" : "20151103T190656+0600",
+      "place" : {
+        "id" : 280459402,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8403045388,
+          "lon" : 60.6206081411
+        }
+      },
+      "lastUpdate" : "20151103T161128Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6369579744, 56.8420188611 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T192427+0600",
+      "endTime" : "20151103T192640+0600",
+      "place" : {
+        "id" : 280459403,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8420188611,
+          "lon" : 60.6369579744
+        }
+      },
+      "lastUpdate" : "20151103T161128Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6550228723, 56.8389098094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T194720+0600",
+      "endTime" : "20151103T221921+0600",
+      "place" : {
+        "id" : 70232971,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8389098094,
+          "lon" : 60.6550228723
+        }
+      },
+      "lastUpdate" : "20151104T015240Z",
+      "date" : "20151103"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T232212+0600",
+      "endTime" : "20151104T000912+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151104T032459Z",
+      "date" : "20151103"
+    }
+  } ]
+}

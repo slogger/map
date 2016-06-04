@@ -1,0 +1,208 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131128T195050+0600",
+      "endTime" : "20131129T024135+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131128T225017Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T030652+0600",
+      "endTime" : "20131129T074750+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131129T074528Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T083409+0600",
+      "endTime" : "20131129T092045+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20131201T024541Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T100939+0600",
+      "endTime" : "20131129T105231+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20131129T074528Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T105232+0600",
+      "endTime" : "20131129T112359+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20131129T074528Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T114612+0600",
+      "endTime" : "20131129T124224+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20131129T074528Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T124643+0600",
+      "endTime" : "20131129T155916+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.596855270276734, 56.83569070845047 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T162248+0600",
+      "endTime" : "20131129T182947+0600",
+      "place" : {
+        "id" : 78201694,
+        "name" : "Банковский",
+        "type" : "foursquare",
+        "foursquareId" : "50b1e383e4b0428a10b3d63d",
+        "location" : {
+          "lat" : 56.83569070845047,
+          "lon" : 60.596855270276734
+        }
+      },
+      "lastUpdate" : "20131201T024626Z",
+      "date" : "20131129"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131129T230346+0600",
+      "endTime" : "20131130T165556+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131130T151832Z",
+      "date" : "20131129"
+    }
+  } ]
+}

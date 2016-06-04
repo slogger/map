@@ -1,0 +1,228 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6138876007, 56.8321437088 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151109T184332+0600",
+      "endTime" : "20151110T030236+0600",
+      "place" : {
+        "id" : 279249044,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8321437088,
+          "lon" : 60.6138876007
+        }
+      },
+      "lastUpdate" : "20151110T041920Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6147924404, 56.8307693047 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T030237+0600",
+      "endTime" : "20151110T095103+0600",
+      "place" : {
+        "id" : 101499102,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8307693047,
+          "lon" : 60.6147924404
+        }
+      },
+      "lastUpdate" : "20151110T054152Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T100715+0600",
+      "endTime" : "20151110T160711+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151110T132539Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T170758+0600",
+      "endTime" : "20151110T194250+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20151110T145632Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59704542160034, 56.83795205584336 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T195909+0600",
+      "endTime" : "20151110T202441+0600",
+      "place" : {
+        "id" : 283080981,
+        "name" : "Площадь 1905 года",
+        "type" : "foursquare",
+        "foursquareId" : "4c7cbe06398176b07edb1da8",
+        "location" : {
+          "lat" : 56.83795205584336,
+          "lon" : 60.59704542160034
+        }
+      },
+      "lastUpdate" : "20151113T084357Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61108628692485, 56.83920305604998 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T203400+0600",
+      "endTime" : "20151110T203833+0600",
+      "place" : {
+        "id" : 283080836,
+        "name" : "Red Cup",
+        "type" : "foursquare",
+        "foursquareId" : "54e2e10f498e1f5a1803605c",
+        "location" : {
+          "lat" : 56.83920305604998,
+          "lon" : 60.61108628692485
+        }
+      },
+      "lastUpdate" : "20151113T084300Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6208564335133, 56.84062789010998 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T204957+0600",
+      "endTime" : "20151110T222709+0600",
+      "place" : {
+        "id" : 283080676,
+        "name" : "3-Я УРАЛЬСКАЯ ИНДУСТРИАЛЬНАЯ БИЕННАЛЕ СОВРЕМЕННОГО ИСКУССТВА",
+        "type" : "foursquare",
+        "foursquareId" : "55faa3df498e25445cbf8723",
+        "location" : {
+          "lat" : 56.84062789010998,
+          "lon" : 60.6208564335133
+        }
+      },
+      "lastUpdate" : "20151113T084147Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60922351270811, 56.83709051536556 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T223923+0600",
+      "endTime" : "20151110T233256+0600",
+      "place" : {
+        "id" : 283080811,
+        "name" : "Галерея уличного искусства Свитер",
+        "type" : "foursquare",
+        "foursquareId" : "52c34df4498ef50112468243",
+        "location" : {
+          "lat" : 56.83709051536556,
+          "lon" : 60.60922351270811
+        }
+      },
+      "lastUpdate" : "20151113T084250Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.608339834513636, 56.83880609335557 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T233256+0600",
+      "endTime" : "20151110T234718+0600",
+      "place" : {
+        "id" : 283080782,
+        "name" : "Остановка «Площадь труда»",
+        "type" : "foursquare",
+        "foursquareId" : "50bec7b2498eef43d1db0941",
+        "location" : {
+          "lat" : 56.83880609335557,
+          "lon" : 60.608339834513636
+        }
+      },
+      "lastUpdate" : "20151113T084239Z",
+      "date" : "20151110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151110T235936+0600",
+      "endTime" : "20151111T003343+0600",
+      "place" : {
+        "id" : 277165475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8316409084,
+          "lon" : 60.6153290033
+        }
+      },
+      "lastUpdate" : "20151110T210524Z",
+      "date" : "20151110"
+    }
+  } ]
+}

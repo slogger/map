@@ -1,0 +1,90 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160301T162159+0600",
+      "endTime" : "20160302T120255+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20160302T073926Z",
+      "date" : "20160302"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160302T125549+0600",
+      "endTime" : "20160302T182748+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160302T135426Z",
+      "date" : "20160302"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6160574467, 56.8365393647 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160302T183750+0600",
+      "endTime" : "20160302T184315+0600",
+      "place" : {
+        "id" : 267638045,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8365393647,
+          "lon" : 60.6160574467
+        }
+      },
+      "lastUpdate" : "20160302T135426Z",
+      "date" : "20160302"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160302T184831+0600",
+      "endTime" : "20160303T113856+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160303T064839Z",
+      "date" : "20160302"
+    }
+  } ]
+}

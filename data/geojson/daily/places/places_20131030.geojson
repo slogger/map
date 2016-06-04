@@ -1,0 +1,157 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131029T155350+0600",
+      "endTime" : "20131030T080053+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131030T091700Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5766751845, 56.8905832359 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T080408+0600",
+      "endTime" : "20131030T081723+0600",
+      "place" : {
+        "id" : 65878791,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8905832359,
+          "lon" : 60.5766751845
+        }
+      },
+      "lastUpdate" : "20131030T091700Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T090508+0600",
+      "endTime" : "20131030T155827+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5992857144, 56.8380482151 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T161657+0600",
+      "endTime" : "20131030T164928+0600",
+      "place" : {
+        "id" : 71776735,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8380482151,
+          "lon" : 60.5992857144
+        }
+      },
+      "lastUpdate" : "20131030T121544Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6101164501, 56.8387997845 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T170046+0600",
+      "endTime" : "20131030T171016+0600",
+      "place" : {
+        "id" : 71776736,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8387997845,
+          "lon" : 60.6101164501
+        }
+      },
+      "lastUpdate" : "20131030T121544Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T171841+0600",
+      "endTime" : "20131030T181218+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131030T192045+0600",
+      "endTime" : "20131031T075829+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131031T095145Z",
+      "date" : "20131030"
+    }
+  } ]
+}

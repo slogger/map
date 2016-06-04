@@ -1,0 +1,133 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5733411259, 56.8909924125 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131009T220557+0600",
+      "endTime" : "20131010T074841+0600",
+      "place" : {
+        "id" : 67677967,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8909924125,
+          "lon" : 60.5733411259
+        }
+      },
+      "lastUpdate" : "20131010T120624Z",
+      "date" : "20131010"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6095388418, 56.8396291253 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T084611+0600",
+      "endTime" : "20131010T163608+0600",
+      "place" : {
+        "id" : 67846911,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8396291253,
+          "lon" : 60.6095388418
+        }
+      },
+      "lastUpdate" : "20131010T120624Z",
+      "date" : "20131010"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T163923+0600",
+      "endTime" : "20131010T174554+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20131010T160315Z",
+      "date" : "20131010"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5950045345, 56.8366405823 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T180201+0600",
+      "endTime" : "20131010T181951+0600",
+      "place" : {
+        "id" : 67902094,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8366405823,
+          "lon" : 60.5950045345
+        }
+      },
+      "lastUpdate" : "20131010T160315Z",
+      "date" : "20131010"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5755243611, 56.89060351 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T191442+0600",
+      "endTime" : "20131010T193745+0600",
+      "place" : {
+        "id" : 67902095,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.89060351,
+          "lon" : 60.5755243611
+        }
+      },
+      "lastUpdate" : "20131010T160315Z",
+      "date" : "20131010"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T193746+0600",
+      "endTime" : "20131011T070819+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131010"
+    }
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 60.5916969137, 56.8864958979 ], [ 60.5749746584, 56.8906518508 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20131013T140334+0600",
+      "endTime" : "20131013T141948+0600",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20131013T140334+0600",
+        "endTime" : "20131013T141949+0600",
+        "duration" : 975.0,
+        "distance" : 1228.0
+      } ],
+      "lastUpdate" : "20131013T093608Z",
+      "date" : "20131013"
+    }
+  } ]
+}

@@ -1,0 +1,117 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140930T220523+0600",
+      "endTime" : "20141001T095716+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20141001T085843Z",
+      "date" : "20141001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141001T105250+0600",
+      "endTime" : "20141001T161450+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20141001T131758Z",
+      "date" : "20141001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60222707490061, 56.850005953430994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141001T164739+0600",
+      "endTime" : "20141001T165128+0600",
+      "place" : {
+        "id" : 65246084,
+        "name" : "Почта 620027",
+        "type" : "foursquare",
+        "foursquareId" : "4f549edae4b0754d59f8a576",
+        "location" : {
+          "lat" : 56.850005953430994,
+          "lon" : 60.60222707490061
+        }
+      },
+      "lastUpdate" : "20141001T131758Z",
+      "date" : "20141001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60222707490061, 56.850005953430994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141001T165129+0600",
+      "endTime" : "20141001T171043+0600",
+      "place" : {
+        "id" : 65246084,
+        "name" : "Почта 620027",
+        "type" : "foursquare",
+        "foursquareId" : "4f549edae4b0754d59f8a576",
+        "location" : {
+          "lat" : 56.850005953430994,
+          "lon" : 60.60222707490061
+        }
+      },
+      "lastUpdate" : "20141001T131800Z",
+      "date" : "20141001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141001T175137+0600",
+      "endTime" : "20141002T100541+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20141002T054412Z",
+      "date" : "20141001"
+    }
+  } ]
+}

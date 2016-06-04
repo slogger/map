@@ -1,0 +1,71 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150926T000604+0600",
+      "endTime" : "20150926T140301+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150926T143147Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150926T175458+0600",
+      "endTime" : "20150926T210100+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150926T162559Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150926T213648+0600",
+      "endTime" : "20150927T001348+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20150926T205858Z",
+      "date" : "20150926"
+    }
+  } ]
+}

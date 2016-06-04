@@ -1,0 +1,112 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140918T214011+0600",
+      "endTime" : "20140919T100852+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140919T071255Z",
+      "date" : "20140919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5909371228, 56.8359427306 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140919T104935+0600",
+      "endTime" : "20140919T201459+0600",
+      "place" : {
+        "id" : 158353557,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8359427306,
+          "lon" : 60.5909371228
+        }
+      },
+      "lastUpdate" : "20140919T182625Z",
+      "date" : "20140919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140919T201743+0600",
+      "endTime" : "20140919T202824+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20140919T182625Z",
+      "date" : "20140919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6045244182, 56.840891882 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140919T204420+0600",
+      "endTime" : "20140919T211058+0600",
+      "place" : {
+        "id" : 158552432,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.840891882,
+          "lon" : 60.6045244182
+        }
+      },
+      "lastUpdate" : "20140919T182633Z",
+      "date" : "20140919"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6440116971, 56.8576181523 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140919T215111+0600",
+      "endTime" : "20140919T223731+0600",
+      "place" : {
+        "id" : 158552484,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8576181523,
+          "lon" : 60.6440116971
+        }
+      },
+      "lastUpdate" : "20140920T013031Z",
+      "date" : "20140919"
+    }
+  } ]
+}

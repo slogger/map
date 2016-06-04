@@ -1,0 +1,161 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140323T090655+0600",
+      "endTime" : "20140324T095523+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140324T060118Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T101222+0600",
+      "endTime" : "20140324T101837+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20140324T060118Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T103409+0600",
+      "endTime" : "20140324T142114+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148087845, 56.8402144974 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T142425+0600",
+      "endTime" : "20140324T142435+0600",
+      "place" : {
+        "id" : 97827399,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8402144974,
+          "lon" : 60.6148087845
+        }
+      },
+      "lastUpdate" : "20140324T094129Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T143555+0600",
+      "endTime" : "20140324T151103+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20140324T094129Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T151810+0600",
+      "endTime" : "20140324T183218+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140324"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140324T192019+0600",
+      "endTime" : "20140325T122910+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140325T081419Z",
+      "date" : "20140324"
+    }
+  } ]
+}

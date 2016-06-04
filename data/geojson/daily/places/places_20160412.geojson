@@ -1,0 +1,156 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160411T214407+0600",
+      "endTime" : "20160412T111354+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20160412T062336Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T113056+0600",
+      "endTime" : "20160412T182450+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160412T123626Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T182450+0600",
+      "endTime" : "20160412T183223+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20160412T140952Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.615326, 56.836223 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T184135+0600",
+      "endTime" : "20160412T184834+0600",
+      "place" : {
+        "id" : 321120174,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.836223,
+          "lon" : 60.615326
+        }
+      },
+      "lastUpdate" : "20160412T140952Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T185814+0600",
+      "endTime" : "20160412T190930+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6176377064, 56.8325091153 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T191812+0600",
+      "endTime" : "20160412T192223+0600",
+      "place" : {
+        "id" : 299965218,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8325091153,
+          "lon" : 60.6176377064
+        }
+      },
+      "lastUpdate" : "20160412T140953Z",
+      "date" : "20160412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160412T192938+0600",
+      "endTime" : "20160413T111321+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20160413T053345Z",
+      "date" : "20160412"
+    }
+  } ]
+}

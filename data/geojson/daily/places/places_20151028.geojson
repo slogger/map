@@ -1,0 +1,93 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6142783207, 56.831926577 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T230612+0600",
+      "endTime" : "20151028T093345+0600",
+      "place" : {
+        "id" : 278463715,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.831926577,
+          "lon" : 60.6142783207
+        }
+      },
+      "lastUpdate" : "20151028T080529Z",
+      "date" : "20151028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151028T100300+0600",
+      "endTime" : "20151028T132355+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151028T134833+0600",
+      "endTime" : "20151028T201204+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151028T153210Z",
+      "date" : "20151028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59103727340698, 56.82358842565525 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151028T204924+0600",
+      "endTime" : "20151028T234128+0600",
+      "place" : {
+        "id" : 279188622,
+        "name" : "СКБ Контур",
+        "type" : "foursquare",
+        "foursquareId" : "4bcd89be68f976b0485a6483",
+        "location" : {
+          "lat" : 56.82358842565525,
+          "lon" : 60.59103727340698
+        }
+      },
+      "lastUpdate" : "20151030T151459Z",
+      "date" : "20151028"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160118T223208+0600",
+      "endTime" : "20160119T233030+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160120T173056Z",
+      "date" : "20160119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6142783207, 56.831926577 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160119T233030+0600",
+      "endTime" : "20160121T144102+0600",
+      "place" : {
+        "id" : 278463715,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.831926577,
+          "lon" : 60.6142783207
+        }
+      },
+      "lastUpdate" : "20160121T113831Z",
+      "date" : "20160119"
+    }
+  } ]
+}

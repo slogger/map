@@ -1,0 +1,180 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140924T185240+0600",
+      "endTime" : "20140925T094649+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140925T112352Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T103554+0600",
+      "endTime" : "20140925T121239+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20140925T112352Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.618312549, 56.8399761567 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T121539+0600",
+      "endTime" : "20140925T124750+0600",
+      "place" : {
+        "id" : 79487537,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8399761567,
+          "lon" : 60.618312549
+        }
+      },
+      "lastUpdate" : "20140925T112352Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T124930+0600",
+      "endTime" : "20140925T160856+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T172415+0600",
+      "endTime" : "20140925T205739+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6467116773, 56.8558889221 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T211646+0600",
+      "endTime" : "20140925T214927+0600",
+      "place" : {
+        "id" : 157266977,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8558889221,
+          "lon" : 60.6467116773
+        }
+      },
+      "lastUpdate" : "20140925T174144Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6468592512, 56.8562007026 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T215101+0600",
+      "endTime" : "20140925T223917+0600",
+      "place" : {
+        "id" : 158169583,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8562007026,
+          "lon" : 60.6468592512
+        }
+      },
+      "lastUpdate" : "20140926T015626Z",
+      "date" : "20140925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140925T234023+0600",
+      "endTime" : "20140926T101407+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140926T164554Z",
+      "date" : "20140925"
+    }
+  } ]
+}

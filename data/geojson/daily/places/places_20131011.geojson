@@ -1,0 +1,156 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131010T193746+0600",
+      "endTime" : "20131011T070819+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6509444532, 56.8401078094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T080832+0600",
+      "endTime" : "20131011T083547+0600",
+      "place" : {
+        "id" : 67996312,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8401078094,
+          "lon" : 60.6509444532
+        }
+      },
+      "lastUpdate" : "20131011T035408Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6536402585, 56.8382375758 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T083548+0600",
+      "endTime" : "20131011T091719+0600",
+      "place" : {
+        "id" : 67996313,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8382375758,
+          "lon" : 60.6536402585
+        }
+      },
+      "lastUpdate" : "20131011T054655Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T094951+0600",
+      "endTime" : "20131011T095754+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6151981679, 56.8400407852 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T095755+0600",
+      "endTime" : "20131011T100101+0600",
+      "place" : {
+        "id" : 64758606,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8400407852,
+          "lon" : 60.6151981679
+        }
+      },
+      "lastUpdate" : "20131011T101338Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T100102+0600",
+      "endTime" : "20131011T174522+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5733411259, 56.8909924125 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131011T184811+0600",
+      "endTime" : "20131012T093535+0600",
+      "place" : {
+        "id" : 67677967,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8909924125,
+          "lon" : 60.5733411259
+        }
+      },
+      "lastUpdate" : "20131012T124505Z",
+      "date" : "20131011"
+    }
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773811340332, 56.88984680175781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130928T233742+0600",
+      "endTime" : "20130929T000407+0600",
+      "place" : {
+        "id" : 65948581,
+        "name" : "б-р. Культуры 25",
+        "type" : "foursquare",
+        "foursquareId" : "5242eabd11d2daa4bdc2481c",
+        "location" : {
+          "lat" : 56.88984680175781,
+          "lon" : 60.5773811340332
+        }
+      },
+      "lastUpdate" : "20130930T103509Z",
+      "date" : "20130929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130929T134152+0600",
+      "endTime" : "20130929T134754+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20130929T224200Z",
+      "date" : "20130929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5761170799, 56.7933882209 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130929T145035+0600",
+      "endTime" : "20130929T164735+0600",
+      "place" : {
+        "id" : 65878789,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.7933882209,
+          "lon" : 60.5761170799
+        }
+      },
+      "lastUpdate" : "20130929T224200Z",
+      "date" : "20130929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5781583642, 56.7955466617 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130929T165539+0600",
+      "endTime" : "20130929T170139+0600",
+      "place" : {
+        "id" : 65878790,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.7955466617,
+          "lon" : 60.5781583642
+        }
+      },
+      "lastUpdate" : "20130929T224200Z",
+      "date" : "20130929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773811340332, 56.88984680175781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130929T180741+0600",
+      "endTime" : "20130929T202216+0600",
+      "place" : {
+        "id" : 65948581,
+        "name" : "б-р. Культуры 25",
+        "type" : "foursquare",
+        "foursquareId" : "5242eabd11d2daa4bdc2481c",
+        "location" : {
+          "lat" : 56.88984680175781,
+          "lon" : 60.5773811340332
+        }
+      },
+      "lastUpdate" : "20130930T103622Z",
+      "date" : "20130929"
+    }
+  } ]
+}

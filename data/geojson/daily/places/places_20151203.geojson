@@ -1,0 +1,112 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T212220+0600",
+      "endTime" : "20151203T033717+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20151203T074425Z",
+      "date" : "20151203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5916735464, 56.8299527644 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151203T111706+0600",
+      "endTime" : "20151203T144119+0600",
+      "place" : {
+        "id" : 288506650,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8299527644,
+          "lon" : 60.5916735464
+        }
+      },
+      "lastUpdate" : "20151203T122119Z",
+      "date" : "20151203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151203T144550+0600",
+      "endTime" : "20151203T161047+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6156559542, 56.8324419088 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151203T165011+0600",
+      "endTime" : "20151203T232909+0600",
+      "place" : {
+        "id" : 286628444,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8324419088,
+          "lon" : 60.6156559542
+        }
+      },
+      "lastUpdate" : "20151203T195744Z",
+      "date" : "20151203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6223141427, 56.8329045257 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151203T233224+0600",
+      "endTime" : "20151204T000549+0600",
+      "place" : {
+        "id" : 288610921,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8329045257,
+          "lon" : 60.6223141427
+        }
+      },
+      "lastUpdate" : "20151203T195744Z",
+      "date" : "20151203"
+    }
+  } ]
+}

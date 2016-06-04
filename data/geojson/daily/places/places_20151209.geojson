@@ -1,0 +1,93 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151208T224556+0600",
+      "endTime" : "20151209T160241+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151209T103555Z",
+      "date" : "20151209"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151209T161926+0600",
+      "endTime" : "20151209T162758+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20151209T122341Z",
+      "date" : "20151209"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151209T162759+0600",
+      "endTime" : "20151209T210752+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151209T171413Z",
+      "date" : "20151209"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5919245979, 56.8235759904 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151209T215243+0600",
+      "endTime" : "20151209T232836+0600",
+      "place" : {
+        "id" : 279188582,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8235759904,
+          "lon" : 60.5919245979
+        }
+      },
+      "lastUpdate" : "20151209T180130Z",
+      "date" : "20151209"
+    }
+  } ]
+}

@@ -1,0 +1,239 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160324T223834+0600",
+      "endTime" : "20160325T160241+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160325T110511Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.635922, 56.830807 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T162758+0600",
+      "endTime" : "20160325T163039+0600",
+      "place" : {
+        "id" : 316059919,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.830807,
+          "lon" : 60.635922
+        }
+      },
+      "lastUpdate" : "20160325T110511Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.651594, 56.826742 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T164857+0600",
+      "endTime" : "20160325T165526+0600",
+      "place" : {
+        "id" : 316059920,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.826742,
+          "lon" : 60.651594
+        }
+      },
+      "lastUpdate" : "20160325T110511Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.63883, 56.8259 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T171019+0600",
+      "endTime" : "20160325T171711+0600",
+      "place" : {
+        "id" : 316084406,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8259,
+          "lon" : 60.63883
+        }
+      },
+      "lastUpdate" : "20160325T124029Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.639975, 56.821732 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T172453+0600",
+      "endTime" : "20160325T173734+0600",
+      "place" : {
+        "id" : 316084407,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.821732,
+          "lon" : 60.639975
+        }
+      },
+      "lastUpdate" : "20160325T124029Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.640985, 56.81171 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T180306+0600",
+      "endTime" : "20160325T182635+0600",
+      "place" : {
+        "id" : 316084408,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.81171,
+          "lon" : 60.640985
+        }
+      },
+      "lastUpdate" : "20160325T124029Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6318248876, 56.8419125578 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T191616+0600",
+      "endTime" : "20160325T195628+0600",
+      "place" : {
+        "id" : 69317326,
+        "name" : "Клуб настольных игр \"Лепрекон\"",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8419125578,
+          "lon" : 60.6318248876
+        }
+      },
+      "lastUpdate" : "20160325T141052Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.619107, 56.842349 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T201151+0600",
+      "endTime" : "20160325T201229+0600",
+      "place" : {
+        "id" : 316140426,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.842349,
+          "lon" : 60.619107
+        }
+      },
+      "lastUpdate" : "20160325T154108Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T203428+0600",
+      "endTime" : "20160325T210534+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T211936+0600",
+      "endTime" : "20160325T231343+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20160325T184923Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5979574626, 56.8279653767 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T233628+0600",
+      "endTime" : "20160325T235318+0600",
+      "place" : {
+        "id" : 104956761,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8279653767,
+          "lon" : 60.5979574626
+        }
+      },
+      "lastUpdate" : "20160325T184923Z",
+      "date" : "20160325"
+    }
+  } ]
+}

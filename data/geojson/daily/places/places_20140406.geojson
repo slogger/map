@@ -1,0 +1,240 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T011604+0600",
+      "endTime" : "20140406T104149+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T104608+0600",
+      "endTime" : "20140406T105317+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.597511402, 56.8301199039 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T114519+0600",
+      "endTime" : "20140406T114819+0600",
+      "place" : {
+        "id" : 99379794,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8301199039,
+          "lon" : 60.597511402
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.502566123, 56.8222999125 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T123550+0600",
+      "endTime" : "20140406T125321+0600",
+      "place" : {
+        "id" : 100944814,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8222999125,
+          "lon" : 60.502566123
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5067952069, 56.8239129772 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T125321+0600",
+      "endTime" : "20140406T141443+0600",
+      "place" : {
+        "id" : 100944815,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8239129772,
+          "lon" : 60.5067952069
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5998644217, 56.808925363 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T151716+0600",
+      "endTime" : "20140406T163834+0600",
+      "place" : {
+        "id" : 90049775,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.808925363,
+          "lon" : 60.5998644217
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5969834157, 56.8298361878 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T175232+0600",
+      "endTime" : "20140406T180209+0600",
+      "place" : {
+        "id" : 100999908,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8298361878,
+          "lon" : 60.5969834157
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5989697604, 56.8283223551 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T180210+0600",
+      "endTime" : "20140406T181128+0600",
+      "place" : {
+        "id" : 101025650,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8283223551,
+          "lon" : 60.5989697604
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5990505554, 56.8360045189 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T182815+0600",
+      "endTime" : "20140406T184038+0600",
+      "place" : {
+        "id" : 76438086,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360045189,
+          "lon" : 60.5990505554
+        }
+      },
+      "lastUpdate" : "20140406T152304Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T193726+0600",
+      "endTime" : "20140406T202924+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140406T163643Z",
+      "date" : "20140406"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140406T212218+0600",
+      "endTime" : "20140407T094046+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140407T060829Z",
+      "date" : "20140406"
+    }
+  } ]
+}

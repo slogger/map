@@ -1,0 +1,138 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T232312+0600",
+      "endTime" : "20140718T001104+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T211831Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T005259+0600",
+      "endTime" : "20140718T104013+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140718T095128Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T111416+0600",
+      "endTime" : "20140718T115707+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140718T114303Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6107657763, 55.7584199091 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T162757+0600",
+      "endTime" : "20140718T224548+0600",
+      "place" : {
+        "id" : 137124196,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7584199091,
+          "lon" : 37.6107657763
+        }
+      },
+      "lastUpdate" : "20140721T184031Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6207043505, 55.7542069426 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T230305+0600",
+      "endTime" : "20140718T230659+0600",
+      "place" : {
+        "id" : 135911582,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7542069426,
+          "lon" : 37.6207043505
+        }
+      },
+      "lastUpdate" : "20140721T184031Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T234619+0600",
+      "endTime" : "20140718T234719+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140721T223108Z",
+      "date" : "20140718"
+    }
+  } ]
+}

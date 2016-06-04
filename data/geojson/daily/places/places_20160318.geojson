@@ -1,0 +1,68 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160317T193924+0600",
+      "endTime" : "20160318T080705+0600",
+      "place" : {
+        "id" : 277165475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8316409084,
+          "lon" : 60.6153290033
+        }
+      },
+      "lastUpdate" : "20160318T083730Z",
+      "date" : "20160318"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5892770618, 56.8297530925 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160318T082910+0600",
+      "endTime" : "20160318T135119+0600",
+      "place" : {
+        "id" : 279114592,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8297530925,
+          "lon" : 60.5892770618
+        }
+      },
+      "lastUpdate" : "20160318T131226Z",
+      "date" : "20160318"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160318T135120+0600",
+      "endTime" : "20160319T001545+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20160318"
+    }
+  } ]
+}

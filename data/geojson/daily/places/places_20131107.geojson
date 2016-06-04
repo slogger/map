@@ -1,0 +1,181 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131106T222346+0600",
+      "endTime" : "20131107T081129+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131107T090741Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T090419+0600",
+      "endTime" : "20131107T120309+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614325843703, 56.83967512565922 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T120609+0600",
+      "endTime" : "20131107T121345+0600",
+      "place" : {
+        "id" : 65246322,
+        "name" : "Viberoom",
+        "type" : "foursquare",
+        "foursquareId" : "516579aee4b04e0fe689eef6",
+        "location" : {
+          "lat" : 56.83967512565922,
+          "lon" : 60.614325843703
+        }
+      },
+      "lastUpdate" : "20140418T030343Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6067895793, 56.8307372089 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T123838+0600",
+      "endTime" : "20131107T135508+0600",
+      "place" : {
+        "id" : 73442191,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8307372089,
+          "lon" : 60.6067895793
+        }
+      },
+      "lastUpdate" : "20131107T141925Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60359734273205, 56.82697230624986 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T140552+0600",
+      "endTime" : "20131107T141843+0600",
+      "place" : {
+        "id" : 71375729,
+        "name" : "У Цирка",
+        "type" : "foursquare",
+        "foursquareId" : "522c457311d277f9ef6b4268",
+        "location" : {
+          "lat" : 56.82697230624986,
+          "lon" : 60.60359734273205
+        }
+      },
+      "lastUpdate" : "20131107T141926Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5699484417, 56.8857330116 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T144534+0600",
+      "endTime" : "20131107T145334+0600",
+      "place" : {
+        "id" : 73442192,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8857330116,
+          "lon" : 60.5699484417
+        }
+      },
+      "lastUpdate" : "20131107T141926Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T150640+0600",
+      "endTime" : "20131107T205519+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131107T154307Z",
+      "date" : "20131107"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T210554+0600",
+      "endTime" : "20131108T070321+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131108T092911Z",
+      "date" : "20131107"
+    }
+  } ]
+}

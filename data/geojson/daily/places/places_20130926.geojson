@@ -1,0 +1,182 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5727858645, 56.8912280897 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130925T203614+0600",
+      "endTime" : "20130926T074939+0600",
+      "place" : {
+        "id" : 64772478,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8912280897,
+          "lon" : 60.5727858645
+        }
+      },
+      "lastUpdate" : "20130926T032659Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5732029647, 56.8938615173 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T075439+0600",
+      "endTime" : "20130926T081800+0600",
+      "place" : {
+        "id" : 65051711,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8938615173,
+          "lon" : 60.5732029647
+        }
+      },
+      "lastUpdate" : "20130926T032659Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T085428+0600",
+      "endTime" : "20130926T120825+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20130927T045852Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T121107+0600",
+      "endTime" : "20130926T122433+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20130927T045924Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.618876773394874, 56.82838767025508 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T124022+0600",
+      "endTime" : "20130926T132611+0600",
+      "place" : {
+        "id" : 65245977,
+        "name" : "Институт Естественных Наук УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4ebb7b7f2c5bf3fb8900e85f",
+        "location" : {
+          "lat" : 56.82838767025508,
+          "lon" : 60.618876773394874
+        }
+      },
+      "lastUpdate" : "20130927T045901Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T135758+0600",
+      "endTime" : "20130926T145733+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20130927T045913Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60222707490061, 56.850005953430994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T152050+0600",
+      "endTime" : "20130926T152950+0600",
+      "place" : {
+        "id" : 65246084,
+        "name" : "Почта 620027",
+        "type" : "foursquare",
+        "foursquareId" : "4f549edae4b0754d59f8a576",
+        "location" : {
+          "lat" : 56.850005953430994,
+          "lon" : 60.60222707490061
+        }
+      },
+      "lastUpdate" : "20130927T045944Z",
+      "date" : "20130926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5729118618, 56.8894594506 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130926T160516+0600",
+      "endTime" : "20130927T013349+0600",
+      "place" : {
+        "id" : 65083936,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8894594506,
+          "lon" : 60.5729118618
+        }
+      },
+      "lastUpdate" : "20130927T024909Z",
+      "date" : "20130926"
+    }
+  } ]
+}

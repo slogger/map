@@ -1,0 +1,177 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5727858645, 56.8912280897 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T073906+0600",
+      "endTime" : "20131028T080453+0600",
+      "place" : {
+        "id" : 64772478,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8912280897,
+          "lon" : 60.5727858645
+        }
+      },
+      "lastUpdate" : "20131028T081219Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141383865, 56.8419563375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T091400+0600",
+      "endTime" : "20131028T143710+0600",
+      "place" : {
+        "id" : 65062140,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419563375,
+          "lon" : 60.6141383865
+        }
+      },
+      "lastUpdate" : "20131028T143837Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141383865, 56.8419563375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T171249+0600",
+      "endTime" : "20131028T175955+0600",
+      "place" : {
+        "id" : 65062140,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419563375,
+          "lon" : 60.6141383865
+        }
+      },
+      "lastUpdate" : "20131028T143837Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T180506+0600",
+      "endTime" : "20131028T192542+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T193352+0600",
+      "endTime" : "20131028T193642+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.626286087, 56.8410869378 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T193908+0600",
+      "endTime" : "20131028T194359+0600",
+      "place" : {
+        "id" : 71455117,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8410869378,
+          "lon" : 60.626286087
+        }
+      },
+      "lastUpdate" : "20131028T181112Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6195463047, 56.8426058771 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T200901+0600",
+      "endTime" : "20131028T202303+0600",
+      "place" : {
+        "id" : 71489475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8426058771,
+          "lon" : 60.6195463047
+        }
+      },
+      "lastUpdate" : "20131028T181112Z",
+      "date" : "20131028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131028T205653+0600",
+      "endTime" : "20131029T071432+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131029T102728Z",
+      "date" : "20131028"
+    }
+  } ]
+}

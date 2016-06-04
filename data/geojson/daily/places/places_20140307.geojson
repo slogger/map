@@ -1,0 +1,134 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.572440764, 56.8921159421 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140306T150000+0600",
+      "endTime" : "20140307T002049+0600",
+      "place" : {
+        "id" : 94091491,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8921159421,
+          "lon" : 60.572440764
+        }
+      },
+      "lastUpdate" : "20140307T040312Z",
+      "date" : "20140307"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140307T002050+0600",
+      "endTime" : "20140307T101026+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20140307T205650Z",
+      "date" : "20140307"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6172751906, 56.8396121191 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140307T105323+0600",
+      "endTime" : "20140307T141211+0600",
+      "place" : {
+        "id" : 65241987,
+        "name" : "Кофехаус",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8396121191,
+          "lon" : 60.6172751906
+        }
+      },
+      "lastUpdate" : "20140307T205650Z",
+      "date" : "20140307"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5729118618, 56.8894594506 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140307T150353+0600",
+      "endTime" : "20140307T185308+0600",
+      "place" : {
+        "id" : 65083936,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8894594506,
+          "lon" : 60.5729118618
+        }
+      },
+      "lastUpdate" : "20140307T205650Z",
+      "date" : "20140307"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140307T185309+0600",
+      "endTime" : "20140307T202530+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140308T103804Z",
+      "date" : "20140307"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5744569352, 56.8906881075 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140307T205800+0600",
+      "endTime" : "20140308T200505+0600",
+      "place" : {
+        "id" : 65998971,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8906881075,
+          "lon" : 60.5744569352
+        }
+      },
+      "lastUpdate" : "20140309T113414Z",
+      "date" : "20140307"
+    }
+  } ]
+}

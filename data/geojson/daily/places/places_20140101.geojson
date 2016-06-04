@@ -1,0 +1,158 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6247267, 56.8907082 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T210230+0600",
+      "endTime" : "20140101T024644+0600",
+      "place" : {
+        "id" : 83329283,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8907082,
+          "lon" : 60.6247267
+        }
+      },
+      "lastUpdate" : "20140101T091336Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6274437296, 56.8896788752 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T024645+0600",
+      "endTime" : "20140101T030023+0600",
+      "place" : {
+        "id" : 65505908,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8896788752,
+          "lon" : 60.6274437296
+        }
+      },
+      "lastUpdate" : "20140101T091336Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6236880572, 56.890200024 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T030024+0600",
+      "endTime" : "20140101T033956+0600",
+      "place" : {
+        "id" : 83419420,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.890200024,
+          "lon" : 60.6236880572
+        }
+      },
+      "lastUpdate" : "20140101T091336Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T034213+0600",
+      "endTime" : "20140101T082038+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140101T125159Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T114628+0600",
+      "endTime" : "20140101T151008+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140101T125159Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T153627+0600",
+      "endTime" : "20140101T180215+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140101T144348Z",
+      "date" : "20140101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140101T183752+0600",
+      "endTime" : "20140102T192830+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140103T143113Z",
+      "date" : "20140101"
+    }
+  } ]
+}

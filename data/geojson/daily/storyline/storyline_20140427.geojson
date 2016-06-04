@@ -1,0 +1,36 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140427T082838+0600",
+      "endTime" : "20140428T095920+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140427T110513+0600",
+        "endTime" : "20140427T110543+0600",
+        "duration" : 30.0,
+        "distance" : 20.0,
+        "steps" : 41
+      } ],
+      "lastUpdate" : "20140428T071730Z",
+      "date" : "20140427"
+    }
+  } ]
+}

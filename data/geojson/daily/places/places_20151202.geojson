@@ -1,0 +1,159 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151201T224239+0600",
+      "endTime" : "20151202T104547+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5892770618, 56.8297530925 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T111025+0600",
+      "endTime" : "20151202T151626+0600",
+      "place" : {
+        "id" : 279114592,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8297530925,
+          "lon" : 60.5892770618
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614426136016846, 56.84015864764703 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T160556+0600",
+      "endTime" : "20151202T163446+0600",
+      "place" : {
+        "id" : 287155495,
+        "name" : "Дом печати",
+        "type" : "foursquare",
+        "foursquareId" : "50ab6b92e4b09282e9d88318",
+        "location" : {
+          "lat" : 56.84015864764703,
+          "lon" : 60.614426136016846
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T163447+0600",
+      "endTime" : "20151202T191801+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6151966409, 56.8332539365 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T193437+0600",
+      "endTime" : "20151202T193834+0600",
+      "place" : {
+        "id" : 288319537,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8332539365,
+          "lon" : 60.6151966409
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614938777696345, 56.83979098470767 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T195747+0600",
+      "endTime" : "20151202T210644+0600",
+      "place" : {
+        "id" : 271963087,
+        "name" : "Бургер-бар «Огонь»",
+        "type" : "foursquare",
+        "foursquareId" : "555f2922498e67b29d69e5b2",
+        "location" : {
+          "lat" : 56.83979098470767,
+          "lon" : 60.614938777696345
+        }
+      },
+      "lastUpdate" : "20151203T074410Z",
+      "date" : "20151202"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151202T212220+0600",
+      "endTime" : "20151203T033717+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20151203T074425Z",
+      "date" : "20151202"
+    }
+  } ]
+}

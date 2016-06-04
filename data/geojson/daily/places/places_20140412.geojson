@@ -1,0 +1,239 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6093613919, 56.8275070009 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140411T202142+0600",
+      "endTime" : "20140412T000351+0600",
+      "place" : {
+        "id" : 102204964,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8275070009,
+          "lon" : 60.6093613919
+        }
+      },
+      "lastUpdate" : "20140412T014112Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5795940857, 56.8918004741 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T004151+0600",
+      "endTime" : "20140412T012005+0600",
+      "place" : {
+        "id" : 102313023,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8918004741,
+          "lon" : 60.5795940857
+        }
+      },
+      "lastUpdate" : "20140412T014112Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773404445, 56.8916188749 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T012005+0600",
+      "endTime" : "20140412T051448+0600",
+      "place" : {
+        "id" : 102313024,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8916188749,
+          "lon" : 60.5773404445
+        }
+      },
+      "lastUpdate" : "20140412T014112Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T051448+0600",
+      "endTime" : "20140412T102307+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140412T074910Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T120642+0600",
+      "endTime" : "20140412T125016+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5908101844, 56.833133078 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T135342+0600",
+      "endTime" : "20140412T135824+0600",
+      "place" : {
+        "id" : 102373172,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.833133078,
+          "lon" : 60.5908101844
+        }
+      },
+      "lastUpdate" : "20140412T095715Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5908101844, 56.833133078 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T141049+0600",
+      "endTime" : "20140412T164859+0600",
+      "place" : {
+        "id" : 102373172,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.833133078,
+          "lon" : 60.5908101844
+        }
+      },
+      "lastUpdate" : "20140412T124036Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5877702983, 56.832733501 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T165844+0600",
+      "endTime" : "20140412T181112+0600",
+      "place" : {
+        "id" : 102411512,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.832733501,
+          "lon" : 60.5877702983
+        }
+      },
+      "lastUpdate" : "20140412T154224Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6019226079, 56.8274349961 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T183000+0600",
+      "endTime" : "20140412T183957+0600",
+      "place" : {
+        "id" : 102435695,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8274349961,
+          "lon" : 60.6019226079
+        }
+      },
+      "lastUpdate" : "20140412T154224Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5804834115, 56.8923079364 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T192421+0600",
+      "endTime" : "20140412T210607+0600",
+      "place" : {
+        "id" : 102491169,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8923079364,
+          "lon" : 60.5804834115
+        }
+      },
+      "lastUpdate" : "20140412T154224Z",
+      "date" : "20140412"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T210607+0600",
+      "endTime" : "20140413T113031+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140413T080934Z",
+      "date" : "20140412"
+    }
+  } ]
+}

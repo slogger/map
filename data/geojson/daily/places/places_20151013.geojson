@@ -1,0 +1,161 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T003936+0600",
+      "endTime" : "20151013T105605+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151013T085904Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T115142+0600",
+      "endTime" : "20151013T130449+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151013T085904Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61240911483765, 56.838943864527174 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T131627+0600",
+      "endTime" : "20151013T133200+0600",
+      "place" : {
+        "id" : 103871609,
+        "name" : "Maccheroni / Маккерони",
+        "type" : "foursquare",
+        "foursquareId" : "516bbfd0498e109d0ee9e09e",
+        "location" : {
+          "lat" : 56.838943864527174,
+          "lon" : 60.61240911483765
+        }
+      },
+      "lastUpdate" : "20151013T085904Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T134402+0600",
+      "endTime" : "20151013T190227+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151013T150324Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6554046466, 56.8384557899 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T194229+0600",
+      "endTime" : "20151013T221912+0600",
+      "place" : {
+        "id" : 274195564,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8384557899,
+          "lon" : 60.6554046466
+        }
+      },
+      "lastUpdate" : "20151013T193559Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.645647, 56.843468 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T223245+0600",
+      "endTime" : "20151013T223802+0600",
+      "place" : {
+        "id" : 70826944,
+        "name" : "Трамвайная остановка \"УПИ\"",
+        "type" : "foursquare",
+        "foursquareId" : "4f97fbf2e4b04b2e5f9eb4a3",
+        "location" : {
+          "lat" : 56.843468,
+          "lon" : 60.645647
+        }
+      },
+      "lastUpdate" : "20151013T193559Z",
+      "date" : "20151013"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151013T233025+0600",
+      "endTime" : "20151014T085752+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151014T053813Z",
+      "date" : "20151013"
+    }
+  } ]
+}

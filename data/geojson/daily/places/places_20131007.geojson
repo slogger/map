@@ -1,0 +1,69 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5760967269, 56.8906962063 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131006T200931+0600",
+      "endTime" : "20131007T080759+0600",
+      "place" : {
+        "id" : 66427531,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8906962063,
+          "lon" : 60.5760967269
+        }
+      },
+      "lastUpdate" : "20131007T223353Z",
+      "date" : "20131007"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131007T091308+0600",
+      "endTime" : "20131007T204838+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20131008T114050Z",
+      "date" : "20131007"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5733956962, 56.8913420455 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131007T214911+0600",
+      "endTime" : "20131008T083558+0600",
+      "place" : {
+        "id" : 67045601,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8913420455,
+          "lon" : 60.5733956962
+        }
+      },
+      "lastUpdate" : "20131008T115906Z",
+      "date" : "20131007"
+    }
+  } ]
+}

@@ -1,0 +1,73 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T235629+0600",
+      "endTime" : "20140716T104712+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140716T055215Z",
+      "date" : "20140716"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140716T112228+0600",
+      "endTime" : "20140716T230053+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140716T191536Z",
+      "date" : "20140716"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140716T233712+0600",
+      "endTime" : "20140717T112332+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T072338Z",
+      "date" : "20140716"
+    }
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5766751845, 56.8905832359 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131004T214954+0600",
+      "endTime" : "20131005T105011+0600",
+      "place" : {
+        "id" : 65878791,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8905832359,
+          "lon" : 60.5766751845
+        }
+      },
+      "lastUpdate" : "20131005T125623Z",
+      "date" : "20131005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5737265727, 56.8907392792 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131005T105614+0600",
+      "endTime" : "20131005T122953+0600",
+      "place" : {
+        "id" : 66925708,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8907392792,
+          "lon" : 60.5737265727
+        }
+      },
+      "lastUpdate" : "20131005T125623Z",
+      "date" : "20131005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6154676275, 56.8395215858 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131005T135124+0600",
+      "endTime" : "20131005T190630+0600",
+      "place" : {
+        "id" : 66925709,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8395215858,
+          "lon" : 60.6154676275
+        }
+      },
+      "lastUpdate" : "20131005T215916Z",
+      "date" : "20131005"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5738869885, 56.8910507379 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131005T200819+0600",
+      "endTime" : "20131006T195357+0600",
+      "place" : {
+        "id" : 66665530,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8910507379,
+          "lon" : 60.5738869885
+        }
+      },
+      "lastUpdate" : "20131006T220947Z",
+      "date" : "20131005"
+    }
+  } ]
+}

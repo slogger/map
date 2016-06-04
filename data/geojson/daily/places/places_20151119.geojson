@@ -1,0 +1,89 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148361378, 56.8323195042 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151118T234947+0600",
+      "endTime" : "20151119T103608+0600",
+      "place" : {
+        "id" : 277165476,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8323195042,
+          "lon" : 60.6148361378
+        }
+      },
+      "lastUpdate" : "20151119T055333Z",
+      "date" : "20151119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.588245578, 56.8296053801 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151119T105800+0600",
+      "endTime" : "20151119T111216+0600",
+      "place" : {
+        "id" : 284677029,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8296053801,
+          "lon" : 60.588245578
+        }
+      },
+      "lastUpdate" : "20151119T055333Z",
+      "date" : "20151119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151119T111217+0600",
+      "endTime" : "20151119T213459+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151119"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6149504608, 56.8329411755 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151119T215203+0600",
+      "endTime" : "20151120T104627+0600",
+      "place" : {
+        "id" : 278268791,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8329411755,
+          "lon" : 60.6149504608
+        }
+      },
+      "lastUpdate" : "20151120T053204Z",
+      "date" : "20151119"
+    }
+  } ]
+}

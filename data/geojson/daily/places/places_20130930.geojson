@@ -1,0 +1,70 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130930T085940+0600",
+      "endTime" : "20130930T202753+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20130930"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6185194416, 56.8601142867 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130930T205117+0600",
+      "endTime" : "20130930T205539+0600",
+      "place" : {
+        "id" : 65998970,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8601142867,
+          "lon" : 60.6185194416
+        }
+      },
+      "lastUpdate" : "20130930T162054Z",
+      "date" : "20130930"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130930T213428+0600",
+      "endTime" : "20131001T094017+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131001T060019Z",
+      "date" : "20130930"
+    }
+  } ]
+}

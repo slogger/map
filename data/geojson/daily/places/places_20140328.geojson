@@ -1,0 +1,246 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140327T213507+0600",
+      "endTime" : "20140328T092139+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140328T051952Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59704542160034, 56.83795205584336 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T103127+0600",
+      "endTime" : "20140328T105730+0600",
+      "place" : {
+        "id" : 77623587,
+        "name" : "Площадь 1905 года",
+        "type" : "foursquare",
+        "foursquareId" : "4c7cbe06398176b07edb1da8",
+        "location" : {
+          "lat" : 56.83795205584336,
+          "lon" : 60.59704542160034
+        }
+      },
+      "lastUpdate" : "20140328T080129Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59453487396241, 56.83620899112139 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T105730+0600",
+      "endTime" : "20140328T105826+0600",
+      "place" : {
+        "id" : 70827217,
+        "name" : "ТЦ Успенский",
+        "type" : "foursquare",
+        "foursquareId" : "4c7a726597028cfa0417defe",
+        "location" : {
+          "lat" : 56.83620899112139,
+          "lon" : 60.59453487396241
+        }
+      },
+      "lastUpdate" : "20140328T080129Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59453487396241, 56.83620899112139 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T111134+0600",
+      "endTime" : "20140328T113521+0600",
+      "place" : {
+        "id" : 70827217,
+        "name" : "ТЦ Успенский",
+        "type" : "foursquare",
+        "foursquareId" : "4c7a726597028cfa0417defe",
+        "location" : {
+          "lat" : 56.83620899112139,
+          "lon" : 60.59453487396241
+        }
+      },
+      "lastUpdate" : "20140328T080129Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5990505554, 56.8360045189 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T114004+0600",
+      "endTime" : "20140328T120107+0600",
+      "place" : {
+        "id" : 76438086,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360045189,
+          "lon" : 60.5990505554
+        }
+      },
+      "lastUpdate" : "20140328T082906Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6363297242, 56.842157794 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T123145+0600",
+      "endTime" : "20140328T125455+0600",
+      "place" : {
+        "id" : 84575475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.842157794,
+          "lon" : 60.6363297242
+        }
+      },
+      "lastUpdate" : "20140328T122725Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.504499741, 56.8239966505 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T140102+0600",
+      "endTime" : "20140328T145231+0600",
+      "place" : {
+        "id" : 98737947,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8239966505,
+          "lon" : 60.504499741
+        }
+      },
+      "lastUpdate" : "20140328T122725Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5070086492, 56.8249104577 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T145542+0600",
+      "endTime" : "20140328T160644+0600",
+      "place" : {
+        "id" : 98737948,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8249104577,
+          "lon" : 60.5070086492
+        }
+      },
+      "lastUpdate" : "20140328T144728Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T165020+0600",
+      "endTime" : "20140328T165535+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20140328T144728Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6539297164, 56.8438295107 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T182740+0600",
+      "endTime" : "20140328T211241+0600",
+      "place" : {
+        "id" : 98771262,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8438295107,
+          "lon" : 60.6539297164
+        }
+      },
+      "lastUpdate" : "20140328T175640Z",
+      "date" : "20140328"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61187267303467, 56.83843329174064 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140328T224928+0600",
+      "endTime" : "20140328T233538+0600",
+      "place" : {
+        "id" : 69433869,
+        "name" : "Pizza Mia / Пицца Мия",
+        "type" : "foursquare",
+        "foursquareId" : "4d73449f5f00370462fbeda0",
+        "location" : {
+          "lat" : 56.83843329174064,
+          "lon" : 60.61187267303467
+        }
+      },
+      "lastUpdate" : "20140328T191425Z",
+      "date" : "20140328"
+    }
+  } ]
+}

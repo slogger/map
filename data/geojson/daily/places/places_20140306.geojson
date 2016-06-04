@@ -1,0 +1,48 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140306T131632+0600",
+      "endTime" : "20140306T143637+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20140307T040312Z",
+      "date" : "20140306"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.572440764, 56.8921159421 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140306T150000+0600",
+      "endTime" : "20140307T002049+0600",
+      "place" : {
+        "id" : 94091491,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8921159421,
+          "lon" : 60.572440764
+        }
+      },
+      "lastUpdate" : "20140307T040312Z",
+      "date" : "20140306"
+    }
+  } ]
+}

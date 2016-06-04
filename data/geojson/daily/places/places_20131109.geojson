@@ -1,0 +1,133 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T170146+0600",
+      "endTime" : "20131109T181411+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131109T163118Z",
+      "date" : "20131109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60359734273205, 56.82697230624986 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131109T190306+0600",
+      "endTime" : "20131109T190804+0600",
+      "place" : {
+        "id" : 71375729,
+        "name" : "У Цирка",
+        "type" : "foursquare",
+        "foursquareId" : "522c457311d277f9ef6b4268",
+        "location" : {
+          "lat" : 56.82697230624986,
+          "lon" : 60.60359734273205
+        }
+      },
+      "lastUpdate" : "20131109T163118Z",
+      "date" : "20131109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6733308607, 56.8174356061 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131109T193011+0600",
+      "endTime" : "20131109T200154+0600",
+      "place" : {
+        "id" : 74011111,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8174356061,
+          "lon" : 60.6733308607
+        }
+      },
+      "lastUpdate" : "20131109T163118Z",
+      "date" : "20131109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6733308607, 56.8174356061 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131109T200154+0600",
+      "endTime" : "20131109T203427+0600",
+      "place" : {
+        "id" : 74011111,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8174356061,
+          "lon" : 60.6733308607
+        }
+      },
+      "lastUpdate" : "20131109T181424Z",
+      "date" : "20131109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.676933492, 56.817404845 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131109T203428+0600",
+      "endTime" : "20131109T211957+0600",
+      "place" : {
+        "id" : 74011135,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.817404845,
+          "lon" : 60.676933492
+        }
+      },
+      "lastUpdate" : "20131109T181424Z",
+      "date" : "20131109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6289970645, 56.8893303646 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131109T231309+0600",
+      "endTime" : "20131109T232936+0600",
+      "place" : {
+        "id" : 72457686,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8893303646,
+          "lon" : 60.6289970645
+        }
+      },
+      "lastUpdate" : "20131109T200756Z",
+      "date" : "20131109"
+    }
+  } ]
+}

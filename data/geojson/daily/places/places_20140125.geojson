@@ -1,0 +1,270 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140124T173746+0600",
+      "endTime" : "20140125T145328+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140125T115503Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T145945+0600",
+      "endTime" : "20140125T150540+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20140125T115503Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T153736+0600",
+      "endTime" : "20140125T154441+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140125T115503Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141971622, 56.8915098339 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T161214+0600",
+      "endTime" : "20140125T161523+0600",
+      "place" : {
+        "id" : 87379522,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8915098339,
+          "lon" : 60.6141971622
+        }
+      },
+      "lastUpdate" : "20140125T115503Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61378987764257, 56.88799574544797 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T162218+0600",
+      "endTime" : "20140125T163854+0600",
+      "place" : {
+        "id" : 71375807,
+        "name" : "остановка Заря",
+        "type" : "foursquare",
+        "foursquareId" : "4fae71c3e4b09cca618c9f91",
+        "location" : {
+          "lat" : 56.88799574544797,
+          "lon" : 60.61378987764257
+        }
+      },
+      "lastUpdate" : "20140125T115503Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6098007994, 56.9642900482 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T170141+0600",
+      "endTime" : "20140125T172734+0600",
+      "place" : {
+        "id" : 69787267,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9642900482,
+          "lon" : 60.6098007994
+        }
+      },
+      "lastUpdate" : "20140125T163832Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T175816+0600",
+      "endTime" : "20140125T194700+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140125T163832Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T201549+0600",
+      "endTime" : "20140125T201810+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140125T163832Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5756673304, 56.8881622932 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T203300+0600",
+      "endTime" : "20140125T203400+0600",
+      "place" : {
+        "id" : 87430802,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8881622932,
+          "lon" : 60.5756673304
+        }
+      },
+      "lastUpdate" : "20140125T163832Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T205246+0600",
+      "endTime" : "20140125T210724+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20140125T163832Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614325843703, 56.83967512565922 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T213126+0600",
+      "endTime" : "20140125T213341+0600",
+      "place" : {
+        "id" : 65246322,
+        "name" : "Viberoom",
+        "type" : "foursquare",
+        "foursquareId" : "516579aee4b04e0fe689eef6",
+        "location" : {
+          "lat" : 56.83967512565922,
+          "lon" : 60.614325843703
+        }
+      },
+      "lastUpdate" : "20140418T030343Z",
+      "date" : "20140125"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.592021499, 56.8142547193 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140125T214220+0600",
+      "endTime" : "20140126T014552+0600",
+      "place" : {
+        "id" : 82699017,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8142547193,
+          "lon" : 60.592021499
+        }
+      },
+      "lastUpdate" : "20140125T210801Z",
+      "date" : "20140125"
+    }
+  } ]
+}

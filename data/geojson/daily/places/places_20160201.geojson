@@ -1,0 +1,89 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160131T164607+0600",
+      "endTime" : "20160201T120105+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160201T071124Z",
+      "date" : "20160201"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.617126438, 56.8287556367 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160201T120821+0600",
+      "endTime" : "20160201T121725+0600",
+      "place" : {
+        "id" : 303067365,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8287556367,
+          "lon" : 60.617126438
+        }
+      },
+      "lastUpdate" : "20160201T071124Z",
+      "date" : "20160201"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160201T122435+0600",
+      "endTime" : "20160201T145954+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160201T101404Z",
+      "date" : "20160201"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160201T152504+0600",
+      "endTime" : "20160201T234438+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20160201"
+    }
+  } ]
+}

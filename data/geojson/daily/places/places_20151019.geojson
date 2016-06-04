@@ -1,0 +1,244 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151018T214829+0600",
+      "endTime" : "20151019T125530+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151019T082007Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T130105+0600",
+      "endTime" : "20151019T131310+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20151019T082007Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6070601292, 56.8876913359 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T132828+0600",
+      "endTime" : "20151019T133119+0600",
+      "place" : {
+        "id" : 100335997,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8876913359,
+          "lon" : 60.6070601292
+        }
+      },
+      "lastUpdate" : "20151019T082007Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6142069199, 56.8872295785 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T133547+0600",
+      "endTime" : "20151019T133750+0600",
+      "place" : {
+        "id" : 275935337,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8872295785,
+          "lon" : 60.6142069199
+        }
+      },
+      "lastUpdate" : "20151019T082007Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T135003+0600",
+      "endTime" : "20151019T143641+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20151019T111837Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6083456426, 56.8369606976 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T151156+0600",
+      "endTime" : "20151019T154443+0600",
+      "place" : {
+        "id" : 275969748,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8369606976,
+          "lon" : 60.6083456426
+        }
+      },
+      "lastUpdate" : "20151019T111837Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T155623+0600",
+      "endTime" : "20151019T171000+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151019T124858Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61006282418169, 56.84056250226312 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T172047+0600",
+      "endTime" : "20151019T174310+0600",
+      "place" : {
+        "id" : 271963191,
+        "name" : "McDonald's",
+        "type" : "foursquare",
+        "foursquareId" : "53e611b8498e457cc2d6b18f",
+        "location" : {
+          "lat" : 56.84056250226312,
+          "lon" : 60.61006282418169
+        }
+      },
+      "lastUpdate" : "20151019T124858Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T181545+0600",
+      "endTime" : "20151019T214943+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6285621094, 56.8895880016 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T221329+0600",
+      "endTime" : "20151019T223327+0600",
+      "place" : {
+        "id" : 276060643,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8895880016,
+          "lon" : 60.6285621094
+        }
+      },
+      "lastUpdate" : "20151019T172117Z",
+      "date" : "20151019"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T224211+0600",
+      "endTime" : "20151020T091400+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151020T053212Z",
+      "date" : "20151019"
+    }
+  } ]
+}

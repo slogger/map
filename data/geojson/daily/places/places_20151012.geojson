@@ -1,0 +1,115 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151012T010533+0600",
+      "endTime" : "20151012T161334+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151012T131611Z",
+      "date" : "20151012"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6089559, 56.8875438 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151012T164827+0600",
+      "endTime" : "20151012T165116+0600",
+      "place" : {
+        "id" : 90340960,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8875438,
+          "lon" : 60.6089559
+        }
+      },
+      "lastUpdate" : "20151012T131611Z",
+      "date" : "20151012"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151012T172454+0600",
+      "endTime" : "20151012T184017+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151012T144013Z",
+      "date" : "20151012"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58441683647013, 56.83393455589878 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151012T190654+0600",
+      "endTime" : "20151012T192050+0600",
+      "place" : {
+        "id" : 77461155,
+        "name" : "Попова 23а",
+        "type" : "foursquare",
+        "foursquareId" : "4ec5deb561af9e142dd87ede",
+        "location" : {
+          "lat" : 56.83393455589878,
+          "lon" : 60.58441683647013
+        }
+      },
+      "lastUpdate" : "20151012T144013Z",
+      "date" : "20151012"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151012T193005+0600",
+      "endTime" : "20151012T233328+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151012"
+    }
+  } ]
+}

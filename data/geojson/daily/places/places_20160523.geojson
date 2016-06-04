@@ -1,0 +1,177 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160522T184742+0600",
+      "endTime" : "20160523T062233+0600",
+      "place" : {
+        "id" : 277165475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8316409084,
+          "lon" : 60.6153290033
+        }
+      },
+      "lastUpdate" : "20160523T010525Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.589896, 56.830022 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T063202+0600",
+      "endTime" : "20160523T100252+0600",
+      "place" : {
+        "id" : 317449856,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.830022,
+          "lon" : 60.589896
+        }
+      },
+      "lastUpdate" : "20160523T102408Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T100252+0600",
+      "endTime" : "20160523T151049+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160523T102408Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61108628692485, 56.83920305604998 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T152620+0600",
+      "endTime" : "20160523T173906+0600",
+      "place" : {
+        "id" : 283080836,
+        "name" : "Red Cup",
+        "type" : "foursquare",
+        "foursquareId" : "54e2e10f498e1f5a1803605c",
+        "location" : {
+          "lat" : 56.83920305604998,
+          "lon" : 60.61108628692485
+        }
+      },
+      "lastUpdate" : "20160523T132542Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T175456+0600",
+      "endTime" : "20160523T201238+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6026485918, 56.8311072836 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T202800+0600",
+      "endTime" : "20160523T205334+0600",
+      "place" : {
+        "id" : 283963002,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8311072836,
+          "lon" : 60.6026485918
+        }
+      },
+      "lastUpdate" : "20160523T163521Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614360165, 56.8345535697 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T213111+0600",
+      "endTime" : "20160523T213939+0600",
+      "place" : {
+        "id" : 278380714,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8345535697,
+          "lon" : 60.614360165
+        }
+      },
+      "lastUpdate" : "20160523T163521Z",
+      "date" : "20160523"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160523T213940+0600",
+      "endTime" : "20160524T094423+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160523"
+    }
+  } ]
+}

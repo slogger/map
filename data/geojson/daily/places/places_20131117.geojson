@@ -1,0 +1,114 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.603926627678774, 56.908557581167614 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T233146+0600",
+      "endTime" : "20131117T145119+0600",
+      "place" : {
+        "id" : 78201891,
+        "name" : "Новаторов 8/2",
+        "type" : "foursquare",
+        "foursquareId" : "50a7a6ece4b0024edf499a0c",
+        "location" : {
+          "lat" : 56.908557581167614,
+          "lon" : 60.603926627678774
+        }
+      },
+      "lastUpdate" : "20131201T025044Z",
+      "date" : "20131117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6044695829, 56.9070338291 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131117T145422+0600",
+      "endTime" : "20131117T150936+0600",
+      "place" : {
+        "id" : 75672023,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9070338291,
+          "lon" : 60.6044695829
+        }
+      },
+      "lastUpdate" : "20131117T115726Z",
+      "date" : "20131117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6140706933, 56.9079951981 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131117T151440+0600",
+      "endTime" : "20131117T152609+0600",
+      "place" : {
+        "id" : 75672024,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9079951981,
+          "lon" : 60.6140706933
+        }
+      },
+      "lastUpdate" : "20131117T115726Z",
+      "date" : "20131117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131117T154712+0600",
+      "endTime" : "20131117T155814+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20131127T040935Z",
+      "date" : "20131117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131117T160940+0600",
+      "endTime" : "20131118T080418+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131118T032628Z",
+      "date" : "20131117"
+    }
+  } ]
+}

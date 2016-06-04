@@ -1,0 +1,114 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.592021499, 56.8142547193 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140315T004847+0600",
+      "endTime" : "20140315T052022+0600",
+      "place" : {
+        "id" : 82699017,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8142547193,
+          "lon" : 60.592021499
+        }
+      },
+      "lastUpdate" : "20140315T022020Z",
+      "date" : "20140315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.592021499, 56.8142547193 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140315T061325+0600",
+      "endTime" : "20140315T084218+0600",
+      "place" : {
+        "id" : 82699017,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8142547193,
+          "lon" : 60.592021499
+        }
+      },
+      "lastUpdate" : "20140315T035121Z",
+      "date" : "20140315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140315T084914+0600",
+      "endTime" : "20140315T132856+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140315T141919+0600",
+      "endTime" : "20140315T142655+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140315T191557Z",
+      "date" : "20140315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140315T234456+0600",
+      "endTime" : "20140316T141009+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140316T143109Z",
+      "date" : "20140315"
+    }
+  } ]
+}

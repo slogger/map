@@ -1,0 +1,239 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151026T231407+0600",
+      "endTime" : "20151027T094049+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151027T044626Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T095659+0600",
+      "endTime" : "20151027T113344+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151027T073901Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T115246+0600",
+      "endTime" : "20151027T133843+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151027T095839Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T135432+0600",
+      "endTime" : "20151027T184212+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20151027T133747Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T185550+0600",
+      "endTime" : "20151027T193620+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20151027T164620Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614360165, 56.8345535697 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T194151+0600",
+      "endTime" : "20151027T195253+0600",
+      "place" : {
+        "id" : 278380714,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8345535697,
+          "lon" : 60.614360165
+        }
+      },
+      "lastUpdate" : "20151027T164620Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6539195075, 56.8401003291 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T200750+0600",
+      "endTime" : "20151027T201239+0600",
+      "place" : {
+        "id" : 278393388,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8401003291,
+          "lon" : 60.6539195075
+        }
+      },
+      "lastUpdate" : "20151027T164620Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6517759848, 56.8397418395 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T201746+0600",
+      "endTime" : "20151027T221447+0600",
+      "place" : {
+        "id" : 278393389,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8397418395,
+          "lon" : 60.6517759848
+        }
+      },
+      "lastUpdate" : "20151027T180646Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.655766527, 56.8381737748 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T221448+0600",
+      "endTime" : "20151027T222509+0600",
+      "place" : {
+        "id" : 278393390,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8381737748,
+          "lon" : 60.655766527
+        }
+      },
+      "lastUpdate" : "20151027T180646Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6160574467, 56.8365393647 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T225041+0600",
+      "endTime" : "20151027T225531+0600",
+      "place" : {
+        "id" : 267638045,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8365393647,
+          "lon" : 60.6160574467
+        }
+      },
+      "lastUpdate" : "20151027T180646Z",
+      "date" : "20151027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6142783207, 56.831926577 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151027T230612+0600",
+      "endTime" : "20151028T093345+0600",
+      "place" : {
+        "id" : 278463715,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.831926577,
+          "lon" : 60.6142783207
+        }
+      },
+      "lastUpdate" : "20151028T080529Z",
+      "date" : "20151027"
+    }
+  } ]
+}

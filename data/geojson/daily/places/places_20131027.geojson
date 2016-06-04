@@ -1,0 +1,227 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.40775351682767, 57.06020738128513 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131026T214423+0600",
+      "endTime" : "20131027T123827+0600",
+      "place" : {
+        "id" : 71375592,
+        "name" : "База отдыха \"Селен\"",
+        "type" : "foursquare",
+        "foursquareId" : "4e3cf67bb0fb875af85bd683",
+        "location" : {
+          "lat" : 57.06020738128513,
+          "lon" : 60.40775351682767
+        }
+      },
+      "lastUpdate" : "20131028T015457Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.40775351682767, 57.06020738128513 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T124150+0600",
+      "endTime" : "20131027T125822+0600",
+      "place" : {
+        "id" : 71375592,
+        "name" : "База отдыха \"Селен\"",
+        "type" : "foursquare",
+        "foursquareId" : "4e3cf67bb0fb875af85bd683",
+        "location" : {
+          "lat" : 57.06020738128513,
+          "lon" : 60.40775351682767
+        }
+      },
+      "lastUpdate" : "20131028T015527Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T134332+0600",
+      "endTime" : "20131027T135058+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140418T030405Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T141030+0600",
+      "endTime" : "20131027T142810+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20131028T015544Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5963218996, 56.8321997879 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T144936+0600",
+      "endTime" : "20131027T145024+0600",
+      "place" : {
+        "id" : 71235576,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8321997879,
+          "lon" : 60.5963218996
+        }
+      },
+      "lastUpdate" : "20131027T103241Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6054662143, 56.8262019527 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T145324+0600",
+      "endTime" : "20131027T153546+0600",
+      "place" : {
+        "id" : 71375746,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8262019527,
+          "lon" : 60.6054662143
+        }
+      },
+      "lastUpdate" : "20131028T015652Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61378987764257, 56.88799574544797 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T155711+0600",
+      "endTime" : "20131027T160821+0600",
+      "place" : {
+        "id" : 71375807,
+        "name" : "остановка Заря",
+        "type" : "foursquare",
+        "foursquareId" : "4fae71c3e4b09cca618c9f91",
+        "location" : {
+          "lat" : 56.88799574544797,
+          "lon" : 60.61378987764257
+        }
+      },
+      "lastUpdate" : "20131028T015733Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6273546484, 56.889330929 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T162216+0600",
+      "endTime" : "20131027T173417+0600",
+      "place" : {
+        "id" : 71375900,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.889330929,
+          "lon" : 60.6273546484
+        }
+      },
+      "lastUpdate" : "20131028T015837Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T175140+0600",
+      "endTime" : "20131027T175810+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20131028T015905Z",
+      "date" : "20131027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131027T183742+0600",
+      "endTime" : "20131027T205002+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T020022Z",
+      "date" : "20131027"
+    }
+  } ]
+}

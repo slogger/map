@@ -1,0 +1,176 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140907T161808+0600",
+      "endTime" : "20140908T135221+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140908T153614Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.62663474524626, 56.8894633580156 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T142928+0600",
+      "endTime" : "20140908T165139+0600",
+      "place" : {
+        "id" : 66753922,
+        "name" : "МОУ СОШ №67",
+        "type" : "foursquare",
+        "foursquareId" : "4e991c65f5b9a9af679924c3",
+        "location" : {
+          "lat" : 56.8894633580156,
+          "lon" : 60.62663474524626
+        }
+      },
+      "lastUpdate" : "20140908T153629Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6302238717, 56.8628900249 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T173438+0600",
+      "endTime" : "20140908T193324+0600",
+      "place" : {
+        "id" : 154794864,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8628900249,
+          "lon" : 60.6302238717
+        }
+      },
+      "lastUpdate" : "20140908T153655Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6310856923, 56.8643979424 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T193324+0600",
+      "endTime" : "20140908T194331+0600",
+      "place" : {
+        "id" : 154794966,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8643979424,
+          "lon" : 60.6310856923
+        }
+      },
+      "lastUpdate" : "20140908T153655Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6316873799, 56.8664310288 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T194535+0600",
+      "endTime" : "20140908T195941+0600",
+      "place" : {
+        "id" : 154794967,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8664310288,
+          "lon" : 60.6316873799
+        }
+      },
+      "lastUpdate" : "20140908T153655Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6462316413, 56.8561211989 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T203600+0600",
+      "endTime" : "20140908T205916+0600",
+      "place" : {
+        "id" : 154794968,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8561211989,
+          "lon" : 60.6462316413
+        }
+      },
+      "lastUpdate" : "20140908T175222Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5990505554, 56.8360045189 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T213312+0600",
+      "endTime" : "20140908T213735+0600",
+      "place" : {
+        "id" : 76438086,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360045189,
+          "lon" : 60.5990505554
+        }
+      },
+      "lastUpdate" : "20140908T175222Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T220617+0600",
+      "endTime" : "20140909T180212+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140909T172241Z",
+      "date" : "20140908"
+    }
+  } ]
+}

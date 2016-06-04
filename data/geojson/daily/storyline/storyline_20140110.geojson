@@ -1,0 +1,113 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 60.5955763386, 56.8910202635 ], [ 60.5897045841, 56.8931651461 ], [ 60.5895518175, 56.8931890871 ], [ 60.5895217864, 56.8931919262 ], [ 60.5894977061, 56.8931983652 ], [ 60.589466616, 56.8932041718 ], [ 60.5879847401, 56.8935584507 ], [ 60.5866619547, 56.8938695606 ], [ 60.5852446353, 56.8942019476 ], [ 60.585110125, 56.8942323715 ], [ 60.5850555411, 56.8942177793 ], [ 60.583588007, 56.8935920391 ], [ 60.5824035582, 56.8930148051 ], [ 60.581216897, 56.8924364661 ], [ 60.580957551, 56.8923100653 ], [ 60.5809276527, 56.8922996687 ], [ 60.5808981784, 56.8923040466 ], [ 60.5808553123, 56.892228621 ], [ 60.5808405053, 56.8922219539 ], [ 60.5796934414, 56.8917137493 ], [ 60.5785737875, 56.8912088384 ], [ 60.5774526185, 56.8907033751 ], [ 60.5773406367, 56.8906525979 ], [ 60.5772650454, 56.8906411038 ], [ 60.5759418409, 56.8907401074 ], [ 60.5749937664, 56.8909168743 ], [ 60.5740384232, 56.8910951141 ], [ 60.5738760203, 56.8911257349 ], [ 60.5721325365, 56.891013545 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140109T233325+0600",
+      "endTime" : "20140110T001804+0600",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T000000+0600",
+        "endTime" : "20140110T001805+0600",
+        "duration" : 1085.0,
+        "distance" : 1845.0,
+        "steps" : 2091
+      } ],
+      "lastUpdate" : "20140109T200110Z",
+      "date" : "20140110"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140110T001804+0600",
+      "endTime" : "20140111T161625+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T005828+0600",
+        "endTime" : "20140110T005839+0600",
+        "duration" : 11.0,
+        "distance" : 4.0,
+        "steps" : 7
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T062953+0600",
+        "endTime" : "20140110T063023+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T122052+0600",
+        "endTime" : "20140110T122142+0600",
+        "duration" : 50.0,
+        "distance" : 37.0,
+        "steps" : 75
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T133345+0600",
+        "endTime" : "20140110T133415+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T191140+0600",
+        "endTime" : "20140110T191210+0600",
+        "duration" : 30.0,
+        "distance" : 20.0,
+        "steps" : 41
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T215645+0600",
+        "endTime" : "20140110T215715+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140110T221345+0600",
+        "endTime" : "20140110T221515+0600",
+        "duration" : 90.0,
+        "distance" : 51.0,
+        "steps" : 101
+      } ],
+      "lastUpdate" : "20140111T161522Z",
+      "date" : "20140110"
+    }
+  } ]
+}

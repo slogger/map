@@ -1,0 +1,200 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148573312, 56.8356758802 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151116T233646+0600",
+      "endTime" : "20151117T010116+0600",
+      "place" : {
+        "id" : 284100610,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8356758802,
+          "lon" : 60.6148573312
+        }
+      },
+      "lastUpdate" : "20151117T034113Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T090216+0600",
+      "endTime" : "20151117T104412+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T105909+0600",
+      "endTime" : "20151117T123100+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151117T080441Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6138876007, 56.8321437088 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T124613+0600",
+      "endTime" : "20151117T145632+0600",
+      "place" : {
+        "id" : 279249044,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8321437088,
+          "lon" : 60.6138876007
+        }
+      },
+      "lastUpdate" : "20151117T140823Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T151057+0600",
+      "endTime" : "20151117T194209+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151117T140823Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6208564335133, 56.84062789010998 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T194807+0600",
+      "endTime" : "20151117T201854+0600",
+      "place" : {
+        "id" : 283080676,
+        "name" : "3-Я УРАЛЬСКАЯ ИНДУСТРИАЛЬНАЯ БИЕННАЛЕ СОВРЕМЕННОГО ИСКУССТВА",
+        "type" : "foursquare",
+        "foursquareId" : "55faa3df498e25445cbf8723",
+        "location" : {
+          "lat" : 56.84062789010998,
+          "lon" : 60.6208564335133
+        }
+      },
+      "lastUpdate" : "20151117T153938Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6550834114, 56.8392961396 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T204007+0600",
+      "endTime" : "20151117T231244+0600",
+      "place" : {
+        "id" : 105045163,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8392961396,
+          "lon" : 60.6550834114
+        }
+      },
+      "lastUpdate" : "20151117T203523Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6444432018, 56.8429376836 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T233211+0600",
+      "endTime" : "20151117T233803+0600",
+      "place" : {
+        "id" : 70797603,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8429376836,
+          "lon" : 60.6444432018
+        }
+      },
+      "lastUpdate" : "20151117T203523Z",
+      "date" : "20151117"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151117T235802+0600",
+      "endTime" : "20151118T003442+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151117T233656Z",
+      "date" : "20151117"
+    }
+  } ]
+}

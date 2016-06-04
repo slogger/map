@@ -1,0 +1,202 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T005640+0600",
+      "endTime" : "20151015T091334+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151015T053217Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T101147+0600",
+      "endTime" : "20151015T152057+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.615402964, 56.8403294707 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T153825+0600",
+      "endTime" : "20151015T170000+0600",
+      "place" : {
+        "id" : 274646188,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8403294707,
+          "lon" : 60.615402964
+        }
+      },
+      "lastUpdate" : "20151015T113608Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T170340+0600",
+      "endTime" : "20151015T180654+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151015T143826Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6135725863, 56.8410282941 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T180655+0600",
+      "endTime" : "20151015T183407+0600",
+      "place" : {
+        "id" : 274695079,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8410282941,
+          "lon" : 60.6135725863
+        }
+      },
+      "lastUpdate" : "20151015T143826Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61002971335657, 56.83937449142041 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T184532+0600",
+      "endTime" : "20151015T184952+0600",
+      "place" : {
+        "id" : 103871477,
+        "name" : "Ленина, 41",
+        "type" : "foursquare",
+        "foursquareId" : "4f13b850e4b0f2c213b1ca28",
+        "location" : {
+          "lat" : 56.83937449142041,
+          "lon" : 60.61002971335657
+        }
+      },
+      "lastUpdate" : "20151015T143826Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T190209+0600",
+      "endTime" : "20151015T191144+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20151015T143826Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T192809+0600",
+      "endTime" : "20151015T235218+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5901498431, 56.8296612451 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T235219+0600",
+      "endTime" : "20151015T235706+0600",
+      "place" : {
+        "id" : 274767197,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8296612451,
+          "lon" : 60.5901498431
+        }
+      },
+      "lastUpdate" : "20151015T204225Z",
+      "date" : "20151015"
+    }
+  } ]
+}

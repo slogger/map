@@ -1,0 +1,158 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151019T224211+0600",
+      "endTime" : "20151020T091400+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151020T053212Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T093531+0600",
+      "endTime" : "20151020T094657+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20151020T053212Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T100457+0600",
+      "endTime" : "20151020T172044+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151020T155757Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T174554+0600",
+      "endTime" : "20151020T221805+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5983277863, 56.8300055913 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T223433+0600",
+      "endTime" : "20151020T223748+0600",
+      "place" : {
+        "id" : 276335178,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8300055913,
+          "lon" : 60.5983277863
+        }
+      },
+      "lastUpdate" : "20151020T182149Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6128810239, 56.8867471539 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T231205+0600",
+      "endTime" : "20151020T231828+0600",
+      "place" : {
+        "id" : 276349175,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8867471539,
+          "lon" : 60.6128810239
+        }
+      },
+      "lastUpdate" : "20151020T192513Z",
+      "date" : "20151020"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151020T235114+0600",
+      "endTime" : "20151021T133646+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151021T095929Z",
+      "date" : "20151020"
+    }
+  } ]
+}

@@ -1,0 +1,178 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160518T192439+0600",
+      "endTime" : "20160519T111937+0600",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20160519T054726Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T113647+0600",
+      "endTime" : "20160519T131348+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160519T085047Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61114137375818, 56.83909650229245 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T132445+0600",
+      "endTime" : "20160519T134828+0600",
+      "place" : {
+        "id" : 103871559,
+        "name" : "ост. Театр музкомедии",
+        "type" : "foursquare",
+        "foursquareId" : "4f61d238e4b07f728fbbe16d",
+        "location" : {
+          "lat" : 56.83909650229245,
+          "lon" : 60.61114137375818
+        }
+      },
+      "lastUpdate" : "20160519T085047Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6160574467, 56.8365393647 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T170316+0600",
+      "endTime" : "20160519T170944+0600",
+      "place" : {
+        "id" : 267638045,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8365393647,
+          "lon" : 60.6160574467
+        }
+      },
+      "lastUpdate" : "20160519T120048Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T171856+0600",
+      "endTime" : "20160519T180551+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153953151, 56.8310648585 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T180833+0600",
+      "endTime" : "20160519T181227+0600",
+      "place" : {
+        "id" : 278156786,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8310648585,
+          "lon" : 60.6153953151
+        }
+      },
+      "lastUpdate" : "20160519T133251Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T191219+0600",
+      "endTime" : "20160519T223920+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20160520T045253Z",
+      "date" : "20160519"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6159393984, 56.8320523551 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160519T232249+0600",
+      "endTime" : "20160520T092746+0600",
+      "place" : {
+        "id" : 284366039,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8320523551,
+          "lon" : 60.6159393984
+        }
+      },
+      "lastUpdate" : "20160520T045253Z",
+      "date" : "20160519"
+    }
+  } ]
+}

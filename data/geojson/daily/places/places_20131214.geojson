@@ -1,0 +1,157 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131213T182820+0600",
+      "endTime" : "20131214T100336+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131214T064112Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T110142+0600",
+      "endTime" : "20131214T133754+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6102352304, 56.8393133365 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T135318+0600",
+      "endTime" : "20131214T135414+0600",
+      "place" : {
+        "id" : 80256391,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8393133365,
+          "lon" : 60.6102352304
+        }
+      },
+      "lastUpdate" : "20131214T133743Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614325843703, 56.83967512565922 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T142120+0600",
+      "endTime" : "20131214T143909+0600",
+      "place" : {
+        "id" : 65246322,
+        "name" : "Viberoom",
+        "type" : "foursquare",
+        "foursquareId" : "516579aee4b04e0fe689eef6",
+        "location" : {
+          "lat" : 56.83967512565922,
+          "lon" : 60.614325843703
+        }
+      },
+      "lastUpdate" : "20140418T030343Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6356825985, 56.8429394993 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T144501+0600",
+      "endTime" : "20131214T193424+0600",
+      "place" : {
+        "id" : 80256392,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8429394993,
+          "lon" : 60.6356825985
+        }
+      },
+      "lastUpdate" : "20131214T152721Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5710467729, 56.8997332363 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T204236+0600",
+      "endTime" : "20131214T204359+0600",
+      "place" : {
+        "id" : 80276095,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8997332363,
+          "lon" : 60.5710467729
+        }
+      },
+      "lastUpdate" : "20131214T152721Z",
+      "date" : "20131214"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131214T210154+0600",
+      "endTime" : "20131215T083234+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131215T080548Z",
+      "date" : "20131214"
+    }
+  } ]
+}

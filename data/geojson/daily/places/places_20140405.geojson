@@ -1,0 +1,135 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140404T163343+0600",
+      "endTime" : "20140405T135115+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140405T090829Z",
+      "date" : "20140405"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.587582706, 56.8314344633 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140405T144057+0600",
+      "endTime" : "20140405T170610+0600",
+      "place" : {
+        "id" : 100195377,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8314344633,
+          "lon" : 60.587582706
+        }
+      },
+      "lastUpdate" : "20140405T134410Z",
+      "date" : "20140405"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140405T171854+0600",
+      "endTime" : "20140405T172537+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20140405T134410Z",
+      "date" : "20140405"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6237818134, 56.838792292 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140405T175441+0600",
+      "endTime" : "20140405T203120+0600",
+      "place" : {
+        "id" : 100679516,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.838792292,
+          "lon" : 60.6237818134
+        }
+      },
+      "lastUpdate" : "20140405T191506Z",
+      "date" : "20140405"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6007673792, 56.8341905704 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140405T205855+0600",
+      "endTime" : "20140405T211540+0600",
+      "place" : {
+        "id" : 92938227,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8341905704,
+          "lon" : 60.6007673792
+        }
+      },
+      "lastUpdate" : "20140405T205455Z",
+      "date" : "20140405"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60054302215576, 56.82857258964238 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140405T214440+0600",
+      "endTime" : "20140405T215652+0600",
+      "place" : {
+        "id" : 77461100,
+        "name" : "Купец",
+        "type" : "foursquare",
+        "foursquareId" : "4c07c47d624def3bcf15253c",
+        "location" : {
+          "lat" : 56.82857258964238,
+          "lon" : 60.60054302215576
+        }
+      },
+      "lastUpdate" : "20140405T205455Z",
+      "date" : "20140405"
+    }
+  } ]
+}

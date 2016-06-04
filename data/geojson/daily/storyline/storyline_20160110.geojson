@@ -1,0 +1,62 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160109T212641+0600",
+      "endTime" : "20160111T164411+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160110T151455+0600",
+        "endTime" : "20160110T151546+0600",
+        "duration" : 51.0,
+        "distance" : 31.0,
+        "steps" : 61
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160110T185525+0600",
+        "endTime" : "20160110T185535+0600",
+        "duration" : 10.0,
+        "distance" : 5.0,
+        "steps" : 7
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160110T223123+0600",
+        "endTime" : "20160110T223225+0600",
+        "duration" : 62.0,
+        "distance" : 37.0,
+        "steps" : 75
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160110T233849+0600",
+        "endTime" : "20160110T233858+0600",
+        "duration" : 9.0,
+        "distance" : 5.0,
+        "steps" : 6
+      } ],
+      "lastUpdate" : "20160111T111429Z",
+      "date" : "20160110"
+    }
+  } ]
+}

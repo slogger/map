@@ -1,0 +1,95 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140330T220013+0600",
+      "endTime" : "20140331T125700+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140331T084805Z",
+      "date" : "20140331"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.596251487731934, 56.83629702663897 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140331T134905+0600",
+      "endTime" : "20140331T135851+0600",
+      "place" : {
+        "id" : 99703772,
+        "name" : "ЦУМ",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e297b87003704c5a36b99",
+        "location" : {
+          "lat" : 56.83629702663897,
+          "lon" : 60.596251487731934
+        }
+      },
+      "lastUpdate" : "20140401T043734Z",
+      "date" : "20140331"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.53831577301026, 56.816994690451196 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140331T141502+0600",
+      "endTime" : "20140331T142621+0600",
+      "place" : {
+        "id" : 99703904,
+        "name" : "ТРЦ Радуга Парк",
+        "type" : "foursquare",
+        "foursquareId" : "4fca0046e4b09ca09f67e5bd",
+        "location" : {
+          "lat" : 56.816994690451196,
+          "lon" : 60.53831577301026
+        }
+      },
+      "lastUpdate" : "20140401T043918Z",
+      "date" : "20140331"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.53831577301026, 56.816994690451196 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140331T142622+0600",
+      "endTime" : "20140331T151303+0600",
+      "place" : {
+        "id" : 99703904,
+        "name" : "ТРЦ Радуга Парк",
+        "type" : "foursquare",
+        "foursquareId" : "4fca0046e4b09ca09f67e5bd",
+        "location" : {
+          "lat" : 56.816994690451196,
+          "lon" : 60.53831577301026
+        }
+      },
+      "lastUpdate" : "20140401T043855Z",
+      "date" : "20140331"
+    }
+  } ]
+}

@@ -1,0 +1,230 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131024T224409+0600",
+      "endTime" : "20131025T072955+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6466405464, 56.8406041083 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T082352+0600",
+      "endTime" : "20131025T082942+0600",
+      "place" : {
+        "id" : 70755841,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8406041083,
+          "lon" : 60.6466405464
+        }
+      },
+      "lastUpdate" : "20131025T091415Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T083734+0600",
+      "endTime" : "20131025T091514+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20131201T024541Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T094239+0600",
+      "endTime" : "20131025T155559+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T155803+0600",
+      "endTime" : "20131025T160812+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20131025T133539Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60093770780891, 56.82897930567151 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T164130+0600",
+      "endTime" : "20131025T165139+0600",
+      "place" : {
+        "id" : 70826811,
+        "name" : "Кассы в Гринвиче",
+        "type" : "foursquare",
+        "foursquareId" : "51497da4e4b03b3a7e6d1080",
+        "location" : {
+          "lat" : 56.82897930567151,
+          "lon" : 60.60093770780891
+        }
+      },
+      "lastUpdate" : "20131025T160309Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60715198516846, 56.83394934199781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T170915+0600",
+      "endTime" : "20131025T172746+0600",
+      "place" : {
+        "id" : 70826847,
+        "name" : "Памятник The Beatles",
+        "type" : "foursquare",
+        "foursquareId" : "4c9dbe0346978cfa96a59a7f",
+        "location" : {
+          "lat" : 56.83394934199781,
+          "lon" : 60.60715198516846
+        }
+      },
+      "lastUpdate" : "20131025T160321Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T174357+0600",
+      "endTime" : "20131025T174635+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20131025T160508Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.645647, 56.843468 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T182624+0600",
+      "endTime" : "20131025T183442+0600",
+      "place" : {
+        "id" : 70826944,
+        "name" : "Трамвайная остановка \"УПИ\"",
+        "type" : "foursquare",
+        "foursquareId" : "4f97fbf2e4b04b2e5f9eb4a3",
+        "location" : {
+          "lat" : 56.843468,
+          "lon" : 60.645647
+        }
+      },
+      "lastUpdate" : "20131025T160346Z",
+      "date" : "20131025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131025T193638+0600",
+      "endTime" : "20131026T133538+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131025"
+    }
+  } ]
+}

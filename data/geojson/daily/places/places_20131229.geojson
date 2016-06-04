@@ -1,0 +1,113 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131228T212656+0600",
+      "endTime" : "20131229T140120+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131229T112631Z",
+      "date" : "20131229"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6016580647, 56.8281006185 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131229T144957+0600",
+      "endTime" : "20131229T150437+0600",
+      "place" : {
+        "id" : 76884072,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8281006185,
+          "lon" : 60.6016580647
+        }
+      },
+      "lastUpdate" : "20131229T112631Z",
+      "date" : "20131229"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5975495524, 56.8362113211 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131229T151323+0600",
+      "endTime" : "20131229T155225+0600",
+      "place" : {
+        "id" : 74811263,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8362113211,
+          "lon" : 60.5975495524
+        }
+      },
+      "lastUpdate" : "20131229T112631Z",
+      "date" : "20131229"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773811340332, 56.88984680175781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131229T163237+0600",
+      "endTime" : "20131229T163337+0600",
+      "place" : {
+        "id" : 65948581,
+        "name" : "б-р. Культуры 25",
+        "type" : "foursquare",
+        "foursquareId" : "5242eabd11d2daa4bdc2481c",
+        "location" : {
+          "lat" : 56.88984680175781,
+          "lon" : 60.5773811340332
+        }
+      },
+      "lastUpdate" : "20131229T112631Z",
+      "date" : "20131229"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131229T164127+0600",
+      "endTime" : "20131230T114559+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131230T070257Z",
+      "date" : "20131229"
+    }
+  } ]
+}

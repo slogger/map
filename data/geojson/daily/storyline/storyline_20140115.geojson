@@ -1,0 +1,81 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140115T001828+0600",
+      "endTime" : "20140116T182158+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T071045+0600",
+        "endTime" : "20140115T071115+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T102942+0600",
+        "endTime" : "20140115T103012+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T183713+0600",
+        "endTime" : "20140115T183743+0600",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T190343+0600",
+        "endTime" : "20140115T190443+0600",
+        "duration" : 60.0,
+        "distance" : 50.0,
+        "steps" : 101
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T212232+0600",
+        "endTime" : "20140115T212432+0600",
+        "duration" : 120.0,
+        "distance" : 70.0,
+        "steps" : 141
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140115T234238+0600",
+        "endTime" : "20140115T234308+0600",
+        "duration" : 30.0,
+        "distance" : 10.0,
+        "steps" : 19
+      } ],
+      "lastUpdate" : "20140116T153218Z",
+      "date" : "20140115"
+    }
+  } ]
+}

@@ -1,0 +1,113 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160421T172455+0600",
+      "endTime" : "20160422T074055+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160422"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59073, 56.829913 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160422T080544+0600",
+      "endTime" : "20160422T093104+0600",
+      "place" : {
+        "id" : 314160425,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.829913,
+          "lon" : 60.59073
+        }
+      },
+      "lastUpdate" : "20160422T061504Z",
+      "date" : "20160422"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160422T093329+0600",
+      "endTime" : "20160422T182438+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20160422"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160422T185954+0600",
+      "endTime" : "20160422T203735+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160422T161033Z",
+      "date" : "20160422"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.619427, 56.835667 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160422T205150+0600",
+      "endTime" : "20160422T205353+0600",
+      "place" : {
+        "id" : 318097179,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.835667,
+          "lon" : 60.619427
+        }
+      },
+      "lastUpdate" : "20160422T161033Z",
+      "date" : "20160422"
+    }
+  } ]
+}

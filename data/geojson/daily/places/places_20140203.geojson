@@ -1,0 +1,132 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5726651629, 56.8916657547 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140202T181834+0600",
+      "endTime" : "20140203T143357+0600",
+      "place" : {
+        "id" : 88761075,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8916657547,
+          "lon" : 60.5726651629
+        }
+      },
+      "lastUpdate" : "20140203T095044Z",
+      "date" : "20140203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5779907181, 56.8877452351 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140203T143922+0600",
+      "endTime" : "20140203T145759+0600",
+      "place" : {
+        "id" : 88872304,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8877452351,
+          "lon" : 60.5779907181
+        }
+      },
+      "lastUpdate" : "20140203T144204Z",
+      "date" : "20140203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.617725267, 56.828644712 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140203T154610+0600",
+      "endTime" : "20140203T154910+0600",
+      "place" : {
+        "id" : 88907688,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.828644712,
+          "lon" : 60.617725267
+        }
+      },
+      "lastUpdate" : "20140203T144204Z",
+      "date" : "20140203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6020516871, 56.8583022135 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140203T161119+0600",
+      "endTime" : "20140203T170629+0600",
+      "place" : {
+        "id" : 88907689,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8583022135,
+          "lon" : 60.6020516871
+        }
+      },
+      "lastUpdate" : "20140203T144211Z",
+      "date" : "20140203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59453487396241, 56.83620899112139 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140203T173856+0600",
+      "endTime" : "20140203T174451+0600",
+      "place" : {
+        "id" : 70827217,
+        "name" : "ТЦ Успенский",
+        "type" : "foursquare",
+        "foursquareId" : "4c7a726597028cfa0417defe",
+        "location" : {
+          "lat" : 56.83620899112139,
+          "lon" : 60.59453487396241
+        }
+      },
+      "lastUpdate" : "20140203T144211Z",
+      "date" : "20140203"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5729653187, 56.8897570061 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140203T182901+0600",
+      "endTime" : "20140204T063721+0600",
+      "place" : {
+        "id" : 68834879,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8897570061,
+          "lon" : 60.5729653187
+        }
+      },
+      "lastUpdate" : "20140204T060233Z",
+      "date" : "20140203"
+    }
+  } ]
+}

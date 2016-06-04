@@ -1,0 +1,158 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140424T225711+0600",
+      "endTime" : "20140425T101641+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140425T114951Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5733956962, 56.8913420455 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T104933+0600",
+      "endTime" : "20140425T115443+0600",
+      "place" : {
+        "id" : 67045601,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8913420455,
+          "lon" : 60.5733956962
+        }
+      },
+      "lastUpdate" : "20140425T114952Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61652898788452, 56.84045793598666 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T130341+0600",
+      "endTime" : "20140425T133415+0600",
+      "place" : {
+        "id" : 65297944,
+        "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+        "type" : "foursquare",
+        "foursquareId" : "4c9fbb457c096dcb0e2de1d1",
+        "location" : {
+          "lat" : 56.84045793598666,
+          "lon" : 60.61652898788452
+        }
+      },
+      "lastUpdate" : "20140425T114952Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T133807+0600",
+      "endTime" : "20140425T155823+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6141383865, 56.8419563375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T162744+0600",
+      "endTime" : "20140425T181216+0600",
+      "place" : {
+        "id" : 65062140,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8419563375,
+          "lon" : 60.6141383865
+        }
+      },
+      "lastUpdate" : "20140426T031258Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60352563858032, 56.83812811847457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T183401+0600",
+      "endTime" : "20140425T184121+0600",
+      "place" : {
+        "id" : 103871351,
+        "name" : "Плотинка",
+        "type" : "foursquare",
+        "foursquareId" : "4c78a096566db60c487f420e",
+        "location" : {
+          "lat" : 56.83812811847457,
+          "lon" : 60.60352563858032
+        }
+      },
+      "lastUpdate" : "20140426T031258Z",
+      "date" : "20140425"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140425T190556+0600",
+      "endTime" : "20140425T200148+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140426T104643Z",
+      "date" : "20140425"
+    }
+  } ]
+}

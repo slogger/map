@@ -1,0 +1,286 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140914T225716+0600",
+      "endTime" : "20140915T093831+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140915T061714Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6164813442, 56.8424540402 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T102909+0600",
+      "endTime" : "20140915T143233+0600",
+      "place" : {
+        "id" : 68035698,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8424540402,
+          "lon" : 60.6164813442
+        }
+      },
+      "lastUpdate" : "20140915T103709Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6126311593, 56.8395520045 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T143234+0600",
+      "endTime" : "20140915T144932+0600",
+      "place" : {
+        "id" : 88405982,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8395520045,
+          "lon" : 60.6126311593
+        }
+      },
+      "lastUpdate" : "20140915T103709Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.596251487731934, 56.83629702663897 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T150104+0600",
+      "endTime" : "20140915T152820+0600",
+      "place" : {
+        "id" : 99703772,
+        "name" : "ЦУМ",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e297b87003704c5a36b99",
+        "location" : {
+          "lat" : 56.83629702663897,
+          "lon" : 60.596251487731934
+        }
+      },
+      "lastUpdate" : "20140915T103709Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59483528137207, 56.836766545903366 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T152821+0600",
+      "endTime" : "20140915T152914+0600",
+      "place" : {
+        "id" : 70827121,
+        "name" : "Вилка Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "4d7f3bfecd09224bebcd5730",
+        "location" : {
+          "lat" : 56.836766545903366,
+          "lon" : 60.59483528137207
+        }
+      },
+      "lastUpdate" : "20140915T132304Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T152914+0600",
+      "endTime" : "20140915T173511+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20140915T132306Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5990505554, 56.8360045189 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T173808+0600",
+      "endTime" : "20140915T175038+0600",
+      "place" : {
+        "id" : 76438086,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360045189,
+          "lon" : 60.5990505554
+        }
+      },
+      "lastUpdate" : "20140915T132306Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6534737129, 56.8442199342 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T181932+0600",
+      "endTime" : "20140915T202351+0600",
+      "place" : {
+        "id" : 157216304,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8442199342,
+          "lon" : 60.6534737129
+        }
+      },
+      "lastUpdate" : "20140915T174323Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6267917056, 56.8410920217 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T204318+0600",
+      "endTime" : "20140915T211149+0600",
+      "place" : {
+        "id" : 154078567,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8410920217,
+          "lon" : 60.6267917056
+        }
+      },
+      "lastUpdate" : "20140915T174323Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6318248876, 56.8419125578 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T213039+0600",
+      "endTime" : "20140915T215311+0600",
+      "place" : {
+        "id" : 69317326,
+        "name" : "Клуб настольных игр \"Лепрекон\"",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8419125578,
+          "lon" : 60.6318248876
+        }
+      },
+      "lastUpdate" : "20140915T174324Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6467116773, 56.8558889221 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T220830+0600",
+      "endTime" : "20140915T222806+0600",
+      "place" : {
+        "id" : 157266977,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8558889221,
+          "lon" : 60.6467116773
+        }
+      },
+      "lastUpdate" : "20140916T020217Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6036044146, 56.8479805732 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T224326+0600",
+      "endTime" : "20140915T225536+0600",
+      "place" : {
+        "id" : 157266978,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8479805732,
+          "lon" : 60.6036044146
+        }
+      },
+      "lastUpdate" : "20140916T020217Z",
+      "date" : "20140915"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140915T234006+0600",
+      "endTime" : "20140916T095251+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140916T062445Z",
+      "date" : "20140915"
+    }
+  } ]
+}

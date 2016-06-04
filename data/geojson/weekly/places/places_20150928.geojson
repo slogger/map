@@ -1,0 +1,928 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150927T011000+0600",
+      "endTime" : "20150928T090910+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150928T051338Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T093502+0600",
+      "endTime" : "20150928T094907+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20150928T051338Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T100559+0600",
+      "endTime" : "20150928T150220+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T152155+0600",
+      "endTime" : "20150928T175043+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150928T133148Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T183132+0600",
+      "endTime" : "20150928T211909+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.604477055, 56.8240698373 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T214126+0600",
+      "endTime" : "20150928T221640+0600",
+      "place" : {
+        "id" : 269436975,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8240698373,
+          "lon" : 60.604477055
+        }
+      },
+      "lastUpdate" : "20150928T195959Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T235048+0600",
+      "endTime" : "20150929T085901+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150929T044240Z",
+      "date" : "20150928"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150928T235048+0600",
+      "endTime" : "20150929T085901+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150929T044240Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.568017226227134, 56.882844716133775 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T091143+0600",
+      "endTime" : "20150929T092252+0600",
+      "place" : {
+        "id" : 267541946,
+        "name" : "Почта России 620039",
+        "type" : "foursquare",
+        "foursquareId" : "51d2559f498e0ab45ea79013",
+        "location" : {
+          "lat" : 56.882844716133775,
+          "lon" : 60.568017226227134
+        }
+      },
+      "lastUpdate" : "20150929T044240Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6080447717, 56.8873473893 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T094104+0600",
+      "endTime" : "20150929T094504+0600",
+      "place" : {
+        "id" : 72695087,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8873473893,
+          "lon" : 60.6080447717
+        }
+      },
+      "lastUpdate" : "20150929T044240Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T101650+0600",
+      "endTime" : "20150929T130851+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150929T085543Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61921119689942, 56.839683302424994 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T131553+0600",
+      "endTime" : "20150929T133928+0600",
+      "place" : {
+        "id" : 65246242,
+        "name" : "Вилка-Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "503b2e5fe4b0d42a5984875a",
+        "location" : {
+          "lat" : 56.839683302424994,
+          "lon" : 60.61921119689942
+        }
+      },
+      "lastUpdate" : "20150929T085543Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T134933+0600",
+      "endTime" : "20150929T164130+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150929T184253Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T164653+0600",
+      "endTime" : "20150929T183636+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20150930T014758Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150930T004308+0600",
+      "endTime" : "20150930T014446+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150930T044904Z",
+      "date" : "20150930"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150930T074820+0600",
+      "endTime" : "20150930T194301+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150930T224102Z",
+      "date" : "20150930"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T014046+0600",
+      "endTime" : "20151001T085123+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151001T074052Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T095124+0600",
+      "endTime" : "20151001T150406+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T153740+0600",
+      "endTime" : "20151001T171608+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151001T152202Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6034583212, 56.8545349676 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T175043+0600",
+      "endTime" : "20151001T181941+0600",
+      "place" : {
+        "id" : 270273545,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8545349676,
+          "lon" : 60.6034583212
+        }
+      },
+      "lastUpdate" : "20151001T152202Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T185721+0600",
+      "endTime" : "20151001T214509+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T223706+0600",
+      "endTime" : "20151002T090441+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151002T052620Z",
+      "date" : "20151001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151001T223706+0600",
+      "endTime" : "20151002T090441+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151002T052620Z",
+      "date" : "20151002"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151002T090757+0600",
+      "endTime" : "20151002T091641+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20151002T052620Z",
+      "date" : "20151002"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151002T100419+0600",
+      "endTime" : "20151002T131233+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20151002T075955Z",
+      "date" : "20151002"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6183690893, 56.8391135677 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151002T132116+0600",
+      "endTime" : "20151002T133424+0600",
+      "place" : {
+        "id" : 270466838,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8391135677,
+          "lon" : 60.6183690893
+        }
+      },
+      "lastUpdate" : "20151002T093355Z",
+      "date" : "20151002"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151002T135429+0600",
+      "endTime" : "20151002T233044+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20151002"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T010319+0600",
+      "endTime" : "20151003T100928+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151003T095446Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61485888717678, 56.84078150685662 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T123309+0600",
+      "endTime" : "20151003T174700+0600",
+      "place" : {
+        "id" : 66103230,
+        "name" : "Демидовский Зал",
+        "type" : "foursquare",
+        "foursquareId" : "51528e10e4b01a2c8f519b2d",
+        "location" : {
+          "lat" : 56.84078150685662,
+          "lon" : 60.61485888717678
+        }
+      },
+      "lastUpdate" : "20151003T123600Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6292681112, 56.8371832698 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T180937+0600",
+      "endTime" : "20151003T183906+0600",
+      "place" : {
+        "id" : 270909585,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8371832698,
+          "lon" : 60.6292681112
+        }
+      },
+      "lastUpdate" : "20151003T161412Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6245655604, 56.8367167376 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T184353+0600",
+      "endTime" : "20151003T184840+0600",
+      "place" : {
+        "id" : 271001721,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8367167376,
+          "lon" : 60.6245655604
+        }
+      },
+      "lastUpdate" : "20151003T161412Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6172751906, 56.8396121191 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T190225+0600",
+      "endTime" : "20151003T204838+0600",
+      "place" : {
+        "id" : 65241987,
+        "name" : "Кофехаус",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8396121191,
+          "lon" : 60.6172751906
+        }
+      },
+      "lastUpdate" : "20151003T161412Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61114137375818, 56.83909650229245 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T205419+0600",
+      "endTime" : "20151003T211151+0600",
+      "place" : {
+        "id" : 103871559,
+        "name" : "ост. Театр музкомедии",
+        "type" : "foursquare",
+        "foursquareId" : "4f61d238e4b07f728fbbe16d",
+        "location" : {
+          "lat" : 56.83909650229245,
+          "lon" : 60.61114137375818
+        }
+      },
+      "lastUpdate" : "20151003T183023Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5898588725, 56.8972906526 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T221415+0600",
+      "endTime" : "20151003T223144+0600",
+      "place" : {
+        "id" : 271122899,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8972906526,
+          "lon" : 60.5898588725
+        }
+      },
+      "lastUpdate" : "20151003T221654Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5888329482, 56.8963385839 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T223145+0600",
+      "endTime" : "20151003T225955+0600",
+      "place" : {
+        "id" : 271122900,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8963385839,
+          "lon" : 60.5888329482
+        }
+      },
+      "lastUpdate" : "20151003T221654Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5888329482, 56.8963385839 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T234525+0600",
+      "endTime" : "20151004T023647+0600",
+      "place" : {
+        "id" : 271122900,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8963385839,
+          "lon" : 60.5888329482
+        }
+      },
+      "lastUpdate" : "20151003T221654Z",
+      "date" : "20151003"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5888329482, 56.8963385839 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T234525+0600",
+      "endTime" : "20151004T023647+0600",
+      "place" : {
+        "id" : 271122900,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8963385839,
+          "lon" : 60.5888329482
+        }
+      },
+      "lastUpdate" : "20151003T221654Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T025248+0600",
+      "endTime" : "20151004T153250+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151004T115603Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6208450178, 56.838751478 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T165432+0600",
+      "endTime" : "20151004T182431+0600",
+      "place" : {
+        "id" : 271300516,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.838751478,
+          "lon" : 60.6208450178
+        }
+      },
+      "lastUpdate" : "20151004T142233Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6215460115, 56.8369306543 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T182432+0600",
+      "endTime" : "20151004T195937+0600",
+      "place" : {
+        "id" : 271350490,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8369306543,
+          "lon" : 60.6215460115
+        }
+      },
+      "lastUpdate" : "20151004T172443Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6172751906, 56.8396121191 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T200740+0600",
+      "endTime" : "20151004T201033+0600",
+      "place" : {
+        "id" : 65241987,
+        "name" : "Кофехаус",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8396121191,
+          "lon" : 60.6172751906
+        }
+      },
+      "lastUpdate" : "20151004T172443Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T212114+0600",
+      "endTime" : "20151005T090539+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151005T053006Z",
+      "date" : "20151004"
+    }
+  } ]
+}

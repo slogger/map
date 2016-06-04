@@ -1,0 +1,224 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160308T104503+0600",
+      "endTime" : "20160309T074648+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160309T044506Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.613334, 56.833288 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T074649+0600",
+      "endTime" : "20160309T092003+0600",
+      "place" : {
+        "id" : 311912992,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.833288,
+          "lon" : 60.613334
+        }
+      },
+      "lastUpdate" : "20160309T061851Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T092003+0600",
+      "endTime" : "20160309T111614+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614938777696345, 56.83979098470767 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T112909+0600",
+      "endTime" : "20160309T114934+0600",
+      "place" : {
+        "id" : 271963087,
+        "name" : "Бургер-бар «Огонь»",
+        "type" : "foursquare",
+        "foursquareId" : "555f2922498e67b29d69e5b2",
+        "location" : {
+          "lat" : 56.83979098470767,
+          "lon" : 60.614938777696345
+        }
+      },
+      "lastUpdate" : "20160309T061851Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T114935+0600",
+      "endTime" : "20160309T124950+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160309T075401Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.620924, 56.83788 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T125937+0600",
+      "endTime" : "20160309T132313+0600",
+      "place" : {
+        "id" : 311932302,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.83788,
+          "lon" : 60.620924
+        }
+      },
+      "lastUpdate" : "20160309T075401Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61464071273804, 56.83921968830803 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T133250+0600",
+      "endTime" : "20160309T133833+0600",
+      "place" : {
+        "id" : 87976294,
+        "name" : "Yellow Submarine",
+        "type" : "foursquare",
+        "foursquareId" : "4d3b307b6de7721e9c38f649",
+        "location" : {
+          "lat" : 56.83921968830803,
+          "lon" : 60.61464071273804
+        }
+      },
+      "lastUpdate" : "20160309T075401Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T133918+0600",
+      "endTime" : "20160309T170753+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20160309T122501Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614360165, 56.8345535697 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T173005+0600",
+      "endTime" : "20160309T174101+0600",
+      "place" : {
+        "id" : 278380714,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8345535697,
+          "lon" : 60.614360165
+        }
+      },
+      "lastUpdate" : "20160309T152936Z",
+      "date" : "20160309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160309T182759+0600",
+      "endTime" : "20160310T085156+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160309"
+    }
+  } ]
+}

@@ -1,0 +1,175 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140308T201308+0600",
+      "endTime" : "20140309T114333+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6016783661, 56.8296142616 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T152853+0600",
+      "endTime" : "20140309T154012+0600",
+      "place" : {
+        "id" : 94556059,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8296142616,
+          "lon" : 60.6016783661
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5957653632, 56.8425455401 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T161337+0600",
+      "endTime" : "20140309T162138+0600",
+      "place" : {
+        "id" : 94556060,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8425455401,
+          "lon" : 60.5957653632
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5979281268, 56.8374910831 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T163005+0600",
+      "endTime" : "20140309T180457+0600",
+      "place" : {
+        "id" : 77373583,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8374910831,
+          "lon" : 60.5979281268
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5955340475, 56.8350491376 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T180905+0600",
+      "endTime" : "20140309T181305+0600",
+      "place" : {
+        "id" : 94580092,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8350491376,
+          "lon" : 60.5955340475
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5961258954, 56.8328786163 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T182506+0600",
+      "endTime" : "20140309T183241+0600",
+      "place" : {
+        "id" : 94580093,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8328786163,
+          "lon" : 60.5961258954
+        }
+      },
+      "lastUpdate" : "20140309T135941Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59704542160034, 56.83795205584336 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T184940+0600",
+      "endTime" : "20140309T192353+0600",
+      "place" : {
+        "id" : 77623587,
+        "name" : "Площадь 1905 года",
+        "type" : "foursquare",
+        "foursquareId" : "4c7cbe06398176b07edb1da8",
+        "location" : {
+          "lat" : 56.83795205584336,
+          "lon" : 60.59704542160034
+        }
+      },
+      "lastUpdate" : "20140309T153146Z",
+      "date" : "20140309"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5730624052, 56.8901771663 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140309T200012+0600",
+      "endTime" : "20140310T094813+0600",
+      "place" : {
+        "id" : 94597429,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8901771663,
+          "lon" : 60.5730624052
+        }
+      },
+      "lastUpdate" : "20140310T212545Z",
+      "date" : "20140309"
+    }
+  } ]
+}

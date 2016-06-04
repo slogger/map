@@ -1,0 +1,182 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131107T210554+0600",
+      "endTime" : "20131108T070321+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131108T092911Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.66011634730759, 56.840218816679226 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T080721+0600",
+      "endTime" : "20131108T111657+0600",
+      "place" : {
+        "id" : 74847903,
+        "name" : "Медико-санитарная часть, УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "5018a65de4b0e69456c2ddcc",
+        "location" : {
+          "lat" : 56.840218816679226,
+          "lon" : 60.66011634730759
+        }
+      },
+      "lastUpdate" : "20131113T174107Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6571015849, 56.8407897881 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T112351+0600",
+      "endTime" : "20131108T112857+0600",
+      "place" : {
+        "id" : 73697024,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8407897881,
+          "lon" : 60.6571015849
+        }
+      },
+      "lastUpdate" : "20131108T124551Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.66011634730759, 56.840218816679226 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T113511+0600",
+      "endTime" : "20131108T131822+0600",
+      "place" : {
+        "id" : 74847903,
+        "name" : "Медико-санитарная часть, УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "5018a65de4b0e69456c2ddcc",
+        "location" : {
+          "lat" : 56.840218816679226,
+          "lon" : 60.66011634730759
+        }
+      },
+      "lastUpdate" : "20131113T174118Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61187267303467, 56.83843329174064 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T140436+0600",
+      "endTime" : "20131108T142314+0600",
+      "place" : {
+        "id" : 69433869,
+        "name" : "Pizza Mia / Пицца Мия",
+        "type" : "foursquare",
+        "foursquareId" : "4d73449f5f00370462fbeda0",
+        "location" : {
+          "lat" : 56.83843329174064,
+          "lon" : 60.61187267303467
+        }
+      },
+      "lastUpdate" : "20131113T174139Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.626869244, 56.7972570053 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T153113+0600",
+      "endTime" : "20131108T154222+0600",
+      "place" : {
+        "id" : 73697026,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.7972570053,
+          "lon" : 60.626869244
+        }
+      },
+      "lastUpdate" : "20131108T124551Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59483528137207, 56.836766545903366 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T160338+0600",
+      "endTime" : "20131108T160638+0600",
+      "place" : {
+        "id" : 70827121,
+        "name" : "Вилка Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "4d7f3bfecd09224bebcd5730",
+        "location" : {
+          "lat" : 56.836766545903366,
+          "lon" : 60.59483528137207
+        }
+      },
+      "lastUpdate" : "20131108T124551Z",
+      "date" : "20131108"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131108T170146+0600",
+      "endTime" : "20131109T181411+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131109T163118Z",
+      "date" : "20131108"
+    }
+  } ]
+}

@@ -1,0 +1,201 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151010T134059+0600",
+      "endTime" : "20151011T143352+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151011T130401Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T171612+0600",
+      "endTime" : "20151011T185810+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151011T171835Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5705309419, 56.8912844853 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T190226+0600",
+      "endTime" : "20151011T191325+0600",
+      "place" : {
+        "id" : 65297756,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8912844853,
+          "lon" : 60.5705309419
+        }
+      },
+      "lastUpdate" : "20151011T171835Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6139351924, 56.8862592291 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T193328+0600",
+      "endTime" : "20151011T194000+0600",
+      "place" : {
+        "id" : 273541783,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8862592291,
+          "lon" : 60.6139351924
+        }
+      },
+      "lastUpdate" : "20151011T171835Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59932529926299, 56.834856152638146 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T202258+0600",
+      "endTime" : "20151011T204213+0600",
+      "place" : {
+        "id" : 267526899,
+        "name" : "New Bar",
+        "type" : "foursquare",
+        "foursquareId" : "4c83dd0d51ada1cd15912910",
+        "location" : {
+          "lat" : 56.834856152638146,
+          "lon" : 60.59932529926299
+        }
+      },
+      "lastUpdate" : "20151011T171835Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T205023+0600",
+      "endTime" : "20151011T205734+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20151011T171835Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T210738+0600",
+      "endTime" : "20151011T221403+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20151011T190521Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5989697604, 56.8283223551 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T224907+0600",
+      "endTime" : "20151011T225608+0600",
+      "place" : {
+        "id" : 101025650,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8283223551,
+          "lon" : 60.5989697604
+        }
+      },
+      "lastUpdate" : "20151011T190521Z",
+      "date" : "20151011"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6057806909, 56.8180394914 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151011T231905+0600",
+      "endTime" : "20151011T233748+0600",
+      "place" : {
+        "id" : 273634488,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8180394914,
+          "lon" : 60.6057806909
+        }
+      },
+      "lastUpdate" : "20151011T220610Z",
+      "date" : "20151011"
+    }
+  } ]
+}

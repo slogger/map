@@ -1,0 +1,268 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131115T234731+0600",
+      "endTime" : "20131116T101656+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131116T105430Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5856998535, 56.8855288206 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T103112+0600",
+      "endTime" : "20131116T110519+0600",
+      "place" : {
+        "id" : 75417227,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8855288206,
+          "lon" : 60.5856998535
+        }
+      },
+      "lastUpdate" : "20131116T105430Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T111539+0600",
+      "endTime" : "20131116T142532+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131116T105430Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773811340332, 56.88984680175781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T142602+0600",
+      "endTime" : "20131116T145438+0600",
+      "place" : {
+        "id" : 65948581,
+        "name" : "б-р. Культуры 25",
+        "type" : "foursquare",
+        "foursquareId" : "5242eabd11d2daa4bdc2481c",
+        "location" : {
+          "lat" : 56.88984680175781,
+          "lon" : 60.5773811340332
+        }
+      },
+      "lastUpdate" : "20131116T105430Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.603926627678774, 56.908557581167614 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T145709+0600",
+      "endTime" : "20131116T153632+0600",
+      "place" : {
+        "id" : 78201891,
+        "name" : "Новаторов 8/2",
+        "type" : "foursquare",
+        "foursquareId" : "50a7a6ece4b0024edf499a0c",
+        "location" : {
+          "lat" : 56.908557581167614,
+          "lon" : 60.603926627678774
+        }
+      },
+      "lastUpdate" : "20131201T024753Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6134995004, 56.9015014184 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T155023+0600",
+      "endTime" : "20131116T160814+0600",
+      "place" : {
+        "id" : 75417229,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9015014184,
+          "lon" : 60.6134995004
+        }
+      },
+      "lastUpdate" : "20131116T105430Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.603926627678774, 56.908557581167614 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T160845+0600",
+      "endTime" : "20131116T213947+0600",
+      "place" : {
+        "id" : 78201891,
+        "name" : "Новаторов 8/2",
+        "type" : "foursquare",
+        "foursquareId" : "50a7a6ece4b0024edf499a0c",
+        "location" : {
+          "lat" : 56.908557581167614,
+          "lon" : 60.603926627678774
+        }
+      },
+      "lastUpdate" : "20131201T024849Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.614028, 56.905371 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T215223+0600",
+      "endTime" : "20131116T222002+0600",
+      "place" : {
+        "id" : 78202035,
+        "name" : "Ост. Индустрии",
+        "type" : "foursquare",
+        "foursquareId" : "51c3fd9c498e32a3038672f7",
+        "location" : {
+          "lat" : 56.905371,
+          "lon" : 60.614028
+        }
+      },
+      "lastUpdate" : "20131201T024903Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6144752122, 56.9084914187 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T223042+0600",
+      "endTime" : "20131116T223411+0600",
+      "place" : {
+        "id" : 75547643,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9084914187,
+          "lon" : 60.6144752122
+        }
+      },
+      "lastUpdate" : "20131116T204727Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6117971751, 56.9137304607 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T224854+0600",
+      "endTime" : "20131116T225728+0600",
+      "place" : {
+        "id" : 75547644,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9137304607,
+          "lon" : 60.6117971751
+        }
+      },
+      "lastUpdate" : "20131116T204727Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6110044588, 56.9145905326 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T225729+0600",
+      "endTime" : "20131116T230528+0600",
+      "place" : {
+        "id" : 75547645,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9145905326,
+          "lon" : 60.6110044588
+        }
+      },
+      "lastUpdate" : "20131116T204727Z",
+      "date" : "20131116"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.603926627678774, 56.908557581167614 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131116T233146+0600",
+      "endTime" : "20131117T145119+0600",
+      "place" : {
+        "id" : 78201891,
+        "name" : "Новаторов 8/2",
+        "type" : "foursquare",
+        "foursquareId" : "50a7a6ece4b0024edf499a0c",
+        "location" : {
+          "lat" : 56.908557581167614,
+          "lon" : 60.603926627678774
+        }
+      },
+      "lastUpdate" : "20131201T025044Z",
+      "date" : "20131116"
+    }
+  } ]
+}

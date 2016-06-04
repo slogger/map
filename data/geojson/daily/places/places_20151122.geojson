@@ -1,0 +1,261 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151121T002945+0600",
+      "endTime" : "20151122T140941+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151122T103306Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6062714231, 56.8347904611 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T142027+0600",
+      "endTime" : "20151122T142617+0600",
+      "place" : {
+        "id" : 285600568,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8347904611,
+          "lon" : 60.6062714231
+        }
+      },
+      "lastUpdate" : "20151122T103306Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T145017+0600",
+      "endTime" : "20151122T150308+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20151122T103306Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T152609+0600",
+      "endTime" : "20151122T165700+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5899575401, 56.902581372 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T170433+0600",
+      "endTime" : "20151122T171929+0600",
+      "place" : {
+        "id" : 75157302,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.902581372,
+          "lon" : 60.5899575401
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6694388146, 57.0499627202 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T175547+0600",
+      "endTime" : "20151122T184528+0600",
+      "place" : {
+        "id" : 285668160,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 57.0499627202,
+          "lon" : 60.6694388146
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6717301027, 57.0511513595 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T184529+0600",
+      "endTime" : "20151122T185520+0600",
+      "place" : {
+        "id" : 285668161,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 57.0511513595,
+          "lon" : 60.6717301027
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6788434169, 57.0542643626 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T190150+0600",
+      "endTime" : "20151122T190427+0600",
+      "place" : {
+        "id" : 285668162,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 57.0542643626,
+          "lon" : 60.6788434169
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6888221817, 57.0599417977 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T190914+0600",
+      "endTime" : "20151122T192211+0600",
+      "place" : {
+        "id" : 285668163,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 57.0599417977,
+          "lon" : 60.6888221817
+        }
+      },
+      "lastUpdate" : "20151122T133850Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5901431842, 56.9029821714 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T195920+0600",
+      "endTime" : "20151122T201403+0600",
+      "place" : {
+        "id" : 285680350,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9029821714,
+          "lon" : 60.5901431842
+        }
+      },
+      "lastUpdate" : "20151122T142433Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T202032+0600",
+      "endTime" : "20151122T212120+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151122T164157Z",
+      "date" : "20151122"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151122T215836+0600",
+      "endTime" : "20151122T234904+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20151122"
+    }
+  } ]
+}

@@ -1,0 +1,157 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140412T210607+0600",
+      "endTime" : "20140413T113031+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140413T080934Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6111570251, 56.8944276977 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T114708+0600",
+      "endTime" : "20140413T120151+0600",
+      "place" : {
+        "id" : 102684179,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8944276977,
+          "lon" : 60.6111570251
+        }
+      },
+      "lastUpdate" : "20140413T080934Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59451541150879, 56.83715773828118 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T121852+0600",
+      "endTime" : "20140413T122115+0600",
+      "place" : {
+        "id" : 70827257,
+        "name" : "Красный Леопард",
+        "type" : "foursquare",
+        "foursquareId" : "4de9e5b11f6e3ddebdbdd327",
+        "location" : {
+          "lat" : 56.83715773828118,
+          "lon" : 60.59451541150879
+        }
+      },
+      "lastUpdate" : "20140413T080934Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6002089, 56.8338062 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T123109+0600",
+      "endTime" : "20140413T143543+0600",
+      "place" : {
+        "id" : 93155525,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8338062,
+          "lon" : 60.6002089
+        }
+      },
+      "lastUpdate" : "20140413T101603Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5991450823, 56.8372903114 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T153000+0600",
+      "endTime" : "20140413T153303+0600",
+      "place" : {
+        "id" : 102773198,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8372903114,
+          "lon" : 60.5991450823
+        }
+      },
+      "lastUpdate" : "20140413T140728Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T163433+0600",
+      "endTime" : "20140413T174447+0600",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "lastUpdate" : "20140413T163536Z",
+      "date" : "20140413"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140413T210351+0600",
+      "endTime" : "20140414T094429+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140414T043457Z",
+      "date" : "20140413"
+    }
+  } ]
+}

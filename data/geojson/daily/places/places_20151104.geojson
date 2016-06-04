@@ -1,0 +1,200 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151103T232212+0600",
+      "endTime" : "20151104T000912+0600",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151104T032459Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6149925827, 56.8313908867 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T075344+0600",
+      "endTime" : "20151104T131402+0600",
+      "place" : {
+        "id" : 280596482,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8313908867,
+          "lon" : 60.6149925827
+        }
+      },
+      "lastUpdate" : "20151104T075530Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6095343862, 56.8383179488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T133558+0600",
+      "endTime" : "20151104T140748+0600",
+      "place" : {
+        "id" : 280608757,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8383179488,
+          "lon" : 60.6095343862
+        }
+      },
+      "lastUpdate" : "20151104T153017Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148361378, 56.8323195042 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T142201+0600",
+      "endTime" : "20151104T165059+0600",
+      "place" : {
+        "id" : 277165476,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8323195042,
+          "lon" : 60.6148361378
+        }
+      },
+      "lastUpdate" : "20151104T153017Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59103727340698, 56.82358842565525 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T171414+0600",
+      "endTime" : "20151104T191053+0600",
+      "place" : {
+        "id" : 279188622,
+        "name" : "СКБ Контур",
+        "type" : "foursquare",
+        "foursquareId" : "4bcd89be68f976b0485a6483",
+        "location" : {
+          "lat" : 56.82358842565525,
+          "lon" : 60.59103727340698
+        }
+      },
+      "lastUpdate" : "20151106T170114Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T194105+0600",
+      "endTime" : "20151104T221730+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61006282418169, 56.84056250226312 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T223336+0600",
+      "endTime" : "20151104T224301+0600",
+      "place" : {
+        "id" : 271963191,
+        "name" : "McDonald's",
+        "type" : "foursquare",
+        "foursquareId" : "53e611b8498e457cc2d6b18f",
+        "location" : {
+          "lat" : 56.84056250226312,
+          "lon" : 60.61006282418169
+        }
+      },
+      "lastUpdate" : "20151104T185413Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5944642983, 56.8377482817 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T230134+0600",
+      "endTime" : "20151104T230537+0600",
+      "place" : {
+        "id" : 280752843,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8377482817,
+          "lon" : 60.5944642983
+        }
+      },
+      "lastUpdate" : "20151104T185413Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59932529926299, 56.834856152638146 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T231329+0600",
+      "endTime" : "20151105T002017+0600",
+      "place" : {
+        "id" : 267526899,
+        "name" : "New Bar",
+        "type" : "foursquare",
+        "foursquareId" : "4c83dd0d51ada1cd15912910",
+        "location" : {
+          "lat" : 56.834856152638146,
+          "lon" : 60.59932529926299
+        }
+      },
+      "lastUpdate" : "20151104T215633Z",
+      "date" : "20151104"
+    }
+  } ]
+}

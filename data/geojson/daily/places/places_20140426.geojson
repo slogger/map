@@ -1,0 +1,137 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T091419+0600",
+      "endTime" : "20140426T105215+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140426T104643Z",
+      "date" : "20140426"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59929847717285, 56.83509972586457 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T110111+0600",
+      "endTime" : "20140426T151920+0600",
+      "place" : {
+        "id" : 77460969,
+        "name" : "Freelance Café",
+        "type" : "foursquare",
+        "foursquareId" : "4fb3635be4b0e3115bcbc3ce",
+        "location" : {
+          "lat" : 56.83509972586457,
+          "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20140426T104643Z",
+      "date" : "20140426"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5955731909, 56.8371642608 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T151920+0600",
+      "endTime" : "20140426T153245+0600",
+      "place" : {
+        "id" : 89057088,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8371642608,
+          "lon" : 60.5955731909
+        }
+      },
+      "lastUpdate" : "20140426T104643Z",
+      "date" : "20140426"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61114137375818, 56.83909650229245 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T155457+0600",
+      "endTime" : "20140426T161036+0600",
+      "place" : {
+        "id" : 103871559,
+        "name" : "ост. Театр музкомедии",
+        "type" : "foursquare",
+        "foursquareId" : "4f61d238e4b07f728fbbe16d",
+        "location" : {
+          "lat" : 56.83909650229245,
+          "lon" : 60.61114137375818
+        }
+      },
+      "lastUpdate" : "20140426T104643Z",
+      "date" : "20140426"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T161351+0600",
+      "endTime" : "20140426T210340+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20140426"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5998168007, 56.8355944403 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140426T212516+0600",
+      "endTime" : "20140426T220648+0600",
+      "place" : {
+        "id" : 105304210,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8355944403,
+          "lon" : 60.5998168007
+        }
+      },
+      "lastUpdate" : "20140427T061622Z",
+      "date" : "20140426"
+    }
+  } ]
+}

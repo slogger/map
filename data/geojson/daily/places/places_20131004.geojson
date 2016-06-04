@@ -1,0 +1,115 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5773811340332, 56.88984680175781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131003T184220+0600",
+      "endTime" : "20131004T102650+0600",
+      "place" : {
+        "id" : 66753723,
+        "name" : "б-р. Культуры 25",
+        "type" : "foursquare",
+        "foursquareId" : "5242eabd11d2daa4bdc2481c",
+        "location" : {
+          "lat" : 56.88984680175781,
+          "lon" : 60.5773811340332
+        }
+      },
+      "lastUpdate" : "20131004T171859Z",
+      "date" : "20131004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58199054617655, 56.88479739579836 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131004T103946+0600",
+      "endTime" : "20131004T121916+0600",
+      "place" : {
+        "id" : 66753771,
+        "name" : "Военкомат Орджоникидзевского района",
+        "type" : "foursquare",
+        "foursquareId" : "4f66a074e4b04b2445a0cddc",
+        "location" : {
+          "lat" : 56.88479739579836,
+          "lon" : 60.58199054617655
+        }
+      },
+      "lastUpdate" : "20131004T171916Z",
+      "date" : "20131004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6270599935, 56.8895421355 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131004T125743+0600",
+      "endTime" : "20131004T133907+0600",
+      "place" : {
+        "id" : 66753952,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8895421355,
+          "lon" : 60.6270599935
+        }
+      },
+      "lastUpdate" : "20131004T172042Z",
+      "date" : "20131004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131004T141652+0600",
+      "endTime" : "20131004T203552+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20140418T030343Z",
+      "date" : "20131004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5766751845, 56.8905832359 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131004T214954+0600",
+      "endTime" : "20131005T105011+0600",
+      "place" : {
+        "id" : 65878791,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8905832359,
+          "lon" : 60.5766751845
+        }
+      },
+      "lastUpdate" : "20131005T125623Z",
+      "date" : "20131004"
+    }
+  } ]
+}

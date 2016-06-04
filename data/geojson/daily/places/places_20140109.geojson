@@ -1,0 +1,91 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140108T220810+0600",
+      "endTime" : "20140109T173912+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140109T131351Z",
+      "date" : "20140109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61378987764257, 56.88799574544797 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140109T180352+0600",
+      "endTime" : "20140109T190300+0600",
+      "place" : {
+        "id" : 71375807,
+        "name" : "остановка Заря",
+        "type" : "foursquare",
+        "foursquareId" : "4fae71c3e4b09cca618c9f91",
+        "location" : {
+          "lat" : 56.88799574544797,
+          "lon" : 60.61378987764257
+        }
+      },
+      "lastUpdate" : "20140109T173747Z",
+      "date" : "20140109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6242144806, 56.8905981584 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140109T191745+0600",
+      "endTime" : "20140109T200243+0600",
+      "place" : {
+        "id" : 84738881,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8905981584,
+          "lon" : 60.6242144806
+        }
+      },
+      "lastUpdate" : "20140109T173935Z",
+      "date" : "20140109"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6274877753, 56.889709095 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140109T200844+0600",
+      "endTime" : "20140109T233325+0600",
+      "place" : {
+        "id" : 85823806,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.889709095,
+          "lon" : 60.6274877753
+        }
+      },
+      "lastUpdate" : "20140116T041429Z",
+      "date" : "20140109"
+    }
+  } ]
+}

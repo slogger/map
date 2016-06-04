@@ -1,0 +1,178 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20130930T213428+0600",
+      "endTime" : "20131001T094017+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131001T060019Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5826681476, 56.8848466687 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T095435+0600",
+      "endTime" : "20131001T095835+0600",
+      "place" : {
+        "id" : 66103116,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8848466687,
+          "lon" : 60.5826681476
+        }
+      },
+      "lastUpdate" : "20131001T060009Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T105113+0600",
+      "endTime" : "20131001T144740+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6118736287, 56.8067370839 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T152128+0600",
+      "endTime" : "20131001T154015+0600",
+      "place" : {
+        "id" : 66239854,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8067370839,
+          "lon" : 60.6118736287
+        }
+      },
+      "lastUpdate" : "20131001T225334Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5951671515, 56.8360363401 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T160645+0600",
+      "endTime" : "20131001T164554+0600",
+      "place" : {
+        "id" : 66239855,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8360363401,
+          "lon" : 60.5951671515
+        }
+      },
+      "lastUpdate" : "20131001T225334Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T170848+0600",
+      "endTime" : "20131001T184731+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6089157329, 56.8390085779 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T190113+0600",
+      "endTime" : "20131001T191242+0600",
+      "place" : {
+        "id" : 66239856,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8390085779,
+          "lon" : 60.6089157329
+        }
+      },
+      "lastUpdate" : "20131001T225334Z",
+      "date" : "20131001"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131001T195412+0600",
+      "endTime" : "20131002T080240+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131001"
+    }
+  } ]
+}

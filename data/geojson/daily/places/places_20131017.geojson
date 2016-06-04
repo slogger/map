@@ -1,0 +1,135 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131016T191056+0600",
+      "endTime" : "20131017T082856+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131017"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61488940022382, 56.84156114616754 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131017T090555+0600",
+      "endTime" : "20131017T175049+0600",
+      "place" : {
+        "id" : 65245957,
+        "name" : "УрФУ ИМКН (Матмех)",
+        "type" : "foursquare",
+        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "location" : {
+          "lat" : 56.84156114616754,
+          "lon" : 60.61488940022382
+        }
+      },
+      "lastUpdate" : "20150923T053942Z",
+      "date" : "20131017"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6145109941, 56.8427500853 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131017T180257+0600",
+      "endTime" : "20131017T180418+0600",
+      "place" : {
+        "id" : 69317325,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8427500853,
+          "lon" : 60.6145109941
+        }
+      },
+      "lastUpdate" : "20131017T165717Z",
+      "date" : "20131017"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6318248876, 56.8419125578 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131017T182226+0600",
+      "endTime" : "20131017T212200+0600",
+      "place" : {
+        "id" : 69317326,
+        "name" : "Клуб настольных игр \"Лепрекон\"",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8419125578,
+          "lon" : 60.6318248876
+        }
+      },
+      "lastUpdate" : "20131018T095314Z",
+      "date" : "20131017"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6255677114, 56.843360782 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131017T212558+0600",
+      "endTime" : "20131017T215033+0600",
+      "place" : {
+        "id" : 69317361,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.843360782,
+          "lon" : 60.6255677114
+        }
+      },
+      "lastUpdate" : "20131017T172842Z",
+      "date" : "20131017"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131017T225116+0600",
+      "endTime" : "20131018T071244+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131028T015934Z",
+      "date" : "20131017"
+    }
+  } ]
+}

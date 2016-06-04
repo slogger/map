@@ -1,0 +1,111 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150924T014648+0600",
+      "endTime" : "20150924T092358+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150924T054658Z",
+      "date" : "20150924"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5912095533, 56.8235901864 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150924T101332+0600",
+      "endTime" : "20150924T114401+0600",
+      "place" : {
+        "id" : 91951746,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8235901864,
+          "lon" : 60.5912095533
+        }
+      },
+      "lastUpdate" : "20150924T062422Z",
+      "date" : "20150924"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150924T115511+0600",
+      "endTime" : "20150924T215446+0600",
+      "place" : {
+        "id" : 267526997,
+        "name" : "СКБ Контур",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.82947461635581,
+          "lon" : 60.58612623391936
+        }
+      },
+      "lastUpdate" : "20160516T162957Z",
+      "date" : "20150924"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5954952288, 56.8345404569 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150924T220955+0600",
+      "endTime" : "20150924T221248+0600",
+      "place" : {
+        "id" : 94947013,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8345404569,
+          "lon" : 60.5954952288
+        }
+      },
+      "lastUpdate" : "20150924T183050Z",
+      "date" : "20150924"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6274151301, 56.8479549214 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150924T230026+0600",
+      "endTime" : "20150925T083122+0600",
+      "place" : {
+        "id" : 268020024,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8479549214,
+          "lon" : 60.6274151301
+        }
+      },
+      "lastUpdate" : "20150925T071034Z",
+      "date" : "20150924"
+    }
+  } ]
+}

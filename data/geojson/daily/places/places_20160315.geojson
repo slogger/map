@@ -1,0 +1,175 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148884149, 56.8310523742 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160314T175956+0600",
+      "endTime" : "20160315T104950+0600",
+      "place" : {
+        "id" : 292217259,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8310523742,
+          "lon" : 60.6148884149
+        }
+      },
+      "lastUpdate" : "20160315T065036Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T104951+0600",
+      "endTime" : "20160315T125831+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.616229, 56.838415 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T131152+0600",
+      "endTime" : "20160315T170114+0600",
+      "place" : {
+        "id" : 313453474,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.838415,
+          "lon" : 60.616229
+        }
+      },
+      "lastUpdate" : "20160315T112624Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6157089521, 56.8418778234 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T170534+0600",
+      "endTime" : "20160315T192607+0600",
+      "place" : {
+        "id" : 274646189,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8418778234,
+          "lon" : 60.6157089521
+        }
+      },
+      "lastUpdate" : "20160315T143058Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.65294659369267, 56.8387694383311 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T194816+0600",
+      "endTime" : "20160315T211340+0600",
+      "place" : {
+        "id" : 69433802,
+        "name" : "Стадион УрФУ",
+        "type" : "foursquare",
+        "foursquareId" : "4fe03687e4b0f37d57ffe03e",
+        "location" : {
+          "lat" : 56.8387694383311,
+          "lon" : 60.65294659369267
+        }
+      },
+      "lastUpdate" : "20160315T161307Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6151966409, 56.8332539365 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T220412+0600",
+      "endTime" : "20160315T230448+0600",
+      "place" : {
+        "id" : 288319537,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8332539365,
+          "lon" : 60.6151966409
+        }
+      },
+      "lastUpdate" : "20160315T191854Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6147924404, 56.8307693047 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T230449+0600",
+      "endTime" : "20160315T232549+0600",
+      "place" : {
+        "id" : 101499102,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8307693047,
+          "lon" : 60.6147924404
+        }
+      },
+      "lastUpdate" : "20160315T191854Z",
+      "date" : "20160315"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160315T232550+0600",
+      "endTime" : "20160316T023646+0600",
+      "place" : {
+        "id" : 277165475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8316409084,
+          "lon" : 60.6153290033
+        }
+      },
+      "lastUpdate" : "20160315T205049Z",
+      "date" : "20160315"
+    }
+  } ]
+}

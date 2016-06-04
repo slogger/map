@@ -1,0 +1,135 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160402T183818+0600",
+      "endTime" : "20160403T153921+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160403"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160403T153921+0600",
+      "endTime" : "20160403T154459+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160403"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.597492, 56.828944 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160403T161405+0600",
+      "endTime" : "20160403T164857+0600",
+      "place" : {
+        "id" : 318673758,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.828944,
+          "lon" : 60.597492
+        }
+      },
+      "lastUpdate" : "20160403T112148Z",
+      "date" : "20160403"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.59483528137207, 56.836766545903366 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160403T170940+0600",
+      "endTime" : "20160403T171907+0600",
+      "place" : {
+        "id" : 70827121,
+        "name" : "Вилка Ложка",
+        "type" : "foursquare",
+        "foursquareId" : "4d7f3bfecd09224bebcd5730",
+        "location" : {
+          "lat" : 56.836766545903366,
+          "lon" : 60.59483528137207
+        }
+      },
+      "lastUpdate" : "20160403T125455Z",
+      "date" : "20160403"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.606765, 56.835027 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160403T173134+0600",
+      "endTime" : "20160403T173432+0600",
+      "place" : {
+        "id" : 318700495,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.835027,
+          "lon" : 60.606765
+        }
+      },
+      "lastUpdate" : "20160403T125455Z",
+      "date" : "20160403"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160403T174453+0600",
+      "endTime" : "20160404T082706+0600",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20160531T040259Z",
+      "date" : "20160403"
+    }
+  } ]
+}

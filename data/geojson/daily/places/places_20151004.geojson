@@ -1,0 +1,133 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5888329482, 56.8963385839 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151003T234525+0600",
+      "endTime" : "20151004T023647+0600",
+      "place" : {
+        "id" : 271122900,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8963385839,
+          "lon" : 60.5888329482
+        }
+      },
+      "lastUpdate" : "20151003T221654Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T025248+0600",
+      "endTime" : "20151004T153250+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151004T115603Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6208450178, 56.838751478 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T165432+0600",
+      "endTime" : "20151004T182431+0600",
+      "place" : {
+        "id" : 271300516,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.838751478,
+          "lon" : 60.6208450178
+        }
+      },
+      "lastUpdate" : "20151004T142233Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6215460115, 56.8369306543 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T182432+0600",
+      "endTime" : "20151004T195937+0600",
+      "place" : {
+        "id" : 271350490,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8369306543,
+          "lon" : 60.6215460115
+        }
+      },
+      "lastUpdate" : "20151004T172443Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6172751906, 56.8396121191 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T200740+0600",
+      "endTime" : "20151004T201033+0600",
+      "place" : {
+        "id" : 65241987,
+        "name" : "Кофехаус",
+        "type" : "user",
+        "location" : {
+          "lat" : 56.8396121191,
+          "lon" : 60.6172751906
+        }
+      },
+      "lastUpdate" : "20151004T172443Z",
+      "date" : "20151004"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151004T212114+0600",
+      "endTime" : "20151005T090539+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20151005T053006Z",
+      "date" : "20151004"
+    }
+  } ]
+}

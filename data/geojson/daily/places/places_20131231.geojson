@@ -1,0 +1,220 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131230T121207+0600",
+      "endTime" : "20131231T105448+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T111954+0600",
+      "endTime" : "20131231T122647+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T125629+0600",
+      "endTime" : "20131231T131433+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6274437296, 56.8896788752 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T135954+0600",
+      "endTime" : "20131231T141749+0600",
+      "place" : {
+        "id" : 65505908,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8896788752,
+          "lon" : 60.6274437296
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60819268226624, 56.83265218310204 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T152045+0600",
+      "endTime" : "20131231T153546+0600",
+      "place" : {
+        "id" : 77461081,
+        "name" : "Свинья, которая думала, что она мандарин",
+        "type" : "foursquare",
+        "foursquareId" : "5204f024498e74b87a164764",
+        "location" : {
+          "lat" : 56.83265218310204,
+          "lon" : 60.60819268226624
+        }
+      },
+      "lastUpdate" : "20140321T030559Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6029620564, 56.8341290581 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T154502+0600",
+      "endTime" : "20131231T160134+0600",
+      "place" : {
+        "id" : 83225752,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8341290581,
+          "lon" : 60.6029620564
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6019051459, 56.8269615065 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T160952+0600",
+      "endTime" : "20131231T162025+0600",
+      "place" : {
+        "id" : 83239640,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8269615065,
+          "lon" : 60.6019051459
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.561488614, 56.8143129288 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T163646+0600",
+      "endTime" : "20131231T164507+0600",
+      "place" : {
+        "id" : 83239641,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8143129288,
+          "lon" : 60.561488614
+        }
+      },
+      "lastUpdate" : "20131231T125107Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T175933+0600",
+      "endTime" : "20131231T200519+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20131231T212119Z",
+      "date" : "20131231"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6247267, 56.8907082 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20131231T210230+0600",
+      "endTime" : "20140101T024644+0600",
+      "place" : {
+        "id" : 83329283,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8907082,
+          "lon" : 60.6247267
+        }
+      },
+      "lastUpdate" : "20140101T091336Z",
+      "date" : "20131231"
+    }
+  } ]
+}

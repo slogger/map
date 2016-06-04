@@ -1,0 +1,133 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T002201+0600",
+      "endTime" : "20140329T090124+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140329T054738Z",
+      "date" : "20140329"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.56988525390625, 56.890769958496094 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T090124+0600",
+      "endTime" : "20140329T091213+0600",
+      "place" : {
+        "id" : 65236285,
+        "name" : "остановка Донбасская",
+        "type" : "foursquare",
+        "foursquareId" : "50a44859e4b03aa3ead8e695",
+        "location" : {
+          "lat" : 56.890769958496094,
+          "lon" : 60.56988525390625
+        }
+      },
+      "lastUpdate" : "20140329T054738Z",
+      "date" : "20140329"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6074105441, 56.88792905 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T092913+0600",
+      "endTime" : "20140329T094014+0600",
+      "place" : {
+        "id" : 98935399,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.88792905,
+          "lon" : 60.6074105441
+        }
+      },
+      "lastUpdate" : "20140329T054738Z",
+      "date" : "20140329"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6528156568, 56.8437917751 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T101416+0600",
+      "endTime" : "20140329T123357+0600",
+      "place" : {
+        "id" : 98771229,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8437917751,
+          "lon" : 60.6528156568
+        }
+      },
+      "lastUpdate" : "20140329T082350Z",
+      "date" : "20140329"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6528156568, 56.8437917751 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T124517+0600",
+      "endTime" : "20140329T212130+0600",
+      "place" : {
+        "id" : 98771229,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8437917751,
+          "lon" : 60.6528156568
+        }
+      },
+      "lastUpdate" : "20140329T191914Z",
+      "date" : "20140329"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6104894867, 56.8076698103 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140329T220555+0600",
+      "endTime" : "20140329T221810+0600",
+      "place" : {
+        "id" : 92235392,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8076698103,
+          "lon" : 60.6104894867
+        }
+      },
+      "lastUpdate" : "20140329T203350Z",
+      "date" : "20140329"
+    }
+  } ]
+}

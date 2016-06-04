@@ -1,0 +1,1071 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6631169342, 55.7660827497 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T112104+0600",
+      "endTime" : "20140712T131358+0600",
+      "place" : {
+        "id" : 133592366,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7660827497,
+          "lon" : 37.6631169342
+        }
+      },
+      "lastUpdate" : "20140712T094909Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6631169342, 55.7660827497 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T132546+0600",
+      "endTime" : "20140712T154702+0600",
+      "place" : {
+        "id" : 133592366,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7660827497,
+          "lon" : 37.6631169342
+        }
+      },
+      "lastUpdate" : "20140712T141136Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6600319251, 55.7654854965 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T155708+0600",
+      "endTime" : "20140712T155918+0600",
+      "place" : {
+        "id" : 133676822,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7654854965,
+          "lon" : 37.6600319251
+        }
+      },
+      "lastUpdate" : "20140712T141136Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6355537098, 55.7541755567 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T165932+0600",
+      "endTime" : "20140712T192801+0600",
+      "place" : {
+        "id" : 133746242,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7541755567,
+          "lon" : 37.6355537098
+        }
+      },
+      "lastUpdate" : "20140712T170640Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.614677247, 55.7604330375 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T200006+0600",
+      "endTime" : "20140712T200211+0600",
+      "place" : {
+        "id" : 133817431,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7604330375,
+          "lon" : 37.614677247
+        }
+      },
+      "lastUpdate" : "20140712T170640Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6157787414, 55.7562638804 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T201049+0600",
+      "endTime" : "20140712T220848+0600",
+      "place" : {
+        "id" : 133817432,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7562638804,
+          "lon" : 37.6157787414
+        }
+      },
+      "lastUpdate" : "20140712T175623Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6631169342, 55.7660827497 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T225640+0600",
+      "endTime" : "20140713T134426+0600",
+      "place" : {
+        "id" : 133592366,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7660827497,
+          "lon" : 37.6631169342
+        }
+      },
+      "lastUpdate" : "20140713T091200Z",
+      "date" : "20140712"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6631169342, 55.7660827497 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140712T225640+0600",
+      "endTime" : "20140713T134426+0600",
+      "place" : {
+        "id" : 133592366,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7660827497,
+          "lon" : 37.6631169342
+        }
+      },
+      "lastUpdate" : "20140713T091200Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.7492403057, 55.6775946392 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T141829+0600",
+      "endTime" : "20140713T143758+0600",
+      "place" : {
+        "id" : 134071758,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6775946392,
+          "lon" : 37.7492403057
+        }
+      },
+      "lastUpdate" : "20140713T105928Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8458348668, 55.6550835563 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T151317+0600",
+      "endTime" : "20140713T152938+0600",
+      "place" : {
+        "id" : 134097944,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6550835563,
+          "lon" : 37.8458348668
+        }
+      },
+      "lastUpdate" : "20140713T105928Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8456886312, 55.6539931537 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T153732+0600",
+      "endTime" : "20140713T165813+0600",
+      "place" : {
+        "id" : 134097945,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6539931537,
+          "lon" : 37.8456886312
+        }
+      },
+      "lastUpdate" : "20140713T162950Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8441275054, 55.6544619193 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T165953+0600",
+      "endTime" : "20140713T170005+0600",
+      "place" : {
+        "id" : 134113979,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6544619193,
+          "lon" : 37.8441275054
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8423790846, 55.6550238113 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T171124+0600",
+      "endTime" : "20140713T172007+0600",
+      "place" : {
+        "id" : 134113980,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6550238113,
+          "lon" : 37.8423790846
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8456886312, 55.6539931537 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T172804+0600",
+      "endTime" : "20140713T174116+0600",
+      "place" : {
+        "id" : 134097945,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6539931537,
+          "lon" : 37.8456886312
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8450862166, 55.6552094411 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T174554+0600",
+      "endTime" : "20140713T175820+0600",
+      "place" : {
+        "id" : 134113981,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6552094411,
+          "lon" : 37.8450862166
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.8441293011, 55.6572763458 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T180528+0600",
+      "endTime" : "20140713T181620+0600",
+      "place" : {
+        "id" : 134199963,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6572763458,
+          "lon" : 37.8441293011
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.7750829145, 55.6616336482 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T190636+0600",
+      "endTime" : "20140713T192557+0600",
+      "place" : {
+        "id" : 134199964,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.6616336482,
+          "lon" : 37.7750829145
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.657112597, 55.764409728 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T194558+0600",
+      "endTime" : "20140713T194913+0600",
+      "place" : {
+        "id" : 134199965,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.764409728,
+          "lon" : 37.657112597
+        }
+      },
+      "lastUpdate" : "20140713T162951Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T195501+0600",
+      "endTime" : "20140714T111347+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140714T121852Z",
+      "date" : "20140713"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140713T195501+0600",
+      "endTime" : "20140714T111347+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140714T121852Z",
+      "date" : "20140714"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6318285712, 55.7617671484 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140714T114434+0600",
+      "endTime" : "20140714T114711+0600",
+      "place" : {
+        "id" : 134373884,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7617671484,
+          "lon" : 37.6318285712
+        }
+      },
+      "lastUpdate" : "20140714T072638Z",
+      "date" : "20140714"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6330779678, 55.76320935 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140714T114926+0600",
+      "endTime" : "20140714T115544+0600",
+      "place" : {
+        "id" : 134373885,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.76320935,
+          "lon" : 37.6330779678
+        }
+      },
+      "lastUpdate" : "20140714T072638Z",
+      "date" : "20140714"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140714T120412+0600",
+      "endTime" : "20140714T215917+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140714T203457Z",
+      "date" : "20140714"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140714T233520+0600",
+      "endTime" : "20140715T023532+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140714T233405Z",
+      "date" : "20140714"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140714T233520+0600",
+      "endTime" : "20140715T023532+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140714T233405Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T031832+0600",
+      "endTime" : "20140715T074940+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140715T060151Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T101513+0600",
+      "endTime" : "20140715T112224+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140715T072738Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T120010+0600",
+      "endTime" : "20140715T221916+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140715T203038Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6671007024, 55.7679125241 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T230436+0600",
+      "endTime" : "20140715T231407+0600",
+      "place" : {
+        "id" : 134878193,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7679125241,
+          "lon" : 37.6671007024
+        }
+      },
+      "lastUpdate" : "20140715T203039Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6692657743, 55.7714703082 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T233220+0600",
+      "endTime" : "20140715T234220+0600",
+      "place" : {
+        "id" : 134878194,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7714703082,
+          "lon" : 37.6692657743
+        }
+      },
+      "lastUpdate" : "20140715T203039Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T235629+0600",
+      "endTime" : "20140716T104712+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140716T055215Z",
+      "date" : "20140715"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140715T235629+0600",
+      "endTime" : "20140716T104712+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140716T055215Z",
+      "date" : "20140716"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140716T112228+0600",
+      "endTime" : "20140716T230053+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140716T191536Z",
+      "date" : "20140716"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140716T233712+0600",
+      "endTime" : "20140717T112332+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T072338Z",
+      "date" : "20140716"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140716T233712+0600",
+      "endTime" : "20140717T112332+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T072338Z",
+      "date" : "20140717"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6549482742, 55.7635018285 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T113331+0600",
+      "endTime" : "20140717T114406+0600",
+      "place" : {
+        "id" : 135375469,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7635018285,
+          "lon" : 37.6549482742
+        }
+      },
+      "lastUpdate" : "20140717T072338Z",
+      "date" : "20140717"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T120117+0600",
+      "endTime" : "20140717T221735+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140717T185252Z",
+      "date" : "20140717"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6645647221, 55.7667458797 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T230837+0600",
+      "endTime" : "20140717T231717+0600",
+      "place" : {
+        "id" : 135571169,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7667458797,
+          "lon" : 37.6645647221
+        }
+      },
+      "lastUpdate" : "20140717T185252Z",
+      "date" : "20140717"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T232312+0600",
+      "endTime" : "20140718T001104+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T211831Z",
+      "date" : "20140717"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140717T232312+0600",
+      "endTime" : "20140718T001104+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140717T211831Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T005259+0600",
+      "endTime" : "20140718T104013+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140718T095128Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.63207325187212, 55.76109742954269 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T111416+0600",
+      "endTime" : "20140718T115707+0600",
+      "place" : {
+        "id" : 134450657,
+        "name" : "Высшая школа экономики (НИУ ВШЭ)",
+        "type" : "foursquare",
+        "foursquareId" : "5374b00e498e7f4389764b0e",
+        "location" : {
+          "lat" : 55.76109742954269,
+          "lon" : 37.63207325187212
+        }
+      },
+      "lastUpdate" : "20140718T114303Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6107657763, 55.7584199091 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T162757+0600",
+      "endTime" : "20140718T224548+0600",
+      "place" : {
+        "id" : 137124196,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7584199091,
+          "lon" : 37.6107657763
+        }
+      },
+      "lastUpdate" : "20140721T184031Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6207043505, 55.7542069426 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T230305+0600",
+      "endTime" : "20140718T230659+0600",
+      "place" : {
+        "id" : 135911582,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.7542069426,
+          "lon" : 37.6207043505
+        }
+      },
+      "lastUpdate" : "20140721T184031Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.6632209988988, 55.765935923185175 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140718T234619+0600",
+      "endTime" : "20140718T234719+0600",
+      "place" : {
+        "id" : 134450568,
+        "name" : "гостиница Artist",
+        "type" : "foursquare",
+        "foursquareId" : "533744d8498eadeadf9018a5",
+        "location" : {
+          "lat" : 55.765935923185175,
+          "lon" : 37.6632209988988
+        }
+      },
+      "lastUpdate" : "20140721T223108Z",
+      "date" : "20140718"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140721T222921+0600",
+      "endTime" : "20140722T225549+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140723T172223Z",
+      "date" : "20140721"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140721T222921+0600",
+      "endTime" : "20140722T225549+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140723T172223Z",
+      "date" : "20140722"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140722T225549+0600",
+      "endTime" : "20140723T232218+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140723T172223Z",
+      "date" : "20140722"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6278210962, 56.8892163377 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140722T225549+0600",
+      "endTime" : "20140723T232218+0600",
+      "place" : {
+        "id" : 86687129,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8892163377,
+          "lon" : 60.6278210962
+        }
+      },
+      "lastUpdate" : "20140723T172223Z",
+      "date" : "20140723"
+    }
+  } ]
+}

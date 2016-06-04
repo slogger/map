@@ -1,0 +1,91 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140105T200803+0600",
+      "endTime" : "20140106T134708+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140106T083219Z",
+      "date" : "20140106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5728915271, 56.9058144906 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140106T135402+0600",
+      "endTime" : "20140106T142430+0600",
+      "place" : {
+        "id" : 84250181,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.9058144906,
+          "lon" : 60.5728915271
+        }
+      },
+      "lastUpdate" : "20140106T095626Z",
+      "date" : "20140106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140106T143107+0600",
+      "endTime" : "20140106T211358+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140106T182505Z",
+      "date" : "20140106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140106T213440+0600",
+      "endTime" : "20140106T230814+0600",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20140106T200902Z",
+      "date" : "20140106"
+    }
+  } ]
+}
