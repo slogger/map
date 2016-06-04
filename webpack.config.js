@@ -1,6 +1,7 @@
-var fs = require('fs');
-var path = require('path');
-var webpack = require('webpack');
+const fs = require('fs');
+const path = require('path');
+const webpack = require('webpack');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
@@ -23,6 +24,9 @@ module.exports = {
         }, {
             test: /\.json$/,
             loader: "json"
+        }, {
+            test: /\.css$/,
+            loader: ExtractTextPlugin.extract("style-loader", "css-loader?modules", 'postcss-loader')
         }]
     },
     resolve: {
@@ -30,6 +34,12 @@ module.exports = {
             'react': 'react-lite',
             'react-dom': 'react-lite'
         }
+    },
+    postcss: function () {
+        return [
+            require('autoprefixer'),
+            require('cssnext'),
+        ];
     },
     plugins: [
         new webpack.optimize.OccurenceOrderPlugin(),
@@ -42,7 +52,8 @@ module.exports = {
         }),
         new webpack.DefinePlugin({
             'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'development')
-        })
+        }),
+        new ExtractTextPlugin("main.css")
     ]
 
 };
