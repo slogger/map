@@ -33,7 +33,7 @@ class Map extends React.Component {
         })
         let clusterGroup = new L.MarkerClusterGroup();
         let featureLayer = L.mapbox.featureLayer()
-            .loadURL('/data/geojson/full/places.geojson')
+            .loadURL('data/geojson/full/places.geojson')
             // .addTo(map);
 
         featureLayer.on('ready', () => {
