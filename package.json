@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "build": "NODE_ENV=production webpack"
+    "lint-fix": "eslint src --fix",
+    "build": "NODE_ENV=production webpack",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -40,10 +42,14 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "css-loader": "^0.23.1",
+    "eslint": "^2.11.1",
+    "eslint-config-google": "^0.5.0",
+    "eslint-plugin-react": "^5.1.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "json-loader": "^0.5.4",
     "postcss-cssnext": "^2.6.0",
     "postcss-loader": "^0.9.1",
-    "style-loader": "^0.13.1"
+    "style-loader": "^0.13.1",
+    "turf": "^3.0.5"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "globals": {},
+  "plugins": [
+    "react"
+  ],
+  "settings": {
+    "react": {
+      "pragma": "React",
+      "version": "15.0"
+    }
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "semi": "error"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": ["google", "plugin:react/recommended"]
+}

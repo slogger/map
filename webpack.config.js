@@ -5,7 +5,12 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
-
+    devServer: {
+        hot: true,
+        inline: true,
+        noInfo: true,
+        port: 8000
+    },
     output: {
         path: path.join(__dirname, 'dist'),
         filename: '[name].js',
@@ -35,7 +40,7 @@ module.exports = {
             'react-dom': 'react-lite'
         }
     },
-    postcss: function () {
+    postcss: function() {
         return [
             require('autoprefixer'),
             require('cssnext'),
@@ -44,6 +49,7 @@ module.exports = {
     plugins: [
         new webpack.optimize.OccurenceOrderPlugin(),
         new webpack.optimize.DedupePlugin(),
+        new webpack.HotModuleReplacementPlugin(),
         new webpack.optimize.UglifyJsPlugin({
             compressor: {
                 warnings: false
