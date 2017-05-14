@@ -4,33 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.6142783207, 56.831926577 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151210T000310+0600",
-      "endTime" : "20151210T001949+0600",
-      "place" : {
-        "id" : 278463715,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.831926577,
-          "lon" : 60.6142783207
-        }
-      },
-      "lastUpdate" : "20151209T205350Z",
-      "date" : "20151210"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6148520947, 56.8319036536 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151210T001949+0600",
-      "endTime" : "20151210T093235+0600",
+      "startTime" : "20151209T231949+0500",
+      "endTime" : "20151210T083235+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -50,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151210T095617+0600",
-      "endTime" : "20151210T145358+0600",
+      "startTime" : "20151210T085617+0500",
+      "endTime" : "20151210T135358+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -72,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151210T145738+0600",
-      "endTime" : "20151210T234911+0600",
+      "startTime" : "20151210T135738+0500",
+      "endTime" : "20151210T224911+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -84,6 +63,28 @@
         }
       },
       "lastUpdate" : "20160516T162957Z",
+      "date" : "20151210"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151210T230604+0500",
+      "endTime" : "20151211T095249+0500",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151210"
     }
   } ]

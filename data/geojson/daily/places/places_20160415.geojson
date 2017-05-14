@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T174028+0600",
-      "endTime" : "20160415T074306+0600",
+      "startTime" : "20160414T164028+0500",
+      "endTime" : "20160415T064306+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T081147+0600",
-      "endTime" : "20160415T182014+0600",
+      "startTime" : "20160415T071147+0500",
+      "endTime" : "20160415T172014+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,19 +51,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T185323+0600",
-      "endTime" : "20160415T204527+0600",
+      "startTime" : "20160415T175323+0500",
+      "endTime" : "20160415T194527+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160415T152943Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160415"
     }
   }, {
@@ -74,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T204528+0600",
-      "endTime" : "20160415T205149+0600",
+      "startTime" : "20160415T194528+0500",
+      "endTime" : "20160415T195149+0500",
       "place" : {
         "id" : 287155495,
         "name" : "Дом печати",
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T205722+0600",
-      "endTime" : "20160415T210403+0600",
+      "startTime" : "20160415T195722+0500",
+      "endTime" : "20160415T200403+0500",
       "place" : {
         "id" : 283080836,
         "name" : "Red Cup",
@@ -120,8 +119,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T212052+0600",
-      "endTime" : "20160415T212354+0600",
+      "startTime" : "20160415T202052+0500",
+      "endTime" : "20160415T202354+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -131,7 +130,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160415"
     }
   }, {
@@ -142,8 +141,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T213744+0600",
-      "endTime" : "20160415T231910+0600",
+      "startTime" : "20160415T203744+0500",
+      "endTime" : "20160415T221910+0500",
       "place" : {
         "id" : 283080836,
         "name" : "Red Cup",
@@ -165,8 +164,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160415T233047+0600",
-      "endTime" : "20160416T072552+0600",
+      "startTime" : "20160415T223047+0500",
+      "endTime" : "20160416T062552+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -176,7 +175,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160415"
     }
   } ]

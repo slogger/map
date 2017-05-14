@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T230448+0600",
-      "endTime" : "20150923T100032+0600",
+      "startTime" : "20150922T220448+0500",
+      "endTime" : "20150923T090032+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T100943+0600",
-      "endTime" : "20150923T101856+0600",
+      "startTime" : "20150923T090943+0500",
+      "endTime" : "20150923T091856+0500",
       "place" : {
         "id" : 267515796,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T102438+0600",
-      "endTime" : "20150923T103957+0600",
+      "startTime" : "20150923T092438+0500",
+      "endTime" : "20150923T093957+0500",
       "place" : {
         "id" : 267541946,
         "name" : "Почта России 620039",
@@ -74,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T105146+0600",
-      "endTime" : "20150923T111256+0600",
+      "startTime" : "20150923T095146+0500",
+      "endTime" : "20150923T101256+0500",
       "place" : {
         "id" : 71375801,
         "name" : "Остановка «Метро Уралмаш»",
@@ -97,19 +97,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T112542+0600",
-      "endTime" : "20150923T131020+0600",
+      "startTime" : "20150923T102542+0500",
+      "endTime" : "20150923T121020+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150923T075041Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150923"
     }
   }, {
@@ -120,8 +119,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T131804+0600",
-      "endTime" : "20150923T134634+0600",
+      "startTime" : "20150923T121804+0500",
+      "endTime" : "20150923T124634+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -143,19 +142,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T135406+0600",
-      "endTime" : "20150923T183349+0600",
+      "startTime" : "20150923T125406+0500",
+      "endTime" : "20150923T173349+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150923T135445Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150923"
     }
   }, {
@@ -166,8 +164,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T184434+0600",
-      "endTime" : "20150923T185805+0600",
+      "startTime" : "20150923T174434+0500",
+      "endTime" : "20150923T175805+0500",
       "place" : {
         "id" : 103871609,
         "name" : "Maccheroni / Маккерони",
@@ -189,8 +187,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T190058+0600",
-      "endTime" : "20150923T192435+0600",
+      "startTime" : "20150923T180058+0500",
+      "endTime" : "20150923T182435+0500",
       "place" : {
         "id" : 66925709,
         "type" : "unknown",
@@ -210,8 +208,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T192909+0600",
-      "endTime" : "20150923T193128+0600",
+      "startTime" : "20150923T182909+0500",
+      "endTime" : "20150923T183128+0500",
       "place" : {
         "id" : 267638045,
         "type" : "unknown",
@@ -231,19 +229,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T193914+0600",
-      "endTime" : "20150923T202329+0600",
+      "startTime" : "20150923T183914+0500",
+      "endTime" : "20150923T192329+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150923T152537Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150923"
     }
   }, {
@@ -254,8 +251,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T203835+0600",
-      "endTime" : "20150923T224040+0600",
+      "startTime" : "20150923T193835+0500",
+      "endTime" : "20150923T214040+0500",
       "place" : {
         "id" : 267664517,
         "type" : "unknown",
@@ -275,8 +272,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150923T232528+0600",
-      "endTime" : "20150923T235113+0600",
+      "startTime" : "20150923T222528+0500",
+      "endTime" : "20150923T225113+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

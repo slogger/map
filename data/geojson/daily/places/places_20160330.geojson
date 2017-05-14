@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160329T233643+0600",
-      "endTime" : "20160330T094424+0600",
+      "startTime" : "20160329T223643+0500",
+      "endTime" : "20160330T084424+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160330"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160330T101017+0600",
-      "endTime" : "20160330T103210+0600",
+      "startTime" : "20160330T091017+0500",
+      "endTime" : "20160330T093210+0500",
       "place" : {
         "id" : 317449856,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160330T103211+0600",
-      "endTime" : "20160330T150455+0600",
+      "startTime" : "20160330T093211+0500",
+      "endTime" : "20160330T140455+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -73,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160330T153941+0600",
-      "endTime" : "20160330T184026+0600",
+      "startTime" : "20160330T143941+0500",
+      "endTime" : "20160330T174026+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160330T134226Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160330"
     }
   }, {
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160330T185708+0600",
-      "endTime" : "20160331T111019+0600",
+      "startTime" : "20160330T175708+0500",
+      "endTime" : "20160331T101019+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -107,7 +106,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160330"
     }
   } ]

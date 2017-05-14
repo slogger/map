@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T224211+0600",
-      "endTime" : "20151020T091400+0600",
+      "startTime" : "20151019T214211+0500",
+      "endTime" : "20151020T081400+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T093531+0600",
-      "endTime" : "20151020T094657+0600",
+      "startTime" : "20151020T083531+0500",
+      "endTime" : "20151020T084657+0500",
       "place" : {
         "id" : 71375801,
         "name" : "Остановка «Метро Уралмаш»",
@@ -53,19 +53,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T100457+0600",
-      "endTime" : "20151020T172044+0600",
+      "startTime" : "20151020T090457+0500",
+      "endTime" : "20151020T162044+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151020T155757Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151020"
     }
   }, {
@@ -76,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T174554+0600",
-      "endTime" : "20151020T221805+0600",
+      "startTime" : "20151020T164554+0500",
+      "endTime" : "20151020T211805+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -98,8 +97,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T223433+0600",
-      "endTime" : "20151020T223748+0600",
+      "startTime" : "20151020T213433+0500",
+      "endTime" : "20151020T213748+0500",
       "place" : {
         "id" : 276335178,
         "type" : "unknown",
@@ -119,8 +118,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T231205+0600",
-      "endTime" : "20151020T231828+0600",
+      "startTime" : "20151020T221205+0500",
+      "endTime" : "20151020T221828+0500",
       "place" : {
         "id" : 276349175,
         "type" : "unknown",
@@ -140,8 +139,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151020T235114+0600",
-      "endTime" : "20151021T133646+0600",
+      "startTime" : "20151020T225114+0500",
+      "endTime" : "20151021T123646+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

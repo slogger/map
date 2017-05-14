@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160228T093857+0600",
-      "endTime" : "20160229T083058+0600",
+      "startTime" : "20160228T083857+0500",
+      "endTime" : "20160229T073058+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T083156+0600",
-      "endTime" : "20160229T092532+0600",
+      "startTime" : "20160229T073156+0500",
+      "endTime" : "20160229T082532+0500",
       "place" : {
         "id" : 306814339,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T092600+0600",
-      "endTime" : "20160229T093904+0600",
+      "startTime" : "20160229T082600+0500",
+      "endTime" : "20160229T083904+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T100120+0600",
-      "endTime" : "20160229T152449+0600",
+      "startTime" : "20160229T090120+0500",
+      "endTime" : "20160229T142449+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -93,19 +93,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T160613+0600",
-      "endTime" : "20160229T202410+0600",
+      "startTime" : "20160229T150613+0500",
+      "endTime" : "20160229T192410+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160229T160832Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160229"
     }
   }, {
@@ -116,8 +115,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T204218+0600",
-      "endTime" : "20160229T235634+0600",
+      "startTime" : "20160229T194218+0500",
+      "endTime" : "20160229T225634+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -137,8 +136,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160229T235739+0600",
-      "endTime" : "20160301T110547+0600",
+      "startTime" : "20160229T225739+0500",
+      "endTime" : "20160301T100547+0500",
       "place" : {
         "id" : 292217259,
         "type" : "unknown",

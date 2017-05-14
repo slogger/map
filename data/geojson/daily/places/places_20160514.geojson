@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160513T200504+0600",
-      "endTime" : "20160514T091025+0600",
+      "startTime" : "20160513T190504+0500",
+      "endTime" : "20160514T081025+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T093746+0600",
-      "endTime" : "20160514T173615+0600",
+      "startTime" : "20160514T083746+0500",
+      "endTime" : "20160514T163615+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T184745+0600",
-      "endTime" : "20160514T185340+0600",
+      "startTime" : "20160514T174745+0500",
+      "endTime" : "20160514T175340+0500",
       "place" : {
         "id" : 331000317,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T190655+0600",
-      "endTime" : "20160514T191010+0600",
+      "startTime" : "20160514T180655+0500",
+      "endTime" : "20160514T181010+0500",
       "place" : {
         "id" : 331000318,
         "type" : "unknown",
@@ -93,8 +93,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T201409+0600",
-      "endTime" : "20160514T221610+0600",
+      "startTime" : "20160514T191409+0500",
+      "endTime" : "20160514T211610+0500",
       "place" : {
         "id" : 331111948,
         "type" : "unknown",
@@ -114,8 +114,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T223229+0600",
-      "endTime" : "20160514T223620+0600",
+      "startTime" : "20160514T213229+0500",
+      "endTime" : "20160514T213620+0500",
       "place" : {
         "id" : 331111948,
         "type" : "unknown",
@@ -135,8 +135,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160514T223900+0600",
-      "endTime" : "20160514T224525+0600",
+      "startTime" : "20160514T213900+0500",
+      "endTime" : "20160514T214525+0500",
       "place" : {
         "id" : 331111949,
         "type" : "unknown",
@@ -146,6 +146,28 @@
         }
       },
       "lastUpdate" : "20160514T194149Z",
+      "date" : "20160514"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160514T230709+0500",
+      "endTime" : "20160515T100959+0500",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160514"
     }
   } ]

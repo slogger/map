@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T005640+0600",
-      "endTime" : "20151015T091334+0600",
+      "startTime" : "20151014T235640+0500",
+      "endTime" : "20151015T081334+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T101147+0600",
-      "endTime" : "20151015T152057+0600",
+      "startTime" : "20151015T091147+0500",
+      "endTime" : "20151015T142057+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -52,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T153825+0600",
-      "endTime" : "20151015T170000+0600",
+      "startTime" : "20151015T143825+0500",
+      "endTime" : "20151015T160000+0500",
       "place" : {
         "id" : 274646188,
         "type" : "unknown",
@@ -73,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T170340+0600",
-      "endTime" : "20151015T180654+0600",
+      "startTime" : "20151015T160340+0500",
+      "endTime" : "20151015T170654+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151015T143826Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151015"
     }
   }, {
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T180655+0600",
-      "endTime" : "20151015T183407+0600",
+      "startTime" : "20151015T170655+0500",
+      "endTime" : "20151015T173407+0500",
       "place" : {
         "id" : 274695079,
         "type" : "unknown",
@@ -117,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T184532+0600",
-      "endTime" : "20151015T184952+0600",
+      "startTime" : "20151015T174532+0500",
+      "endTime" : "20151015T174952+0500",
       "place" : {
         "id" : 103871477,
         "name" : "Ленина, 41",
@@ -140,8 +139,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T190209+0600",
-      "endTime" : "20151015T191144+0600",
+      "startTime" : "20151015T180209+0500",
+      "endTime" : "20151015T181144+0500",
       "place" : {
         "id" : 70827257,
         "name" : "Красный Леопард",
@@ -163,8 +162,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T192809+0600",
-      "endTime" : "20151015T235218+0600",
+      "startTime" : "20151015T182809+0500",
+      "endTime" : "20151015T225218+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -185,14 +184,37 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151015T235219+0600",
-      "endTime" : "20151015T235706+0600",
+      "startTime" : "20151015T225219+0500",
+      "endTime" : "20151015T225706+0500",
       "place" : {
         "id" : 274767197,
         "type" : "unknown",
         "location" : {
           "lat" : 56.8296612451,
           "lon" : 60.5901498431
+        }
+      },
+      "lastUpdate" : "20151015T204225Z",
+      "date" : "20151015"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.596251487731934, 56.83629702663897 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151015T231511+0500",
+      "endTime" : "20151015T232916+0500",
+      "place" : {
+        "id" : 99703772,
+        "name" : "ЦУМ",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e297b87003704c5a36b99",
+        "location" : {
+          "lat" : 56.83629702663897,
+          "lon" : 60.596251487731934
         }
       },
       "lastUpdate" : "20151015T204225Z",

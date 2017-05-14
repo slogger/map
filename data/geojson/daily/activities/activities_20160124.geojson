@@ -4,18 +4,18 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.6159312537, 56.8303816595 ], [ 60.6148520947, 56.8319036536 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20160124T192656+0600",
-      "endTime" : "20160124T192957+0600",
+      "startTime" : "20160124T182656+0500",
+      "endTime" : "20160124T182957+0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160124T192656+0600",
-        "endTime" : "20160124T192958+0600",
+        "startTime" : "20160124T182656+0500",
+        "endTime" : "20160124T182958+0500",
         "duration" : 182.0,
         "distance" : 209.0,
         "steps" : 242

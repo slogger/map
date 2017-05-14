@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150924T230026+0600",
-      "endTime" : "20150925T083122+0600",
+      "startTime" : "20150924T220026+0500",
+      "endTime" : "20150925T073122+0500",
       "place" : {
         "id" : 268020024,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T113014+0600",
-      "endTime" : "20150925T131025+0600",
+      "startTime" : "20150925T103014+0500",
+      "endTime" : "20150925T121025+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150925T100111Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150925"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T131827+0600",
-      "endTime" : "20150925T132446+0600",
+      "startTime" : "20150925T121827+0500",
+      "endTime" : "20150925T122446+0500",
       "place" : {
         "id" : 268186726,
         "type" : "unknown",
@@ -73,19 +72,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T134101+0600",
-      "endTime" : "20150925T170544+0600",
+      "startTime" : "20150925T124101+0500",
+      "endTime" : "20150925T160544+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150925T143417Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150925"
     }
   }, {
@@ -96,8 +94,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T172827+0600",
-      "endTime" : "20150925T184445+0600",
+      "startTime" : "20150925T162827+0500",
+      "endTime" : "20150925T174445+0500",
       "place" : {
         "id" : 70827257,
         "name" : "Красный Леопард",
@@ -119,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T185225+0600",
-      "endTime" : "20150925T185508+0600",
+      "startTime" : "20150925T175225+0500",
+      "endTime" : "20150925T175508+0500",
       "place" : {
         "id" : 156922285,
         "type" : "unknown",
@@ -140,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T190657+0600",
-      "endTime" : "20150925T194758+0600",
+      "startTime" : "20150925T180657+0500",
+      "endTime" : "20150925T184758+0500",
       "place" : {
         "id" : 153931696,
         "type" : "unknown",
@@ -161,8 +159,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T195933+0600",
-      "endTime" : "20150925T200051+0600",
+      "startTime" : "20150925T185933+0500",
+      "endTime" : "20150925T190051+0500",
       "place" : {
         "id" : 268269645,
         "type" : "unknown",
@@ -182,8 +180,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150925T203008+0600",
-      "endTime" : "20150925T215834+0600",
+      "startTime" : "20150925T193008+0500",
+      "endTime" : "20150925T205834+0500",
       "place" : {
         "id" : 268343356,
         "type" : "unknown",
@@ -193,6 +191,28 @@
         }
       },
       "lastUpdate" : "20150925T202956Z",
+      "date" : "20150925"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150925T230604+0500",
+      "endTime" : "20150926T130301+0500",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150926T143147Z",
       "date" : "20150925"
     }
   } ]

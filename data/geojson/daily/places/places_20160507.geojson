@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160506T174052+0600",
-      "endTime" : "20160507T150323+0600",
+      "startTime" : "20160506T164052+0500",
+      "endTime" : "20160507T140323+0500",
       "place" : {
         "id" : 307551196,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T154938+0600",
-      "endTime" : "20160507T155423+0600",
+      "startTime" : "20160507T144938+0500",
+      "endTime" : "20160507T145423+0500",
       "place" : {
         "id" : 328658540,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T162439+0600",
-      "endTime" : "20160507T163706+0600",
+      "startTime" : "20160507T152439+0500",
+      "endTime" : "20160507T153706+0500",
       "place" : {
         "id" : 328658541,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T165732+0600",
-      "endTime" : "20160507T172902+0600",
+      "startTime" : "20160507T155732+0500",
+      "endTime" : "20160507T162902+0500",
       "place" : {
         "id" : 328658542,
         "type" : "unknown",
@@ -92,8 +92,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T175403+0600",
-      "endTime" : "20160507T175743+0600",
+      "startTime" : "20160507T165403+0500",
+      "endTime" : "20160507T165743+0500",
       "place" : {
         "id" : 328736321,
         "type" : "unknown",
@@ -113,8 +113,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T185504+0600",
-      "endTime" : "20160507T185736+0600",
+      "startTime" : "20160507T175504+0500",
+      "endTime" : "20160507T175736+0500",
       "place" : {
         "id" : 328776761,
         "type" : "unknown",
@@ -134,8 +134,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T185736+0600",
-      "endTime" : "20160507T221546+0600",
+      "startTime" : "20160507T175736+0500",
+      "endTime" : "20160507T211546+0500",
       "place" : {
         "id" : 307551196,
         "type" : "unknown",
@@ -155,8 +155,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160507T231630+0600",
-      "endTime" : "20160507T232853+0600",
+      "startTime" : "20160507T221630+0500",
+      "endTime" : "20160507T222853+0500",
       "place" : {
         "id" : 328817086,
         "type" : "unknown",
@@ -166,6 +166,69 @@
         }
       },
       "lastUpdate" : "20160507T185354Z",
+      "date" : "20160507"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.479795, 55.77509 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160507T231113+0500",
+      "endTime" : "20160507T231331+0500",
+      "place" : {
+        "id" : 328853669,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.77509,
+          "lon" : 37.479795
+        }
+      },
+      "lastUpdate" : "20160507T185354Z",
+      "date" : "20160507"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.482168, 55.774813 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160507T231533+0500",
+      "endTime" : "20160507T233331+0500",
+      "place" : {
+        "id" : 328853670,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.774813,
+          "lon" : 37.482168
+        }
+      },
+      "lastUpdate" : "20160507T185354Z",
+      "date" : "20160507"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.47894, 55.775187 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160507T233839+0500",
+      "endTime" : "20160508T002753+0500",
+      "place" : {
+        "id" : 328853671,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.775187,
+          "lon" : 37.47894
+        }
+      },
+      "lastUpdate" : "20160507T202609Z",
       "date" : "20160507"
     }
   } ]

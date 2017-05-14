@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160413T181259+0600",
-      "endTime" : "20160414T111716+0600",
+      "startTime" : "20160413T171259+0500",
+      "endTime" : "20160414T101716+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160414"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T114152+0600",
-      "endTime" : "20160414T114559+0600",
+      "startTime" : "20160414T104152+0500",
+      "endTime" : "20160414T104559+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -41,7 +41,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160414"
     }
   }, {
@@ -52,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T120057+0600",
-      "endTime" : "20160414T130259+0600",
+      "startTime" : "20160414T110057+0500",
+      "endTime" : "20160414T120259+0500",
       "place" : {
         "id" : 68725751,
         "type" : "unknown",
@@ -73,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T130937+0600",
-      "endTime" : "20160414T131810+0600",
+      "startTime" : "20160414T120937+0500",
+      "endTime" : "20160414T121810+0500",
       "place" : {
         "id" : 287155495,
         "name" : "Дом печати",
@@ -96,19 +96,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T131811+0600",
-      "endTime" : "20160414T171106+0600",
+      "startTime" : "20160414T121811+0500",
+      "endTime" : "20160414T161106+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160414T113614Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160414"
     }
   }, {
@@ -119,8 +118,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160414T174028+0600",
-      "endTime" : "20160415T074306+0600",
+      "startTime" : "20160414T164028+0500",
+      "endTime" : "20160415T064306+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160510T222121+0600",
-      "endTime" : "20160511T113632+0600",
+      "startTime" : "20160510T212121+0500",
+      "endTime" : "20160511T103632+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160511"
     }
   }, {
@@ -30,19 +30,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T115216+0600",
-      "endTime" : "20160511T130909+0600",
+      "startTime" : "20160511T105216+0500",
+      "endTime" : "20160511T120909+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160511T075239Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160511"
     }
   }, {
@@ -53,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T131636+0600",
-      "endTime" : "20160511T133749+0600",
+      "startTime" : "20160511T121636+0500",
+      "endTime" : "20160511T123749+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -76,19 +75,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T134548+0600",
-      "endTime" : "20160511T183645+0600",
+      "startTime" : "20160511T124548+0500",
+      "endTime" : "20160511T173645+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160511T133632Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160511"
     }
   }, {
@@ -99,8 +97,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T184406+0600",
-      "endTime" : "20160511T192201+0600",
+      "startTime" : "20160511T174406+0500",
+      "endTime" : "20160511T182201+0500",
       "place" : {
         "id" : 283080836,
         "name" : "Red Cup",
@@ -122,8 +120,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T193641+0600",
-      "endTime" : "20160512T112709+0600",
+      "startTime" : "20160511T183641+0500",
+      "endTime" : "20160512T102709+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

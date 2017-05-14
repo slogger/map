@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160125T152513+0600",
-      "endTime" : "20160126T025331+0600",
+      "startTime" : "20160125T142513+0500",
+      "endTime" : "20160126T015331+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160126T025331+0600",
-      "endTime" : "20160126T114627+0600",
+      "startTime" : "20160126T015331+0500",
+      "endTime" : "20160126T104627+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -50,19 +50,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160126T120125+0600",
-      "endTime" : "20160126T165007+0600",
+      "startTime" : "20160126T110125+0500",
+      "endTime" : "20160126T155007+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160126T112824Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160126"
     }
   }, {
@@ -73,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160126T170117+0600",
-      "endTime" : "20160126T170739+0600",
+      "startTime" : "20160126T160117+0500",
+      "endTime" : "20160126T160739+0500",
       "place" : {
         "id" : 301710569,
         "type" : "unknown",
@@ -94,8 +93,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160126T172352+0600",
-      "endTime" : "20160126T174736+0600",
+      "startTime" : "20160126T162352+0500",
+      "endTime" : "20160126T164736+0500",
       "place" : {
         "id" : 103871477,
         "name" : "Ленина, 41",
@@ -117,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160126T180746+0600",
-      "endTime" : "20160127T010621+0600",
+      "startTime" : "20160126T170746+0500",
+      "endTime" : "20160127T000621+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",

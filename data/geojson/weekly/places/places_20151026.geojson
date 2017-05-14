@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151025T202546+0600",
-      "endTime" : "20151026T090508+0600",
+      "startTime" : "20151025T192546+0500",
+      "endTime" : "20151026T080508+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T093445+0600",
-      "endTime" : "20151026T151058+0600",
+      "startTime" : "20151026T083445+0500",
+      "endTime" : "20151026T141058+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,19 +51,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T153904+0600",
-      "endTime" : "20151026T171132+0600",
+      "startTime" : "20151026T143904+0500",
+      "endTime" : "20151026T161132+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151026T120714Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151026"
     }
   }, {
@@ -74,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T171445+0600",
-      "endTime" : "20151026T181453+0600",
+      "startTime" : "20151026T161445+0500",
+      "endTime" : "20151026T171453+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151026T145220Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151026"
     }
   }, {
@@ -97,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T192137+0600",
-      "endTime" : "20151026T211339+0600",
+      "startTime" : "20151026T182137+0500",
+      "endTime" : "20151026T201339+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -119,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T213616+0600",
-      "endTime" : "20151026T223251+0600",
+      "startTime" : "20151026T203616+0500",
+      "endTime" : "20151026T213251+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -140,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T223251+0600",
-      "endTime" : "20151026T231407+0600",
+      "startTime" : "20151026T213251+0500",
+      "endTime" : "20151026T221407+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -151,7 +149,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151026"
     }
   }, {
@@ -162,8 +160,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T231407+0600",
-      "endTime" : "20151027T094049+0600",
+      "startTime" : "20151026T221407+0500",
+      "endTime" : "20151027T084049+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -183,8 +181,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151026T231407+0600",
-      "endTime" : "20151027T094049+0600",
+      "startTime" : "20151026T221407+0500",
+      "endTime" : "20151027T084049+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -204,19 +202,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T095659+0600",
-      "endTime" : "20151027T113344+0600",
+      "startTime" : "20151027T085659+0500",
+      "endTime" : "20151027T103344+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151027T073901Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151027"
     }
   }, {
@@ -227,8 +224,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T115246+0600",
-      "endTime" : "20151027T133843+0600",
+      "startTime" : "20151027T105246+0500",
+      "endTime" : "20151027T123843+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -248,8 +245,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T135432+0600",
-      "endTime" : "20151027T184212+0600",
+      "startTime" : "20151027T125432+0500",
+      "endTime" : "20151027T174212+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -271,8 +268,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T185550+0600",
-      "endTime" : "20151027T193620+0600",
+      "startTime" : "20151027T175550+0500",
+      "endTime" : "20151027T183620+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -292,8 +289,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T194151+0600",
-      "endTime" : "20151027T195253+0600",
+      "startTime" : "20151027T184151+0500",
+      "endTime" : "20151027T185253+0500",
       "place" : {
         "id" : 278380714,
         "type" : "unknown",
@@ -313,8 +310,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T200750+0600",
-      "endTime" : "20151027T201239+0600",
+      "startTime" : "20151027T190750+0500",
+      "endTime" : "20151027T191239+0500",
       "place" : {
         "id" : 278393388,
         "type" : "unknown",
@@ -334,8 +331,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T201746+0600",
-      "endTime" : "20151027T221447+0600",
+      "startTime" : "20151027T191746+0500",
+      "endTime" : "20151027T211447+0500",
       "place" : {
         "id" : 278393389,
         "type" : "unknown",
@@ -355,8 +352,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T221448+0600",
-      "endTime" : "20151027T222509+0600",
+      "startTime" : "20151027T211448+0500",
+      "endTime" : "20151027T212509+0500",
       "place" : {
         "id" : 278393390,
         "type" : "unknown",
@@ -376,8 +373,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T225041+0600",
-      "endTime" : "20151027T225531+0600",
+      "startTime" : "20151027T215041+0500",
+      "endTime" : "20151027T215531+0500",
       "place" : {
         "id" : 267638045,
         "type" : "unknown",
@@ -397,8 +394,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T230612+0600",
-      "endTime" : "20151028T093345+0600",
+      "startTime" : "20151027T220612+0500",
+      "endTime" : "20151028T083345+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -418,8 +415,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151027T230612+0600",
-      "endTime" : "20151028T093345+0600",
+      "startTime" : "20151027T220612+0500",
+      "endTime" : "20151028T083345+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -439,8 +436,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151028T100300+0600",
-      "endTime" : "20151028T132355+0600",
+      "startTime" : "20151028T090300+0500",
+      "endTime" : "20151028T122355+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -461,19 +458,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151028T134833+0600",
-      "endTime" : "20151028T201204+0600",
+      "startTime" : "20151028T124833+0500",
+      "endTime" : "20151028T191204+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151028T153210Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151028"
     }
   }, {
@@ -484,8 +480,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151028T204924+0600",
-      "endTime" : "20151028T234128+0600",
+      "startTime" : "20151028T194924+0500",
+      "endTime" : "20151028T224128+0500",
       "place" : {
         "id" : 279188622,
         "name" : "СКБ Контур",
@@ -507,8 +503,29 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T002056+0600",
-      "endTime" : "20151029T093220+0600",
+      "startTime" : "20151028T232056+0500",
+      "endTime" : "20151029T083220+0500",
+      "place" : {
+        "id" : 276475865,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319677488,
+          "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20151029T043504Z",
+      "date" : "20151028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153679216, 56.8319677488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151028T232056+0500",
+      "endTime" : "20151029T083220+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -528,8 +545,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T100229+0600",
-      "endTime" : "20151029T193017+0600",
+      "startTime" : "20151029T090229+0500",
+      "endTime" : "20151029T183017+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -550,8 +567,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T195010+0600",
-      "endTime" : "20151029T195230+0600",
+      "startTime" : "20151029T185010+0500",
+      "endTime" : "20151029T185230+0500",
       "place" : {
         "id" : 278922759,
         "type" : "unknown",
@@ -571,8 +588,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T200726+0600",
-      "endTime" : "20151029T215730+0600",
+      "startTime" : "20151029T190726+0500",
+      "endTime" : "20151029T205730+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -592,8 +609,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T220053+0600",
-      "endTime" : "20151029T220940+0600",
+      "startTime" : "20151029T210053+0500",
+      "endTime" : "20151029T210940+0500",
       "place" : {
         "id" : 101499102,
         "type" : "unknown",
@@ -613,8 +630,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T222128+0600",
-      "endTime" : "20151029T223312+0600",
+      "startTime" : "20151029T212128+0500",
+      "endTime" : "20151029T213312+0500",
       "place" : {
         "id" : 267638045,
         "type" : "unknown",
@@ -634,8 +651,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T224128+0600",
-      "endTime" : "20151030T094635+0600",
+      "startTime" : "20151029T214128+0500",
+      "endTime" : "20151030T084635+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -655,8 +672,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151029T224128+0600",
-      "endTime" : "20151030T094635+0600",
+      "startTime" : "20151029T214128+0500",
+      "endTime" : "20151030T084635+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -676,19 +693,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T100322+0600",
-      "endTime" : "20151030T131539+0600",
+      "startTime" : "20151030T090322+0500",
+      "endTime" : "20151030T121539+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151030T092305Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151030"
     }
   }, {
@@ -699,8 +715,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T132417+0600",
-      "endTime" : "20151030T133428+0600",
+      "startTime" : "20151030T122417+0500",
+      "endTime" : "20151030T123428+0500",
       "place" : {
         "id" : 279082722,
         "type" : "unknown",
@@ -720,8 +736,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T135607+0600",
-      "endTime" : "20151030T142911+0600",
+      "startTime" : "20151030T125607+0500",
+      "endTime" : "20151030T132911+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -741,8 +757,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T144333+0600",
-      "endTime" : "20151030T150058+0600",
+      "startTime" : "20151030T134333+0500",
+      "endTime" : "20151030T140058+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -764,8 +780,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T151240+0600",
-      "endTime" : "20151030T160646+0600",
+      "startTime" : "20151030T141240+0500",
+      "endTime" : "20151030T150646+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -775,7 +791,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151030"
     }
   }, {
@@ -786,8 +802,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T163351+0600",
-      "endTime" : "20151030T230149+0600",
+      "startTime" : "20151030T153351+0500",
+      "endTime" : "20151030T220149+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -808,8 +824,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T234007+0600",
-      "endTime" : "20151031T132147+0600",
+      "startTime" : "20151030T224007+0500",
+      "endTime" : "20151031T122147+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -829,8 +845,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151030T234007+0600",
-      "endTime" : "20151031T132147+0600",
+      "startTime" : "20151030T224007+0500",
+      "endTime" : "20151031T122147+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -850,8 +866,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151031T142059+0600",
-      "endTime" : "20151031T152922+0600",
+      "startTime" : "20151031T132059+0500",
+      "endTime" : "20151031T142922+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -872,8 +888,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151031T170820+0600",
-      "endTime" : "20151101T013702+0600",
+      "startTime" : "20151031T160820+0500",
+      "endTime" : "20151101T003702+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -893,8 +909,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151031T170820+0600",
-      "endTime" : "20151101T013702+0600",
+      "startTime" : "20151031T160820+0500",
+      "endTime" : "20151101T003702+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -914,8 +930,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151101T014609+0600",
-      "endTime" : "20151101T023140+0600",
+      "startTime" : "20151101T004609+0500",
+      "endTime" : "20151101T013140+0500",
       "place" : {
         "id" : 272189537,
         "type" : "unknown",
@@ -935,8 +951,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151101T025318+0600",
-      "endTime" : "20151101T213753+0600",
+      "startTime" : "20151101T015318+0500",
+      "endTime" : "20151101T203753+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -956,8 +972,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151101T220239+0600",
-      "endTime" : "20151101T220642+0600",
+      "startTime" : "20151101T210239+0500",
+      "endTime" : "20151101T210642+0500",
       "place" : {
         "id" : 279959400,
         "type" : "unknown",
@@ -977,8 +993,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151101T222128+0600",
-      "endTime" : "20151102T000328+0600",
+      "startTime" : "20151101T212128+0500",
+      "endTime" : "20151101T230328+0500",
       "place" : {
         "id" : 272342148,
         "type" : "unknown",

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160518T192439+0600",
-      "endTime" : "20160519T111937+0600",
+      "startTime" : "20160518T182439+0500",
+      "endTime" : "20160519T101937+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T113647+0600",
-      "endTime" : "20160519T131348+0600",
+      "startTime" : "20160519T103647+0500",
+      "endTime" : "20160519T121348+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160519T085047Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160519"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T132445+0600",
-      "endTime" : "20160519T134828+0600",
+      "startTime" : "20160519T122445+0500",
+      "endTime" : "20160519T124828+0500",
       "place" : {
         "id" : 103871559,
         "name" : "ост. Театр музкомедии",
@@ -75,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T170316+0600",
-      "endTime" : "20160519T170944+0600",
+      "startTime" : "20160519T160316+0500",
+      "endTime" : "20160519T160944+0500",
       "place" : {
         "id" : 267638045,
         "type" : "unknown",
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T171856+0600",
-      "endTime" : "20160519T180551+0600",
+      "startTime" : "20160519T161856+0500",
+      "endTime" : "20160519T170551+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -107,7 +106,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160519"
     }
   }, {
@@ -118,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T180833+0600",
-      "endTime" : "20160519T181227+0600",
+      "startTime" : "20160519T170833+0500",
+      "endTime" : "20160519T171227+0500",
       "place" : {
         "id" : 278156786,
         "type" : "unknown",
@@ -139,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T191219+0600",
-      "endTime" : "20160519T223920+0600",
+      "startTime" : "20160519T181219+0500",
+      "endTime" : "20160519T213920+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -161,8 +160,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160519T232249+0600",
-      "endTime" : "20160520T092746+0600",
+      "startTime" : "20160519T222249+0500",
+      "endTime" : "20160520T082746+0500",
       "place" : {
         "id" : 284366039,
         "type" : "unknown",

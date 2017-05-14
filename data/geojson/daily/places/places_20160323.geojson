@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160322T214239+0600",
-      "endTime" : "20160323T103622+0600",
+      "startTime" : "20160322T204239+0500",
+      "endTime" : "20160323T093622+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160323"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T105101+0600",
-      "endTime" : "20160323T105205+0600",
+      "startTime" : "20160323T095101+0500",
+      "endTime" : "20160323T095205+0500",
       "place" : {
         "id" : 315511465,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T105206+0600",
-      "endTime" : "20160323T151532+0600",
+      "startTime" : "20160323T095206+0500",
+      "endTime" : "20160323T141532+0500",
       "place" : {
         "id" : 287155495,
         "name" : "Дом печати",
@@ -74,19 +74,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T151533+0600",
-      "endTime" : "20160323T183458+0600",
+      "startTime" : "20160323T141533+0500",
+      "endTime" : "20160323T173458+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160323T140607Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160323"
     }
   }, {
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T184631+0600",
-      "endTime" : "20160323T190357+0600",
+      "startTime" : "20160323T174631+0500",
+      "endTime" : "20160323T180357+0500",
       "place" : {
         "id" : 103871600,
         "name" : "Вилка-Ложка",
@@ -120,8 +119,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T195353+0600",
-      "endTime" : "20160323T210015+0600",
+      "startTime" : "20160323T185353+0500",
+      "endTime" : "20160323T200015+0500",
       "place" : {
         "id" : 279188622,
         "name" : "СКБ Контур",
@@ -143,8 +142,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T213744+0600",
-      "endTime" : "20160323T215442+0600",
+      "startTime" : "20160323T203744+0500",
+      "endTime" : "20160323T205442+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -164,8 +163,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160323T215924+0600",
-      "endTime" : "20160324T111045+0600",
+      "startTime" : "20160323T205924+0500",
+      "endTime" : "20160324T101045+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

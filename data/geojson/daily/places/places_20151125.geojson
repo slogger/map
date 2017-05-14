@@ -4,33 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.613080268, 56.8355184923 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151124T223824+0600",
-      "endTime" : "20151125T005749+0600",
-      "place" : {
-        "id" : 286202518,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.8355184923,
-          "lon" : 60.613080268
-        }
-      },
-      "lastUpdate" : "20151124T224802Z",
-      "date" : "20151125"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6142783207, 56.831926577 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151125T024731+0600",
-      "endTime" : "20151125T102444+0600",
+      "startTime" : "20151125T014731+0500",
+      "endTime" : "20151125T092444+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -50,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151125T104931+0600",
-      "endTime" : "20151125T160255+0600",
+      "startTime" : "20151125T094931+0500",
+      "endTime" : "20151125T150255+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -72,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151125T164326+0600",
-      "endTime" : "20151125T170137+0600",
+      "startTime" : "20151125T154326+0500",
+      "endTime" : "20151125T160137+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -95,19 +74,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151125T170138+0600",
-      "endTime" : "20151125T194507+0600",
+      "startTime" : "20151125T160138+0500",
+      "endTime" : "20151125T184507+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151125T145412Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151125"
     }
   }, {
@@ -118,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151125T200524+0600",
-      "endTime" : "20151126T071153+0600",
+      "startTime" : "20151125T190524+0500",
+      "endTime" : "20151126T061153+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",

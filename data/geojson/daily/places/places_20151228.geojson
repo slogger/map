@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151227T174131+0600",
-      "endTime" : "20151228T120240+0600",
+      "startTime" : "20151227T164131+0500",
+      "endTime" : "20151228T110240+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151228T120241+0600",
-      "endTime" : "20151228T132126+0600",
+      "startTime" : "20151228T110241+0500",
+      "endTime" : "20151228T122126+0500",
       "place" : {
         "id" : 283374195,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151228T132126+0600",
-      "endTime" : "20151228T134521+0600",
+      "startTime" : "20151228T122126+0500",
+      "endTime" : "20151228T124521+0500",
       "place" : {
         "id" : 278730878,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151228T134637+0600",
-      "endTime" : "20151228T153523+0600",
+      "startTime" : "20151228T124637+0500",
+      "endTime" : "20151228T143523+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -92,19 +92,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151228T155055+0600",
-      "endTime" : "20151228T222850+0600",
+      "startTime" : "20151228T145055+0500",
+      "endTime" : "20151228T212850+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151228T170723Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151228"
     }
   }, {
@@ -115,8 +114,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151228T224405+0600",
-      "endTime" : "20151229T110057+0600",
+      "startTime" : "20151228T214405+0500",
+      "endTime" : "20151229T100057+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

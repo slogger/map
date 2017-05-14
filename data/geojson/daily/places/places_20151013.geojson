@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T003936+0600",
-      "endTime" : "20151013T105605+0600",
+      "startTime" : "20151012T233936+0500",
+      "endTime" : "20151013T095605+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,19 +30,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T115142+0600",
-      "endTime" : "20151013T130449+0600",
+      "startTime" : "20151013T105142+0500",
+      "endTime" : "20151013T120449+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151013T085904Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151013"
     }
   }, {
@@ -53,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T131627+0600",
-      "endTime" : "20151013T133200+0600",
+      "startTime" : "20151013T121627+0500",
+      "endTime" : "20151013T123200+0500",
       "place" : {
         "id" : 103871609,
         "name" : "Maccheroni / Маккерони",
@@ -76,19 +75,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T134402+0600",
-      "endTime" : "20151013T190227+0600",
+      "startTime" : "20151013T124402+0500",
+      "endTime" : "20151013T180227+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151013T150324Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151013"
     }
   }, {
@@ -99,8 +97,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T194229+0600",
-      "endTime" : "20151013T221912+0600",
+      "startTime" : "20151013T184229+0500",
+      "endTime" : "20151013T211912+0500",
       "place" : {
         "id" : 274195564,
         "type" : "unknown",
@@ -120,8 +118,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T223245+0600",
-      "endTime" : "20151013T223802+0600",
+      "startTime" : "20151013T213245+0500",
+      "endTime" : "20151013T213802+0500",
       "place" : {
         "id" : 70826944,
         "name" : "Трамвайная остановка \"УПИ\"",
@@ -143,8 +141,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151013T233025+0600",
-      "endTime" : "20151014T085752+0600",
+      "startTime" : "20151013T223025+0500",
+      "endTime" : "20151014T075752+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

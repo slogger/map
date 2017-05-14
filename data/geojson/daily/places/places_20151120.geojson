@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151119T215203+0600",
-      "endTime" : "20151120T104627+0600",
+      "startTime" : "20151119T205203+0500",
+      "endTime" : "20151120T094627+0500",
       "place" : {
         "id" : 278268791,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151120T110102+0600",
-      "endTime" : "20151120T140544+0600",
+      "startTime" : "20151120T100102+0500",
+      "endTime" : "20151120T130544+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151120T083406Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151120"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151120T141510+0600",
-      "endTime" : "20151120T143306+0600",
+      "startTime" : "20151120T131510+0500",
+      "endTime" : "20151120T133306+0500",
       "place" : {
         "id" : 267638045,
         "type" : "unknown",
@@ -73,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151120T143944+0600",
-      "endTime" : "20151120T153056+0600",
+      "startTime" : "20151120T133944+0500",
+      "endTime" : "20151120T143056+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -94,8 +93,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151120T155513+0600",
-      "endTime" : "20151121T000634+0600",
+      "startTime" : "20151120T145513+0500",
+      "endTime" : "20151120T230634+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -106,6 +105,27 @@
         }
       },
       "lastUpdate" : "20160516T162957Z",
+      "date" : "20151120"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151120T232945+0500",
+      "endTime" : "20151122T130941+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151122T103306Z",
       "date" : "20151120"
     }
   } ]

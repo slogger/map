@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160403T174453+0600",
-      "endTime" : "20160404T082706+0600",
+      "startTime" : "20160403T164453+0500",
+      "endTime" : "20160404T072706+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160404"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160404T090030+0600",
-      "endTime" : "20160404T090418+0600",
+      "startTime" : "20160404T080030+0500",
+      "endTime" : "20160404T080418+0500",
       "place" : {
         "id" : 284366039,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160404T092856+0600",
-      "endTime" : "20160404T093007+0600",
+      "startTime" : "20160404T082856+0500",
+      "endTime" : "20160404T083007+0500",
       "place" : {
         "id" : 285841944,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160404T093545+0600",
-      "endTime" : "20160404T151455+0600",
+      "startTime" : "20160404T083545+0500",
+      "endTime" : "20160404T141455+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -94,19 +94,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160404T154436+0600",
-      "endTime" : "20160404T184707+0600",
+      "startTime" : "20160404T144436+0500",
+      "endTime" : "20160404T174707+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160404T141801Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160404"
     }
   }, {
@@ -117,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160404T190350+0600",
-      "endTime" : "20160405T112712+0600",
+      "startTime" : "20160404T180350+0500",
+      "endTime" : "20160405T102712+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

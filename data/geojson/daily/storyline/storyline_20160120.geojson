@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160119T233030+0600",
-      "endTime" : "20160121T144102+0600",
+      "startTime" : "20160119T223030+0500",
+      "endTime" : "20160121T134102+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -22,8 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160120T024101+0600",
-        "endTime" : "20160120T024131+0600",
+        "startTime" : "20160120T014101+0500",
+        "endTime" : "20160120T014131+0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 25
@@ -31,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160120T030204+0600",
-        "endTime" : "20160120T030234+0600",
+        "startTime" : "20160120T020204+0500",
+        "endTime" : "20160120T020234+0500",
         "duration" : 30.0,
         "distance" : 25.0,
         "steps" : 51
@@ -40,8 +40,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160120T185129+0600",
-        "endTime" : "20160120T185148+0600",
+        "startTime" : "20160120T175129+0500",
+        "endTime" : "20160120T175148+0500",
         "duration" : 19.0,
         "distance" : 12.0,
         "steps" : 23
@@ -49,8 +49,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160120T210034+0600",
-        "endTime" : "20160120T210057+0600",
+        "startTime" : "20160120T200034+0500",
+        "endTime" : "20160120T200057+0500",
         "duration" : 23.0,
         "distance" : 16.0,
         "steps" : 33
@@ -58,8 +58,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160120T233822+0600",
-        "endTime" : "20160120T233847+0600",
+        "startTime" : "20160120T223822+0500",
+        "endTime" : "20160120T223847+0500",
         "duration" : 25.0,
         "distance" : 18.0,
         "steps" : 35

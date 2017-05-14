@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160326T002158+0600",
-      "endTime" : "20160326T154812+0600",
+      "startTime" : "20160325T232158+0500",
+      "endTime" : "20160326T144812+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160326"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160326T164436+0600",
-      "endTime" : "20160326T183100+0600",
+      "startTime" : "20160326T154436+0500",
+      "endTime" : "20160326T173100+0500",
       "place" : {
         "id" : 316400372,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160326T202539+0600",
-      "endTime" : "20160326T230210+0600",
+      "startTime" : "20160326T192539+0500",
+      "endTime" : "20160326T220210+0500",
       "place" : {
         "id" : 316462449,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160326T234700+0600",
-      "endTime" : "20160326T234800+0600",
+      "startTime" : "20160326T224700+0500",
+      "endTime" : "20160326T224800+0500",
       "place" : {
         "id" : 284951868,
         "type" : "unknown",
@@ -83,6 +83,71 @@
         }
       },
       "lastUpdate" : "20160326T180301Z",
+      "date" : "20160326"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5955731909, 56.8371642608 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160326T231457+0500",
+      "endTime" : "20160326T231533+0500",
+      "place" : {
+        "id" : 89057088,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8371642608,
+          "lon" : 60.5955731909
+        }
+      },
+      "lastUpdate" : "20160326T193609Z",
+      "date" : "20160326"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60715198516846, 56.83394934199781 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160326T233537+0500",
+      "endTime" : "20160326T234317+0500",
+      "place" : {
+        "id" : 70826847,
+        "name" : "Памятник The Beatles",
+        "type" : "foursquare",
+        "foursquareId" : "4c9dbe0346978cfa96a59a7f",
+        "location" : {
+          "lat" : 56.83394934199781,
+          "lon" : 60.60715198516846
+        }
+      },
+      "lastUpdate" : "20160326T193609Z",
+      "date" : "20160326"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160326T235405+0500",
+      "endTime" : "20160327T134450+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160327T093417Z",
       "date" : "20160326"
     }
   } ]

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T224239+0600",
-      "endTime" : "20151202T104547+0600",
+      "startTime" : "20151201T214239+0500",
+      "endTime" : "20151202T094547+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T111025+0600",
-      "endTime" : "20151202T151626+0600",
+      "startTime" : "20151202T101025+0500",
+      "endTime" : "20151202T141626+0500",
       "place" : {
         "id" : 279114592,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T160556+0600",
-      "endTime" : "20151202T163446+0600",
+      "startTime" : "20151202T150556+0500",
+      "endTime" : "20151202T153446+0500",
       "place" : {
         "id" : 287155495,
         "name" : "Дом печати",
@@ -73,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T163447+0600",
-      "endTime" : "20151202T191801+0600",
+      "startTime" : "20151202T153447+0500",
+      "endTime" : "20151202T181801+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151203T074410Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151202"
     }
   }, {
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T193437+0600",
-      "endTime" : "20151202T193834+0600",
+      "startTime" : "20151202T183437+0500",
+      "endTime" : "20151202T183834+0500",
       "place" : {
         "id" : 288319537,
         "type" : "unknown",
@@ -117,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T195747+0600",
-      "endTime" : "20151202T210644+0600",
+      "startTime" : "20151202T185747+0500",
+      "endTime" : "20151202T200644+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -140,8 +139,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151202T212220+0600",
-      "endTime" : "20151203T033717+0600",
+      "startTime" : "20151202T202220+0500",
+      "endTime" : "20151203T023717+0500",
       "place" : {
         "id" : 77460969,
         "name" : "Freelance Café",

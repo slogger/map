@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160313T085641+0600",
-      "endTime" : "20160313T195347+0600",
+      "startTime" : "20160313T075641+0500",
+      "endTime" : "20160313T185347+0500",
       "place" : {
         "id" : 280596482,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160313T195348+0600",
-      "endTime" : "20160314T154919+0600",
+      "startTime" : "20160313T185348+0500",
+      "endTime" : "20160314T144919+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -40,7 +40,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160313"
     }
   } ]

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151021T234602+0600",
-      "endTime" : "20151022T090514+0600",
+      "startTime" : "20151021T224602+0500",
+      "endTime" : "20151022T080514+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T093404+0600",
-      "endTime" : "20151022T094449+0600",
+      "startTime" : "20151022T083404+0500",
+      "endTime" : "20151022T084449+0500",
       "place" : {
         "id" : 71375729,
         "name" : "У Цирка",
@@ -53,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T100203+0600",
-      "endTime" : "20151022T114310+0600",
+      "startTime" : "20151022T090203+0500",
+      "endTime" : "20151022T104310+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -75,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T120222+0600",
-      "endTime" : "20151022T133520+0600",
+      "startTime" : "20151022T110222+0500",
+      "endTime" : "20151022T123520+0500",
       "place" : {
         "id" : 70827257,
         "name" : "Красный Леопард",
@@ -98,8 +98,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T135051+0600",
-      "endTime" : "20151022T150012+0600",
+      "startTime" : "20151022T125051+0500",
+      "endTime" : "20151022T140012+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -120,19 +120,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T152558+0600",
-      "endTime" : "20151022T171101+0600",
+      "startTime" : "20151022T142558+0500",
+      "endTime" : "20151022T161101+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151022T123144Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151022"
     }
   }, {
@@ -143,8 +142,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T173036+0600",
-      "endTime" : "20151022T173459+0600",
+      "startTime" : "20151022T163036+0500",
+      "endTime" : "20151022T163459+0500",
       "place" : {
         "id" : 156922285,
         "type" : "unknown",
@@ -164,8 +163,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T175244+0600",
-      "endTime" : "20151022T181317+0600",
+      "startTime" : "20151022T165244+0500",
+      "endTime" : "20151022T171317+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -186,8 +185,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T183202+0600",
-      "endTime" : "20151022T221420+0600",
+      "startTime" : "20151022T173202+0500",
+      "endTime" : "20151022T211420+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -208,14 +207,35 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151022T223723+0600",
-      "endTime" : "20151022T232621+0600",
+      "startTime" : "20151022T213723+0500",
+      "endTime" : "20151022T222621+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
         "location" : {
           "lat" : 56.8319677488,
           "lon" : 60.6153679216
+        }
+      },
+      "lastUpdate" : "20151022T200621Z",
+      "date" : "20151022"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.590955788, 56.8908514823 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151022T234926+0500",
+      "endTime" : "20151023T000546+0500",
+      "place" : {
+        "id" : 276895641,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8908514823,
+          "lon" : 60.590955788
         }
       },
       "lastUpdate" : "20151022T200621Z",

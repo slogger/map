@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151208T224556+0600",
-      "endTime" : "20151209T160241+0600",
+      "startTime" : "20151208T214556+0500",
+      "endTime" : "20151209T150241+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151209T161926+0600",
-      "endTime" : "20151209T162758+0600",
+      "startTime" : "20151209T151926+0500",
+      "endTime" : "20151209T152758+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -52,19 +52,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151209T162759+0600",
-      "endTime" : "20151209T210752+0600",
+      "startTime" : "20151209T152759+0500",
+      "endTime" : "20151209T200752+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151209T171413Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151209"
     }
   }, {
@@ -75,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151209T215243+0600",
-      "endTime" : "20151209T232836+0600",
+      "startTime" : "20151209T205243+0500",
+      "endTime" : "20151209T222836+0500",
       "place" : {
         "id" : 279188582,
         "name" : "Home",
@@ -87,6 +86,48 @@
         }
       },
       "lastUpdate" : "20151209T180130Z",
+      "date" : "20151209"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6142783207, 56.831926577 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151209T230310+0500",
+      "endTime" : "20151209T231949+0500",
+      "place" : {
+        "id" : 278463715,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.831926577,
+          "lon" : 60.6142783207
+        }
+      },
+      "lastUpdate" : "20151209T205350Z",
+      "date" : "20151209"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151209T231949+0500",
+      "endTime" : "20151210T083235+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151210T071533Z",
       "date" : "20151209"
     }
   } ]

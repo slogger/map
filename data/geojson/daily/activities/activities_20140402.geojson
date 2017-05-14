@@ -4,7 +4,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.5836197314, 56.8791812897 ], [ 60.600857229, 56.8584430741 ], [ 60.6008577545, 56.8584424419 ], [ 60.6148894002, 56.8415611462 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",
@@ -17,8 +17,8 @@
         "startTime" : "20140402T085432+0600",
         "endTime" : "20140402T090427+0600",
         "duration" : 595.0,
-        "distance" : 714.0,
-        "steps" : 543
+        "distance" : 5284.0,
+        "steps" : 833
       } ],
       "lastUpdate" : "20140402T053001Z",
       "date" : "20140402"
@@ -27,7 +27,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.5721325365, 56.891013545 ], [ 60.5759683358, 56.8902956463 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",
@@ -50,7 +50,7 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.5759683358, 56.8902956463 ], [ 60.5756182968, 56.8903515896 ], [ 60.5756099743, 56.8903546009 ], [ 60.5753828798, 56.8904322497 ], [ 60.5751587327, 56.8905088156 ], [ 60.57366516, 56.8910189623 ], [ 60.5721325365, 56.891013545 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160222T212021+0600",
-      "endTime" : "20160223T164826+0600",
+      "startTime" : "20160222T202021+0500",
+      "endTime" : "20160223T154826+0500",
       "place" : {
         "id" : 307551196,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T170506+0600",
-      "endTime" : "20160223T171448+0600",
+      "startTime" : "20160223T160506+0500",
+      "endTime" : "20160223T161448+0500",
       "place" : {
         "id" : 308380130,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T172706+0600",
-      "endTime" : "20160223T175835+0600",
+      "startTime" : "20160223T162706+0500",
+      "endTime" : "20160223T165835+0500",
       "place" : {
         "id" : 308380131,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T185215+0600",
-      "endTime" : "20160223T185627+0600",
+      "startTime" : "20160223T175215+0500",
+      "endTime" : "20160223T175627+0500",
       "place" : {
         "id" : 308380132,
         "type" : "unknown",
@@ -92,8 +92,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T191439+0600",
-      "endTime" : "20160223T194213+0600",
+      "startTime" : "20160223T181439+0500",
+      "endTime" : "20160223T184213+0500",
       "place" : {
         "id" : 308380133,
         "type" : "unknown",
@@ -113,8 +113,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T195224+0600",
-      "endTime" : "20160223T195821+0600",
+      "startTime" : "20160223T185224+0500",
+      "endTime" : "20160223T185821+0500",
       "place" : {
         "id" : 307734799,
         "type" : "unknown",
@@ -134,8 +134,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T200054+0600",
-      "endTime" : "20160223T204202+0600",
+      "startTime" : "20160223T190054+0500",
+      "endTime" : "20160223T194202+0500",
       "place" : {
         "id" : 308398819,
         "type" : "unknown",
@@ -155,8 +155,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T205345+0600",
-      "endTime" : "20160223T214032+0600",
+      "startTime" : "20160223T195345+0500",
+      "endTime" : "20160223T204032+0500",
       "place" : {
         "id" : 308398820,
         "type" : "unknown",
@@ -176,8 +176,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T222312+0600",
-      "endTime" : "20160223T223425+0600",
+      "startTime" : "20160223T212312+0500",
+      "endTime" : "20160223T213425+0500",
       "place" : {
         "id" : 308417929,
         "type" : "unknown",
@@ -197,8 +197,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160223T225838+0600",
-      "endTime" : "20160224T001643+0600",
+      "startTime" : "20160223T215838+0500",
+      "endTime" : "20160223T231643+0500",
       "place" : {
         "id" : 308417930,
         "type" : "unknown",
@@ -208,6 +208,48 @@
         }
       },
       "lastUpdate" : "20160223T184245Z",
+      "date" : "20160223"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.898053, 55.412773 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160223T232226+0500",
+      "endTime" : "20160223T233102+0500",
+      "place" : {
+        "id" : 308435889,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.412773,
+          "lon" : 37.898053
+        }
+      },
+      "lastUpdate" : "20160223T184245Z",
+      "date" : "20160223"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.9054, 55.415387 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160223T233444+0500",
+      "endTime" : "20160223T234355+0500",
+      "place" : {
+        "id" : 308435890,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.415387,
+          "lon" : 37.9054
+        }
+      },
+      "lastUpdate" : "20160223T231956Z",
       "date" : "20160223"
     }
   } ]

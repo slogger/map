@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160408T203416+0600",
-      "endTime" : "20160409T100638+0600",
+      "startTime" : "20160408T193416+0500",
+      "endTime" : "20160409T090638+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160409T102836+0600",
-      "endTime" : "20160409T134750+0600",
+      "startTime" : "20160409T092836+0500",
+      "endTime" : "20160409T124750+0500",
       "place" : {
         "id" : 279114592,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160409T134751+0600",
-      "endTime" : "20160409T203659+0600",
+      "startTime" : "20160409T124751+0500",
+      "endTime" : "20160409T193659+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160409T210206+0600",
-      "endTime" : "20160409T214641+0600",
+      "startTime" : "20160409T200206+0500",
+      "endTime" : "20160409T204641+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -93,8 +93,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160409T220245+0600",
-      "endTime" : "20160409T233915+0600",
+      "startTime" : "20160409T210245+0500",
+      "endTime" : "20160409T223915+0500",
       "place" : {
         "id" : 86687129,
         "type" : "unknown",
@@ -114,8 +114,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160409T235133+0600",
-      "endTime" : "20160410T002113+0600",
+      "startTime" : "20160409T225133+0500",
+      "endTime" : "20160409T232113+0500",
       "place" : {
         "id" : 304324487,
         "type" : "unknown",
@@ -125,6 +125,28 @@
         }
       },
       "lastUpdate" : "20160409T194249Z",
+      "date" : "20160409"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160409T233127+0500",
+      "endTime" : "20160410T151007+0500",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160409"
     }
   } ]

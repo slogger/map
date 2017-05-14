@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T213940+0600",
-      "endTime" : "20160524T094423+0600",
+      "startTime" : "20160523T203940+0500",
+      "endTime" : "20160524T084423+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160524"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T101110+0600",
-      "endTime" : "20160524T103910+0600",
+      "startTime" : "20160524T091110+0500",
+      "endTime" : "20160524T093910+0500",
       "place" : {
         "id" : 70827257,
         "name" : "Красный Леопард",
@@ -53,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T105345+0600",
-      "endTime" : "20160524T105633+0600",
+      "startTime" : "20160524T095345+0500",
+      "endTime" : "20160524T095633+0500",
       "place" : {
         "id" : 283080836,
         "name" : "Red Cup",
@@ -76,19 +76,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T110156+0600",
-      "endTime" : "20160524T123415+0600",
+      "startTime" : "20160524T100156+0500",
+      "endTime" : "20160524T113415+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160524T080958Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160524"
     }
   }, {
@@ -99,8 +98,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T123757+0600",
-      "endTime" : "20160524T124231+0600",
+      "startTime" : "20160524T113757+0500",
+      "endTime" : "20160524T114231+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -122,8 +121,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T124902+0600",
-      "endTime" : "20160524T130725+0600",
+      "startTime" : "20160524T114902+0500",
+      "endTime" : "20160524T120725+0500",
       "place" : {
         "id" : 69433869,
         "name" : "Pizza Mia / Пицца Мия",
@@ -145,19 +144,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T131621+0600",
-      "endTime" : "20160524T144500+0600",
+      "startTime" : "20160524T121621+0500",
+      "endTime" : "20160524T134500+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160524T094149Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160524"
     }
   }, {
@@ -168,8 +166,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T150355+0600",
-      "endTime" : "20160524T170628+0600",
+      "startTime" : "20160524T140355+0500",
+      "endTime" : "20160524T160628+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -189,8 +187,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T174145+0600",
-      "endTime" : "20160524T183254+0600",
+      "startTime" : "20160524T164145+0500",
+      "endTime" : "20160524T173254+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -212,8 +210,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T184146+0600",
-      "endTime" : "20160524T185440+0600",
+      "startTime" : "20160524T174146+0500",
+      "endTime" : "20160524T175440+0500",
       "place" : {
         "id" : 65297944,
         "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
@@ -235,8 +233,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T190908+0600",
-      "endTime" : "20160524T193205+0600",
+      "startTime" : "20160524T180908+0500",
+      "endTime" : "20160524T183205+0500",
       "place" : {
         "id" : 334413704,
         "type" : "unknown",
@@ -256,8 +254,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T193840+0600",
-      "endTime" : "20160524T194500+0600",
+      "startTime" : "20160524T183840+0500",
+      "endTime" : "20160524T184500+0500",
       "place" : {
         "id" : 334413705,
         "type" : "unknown",
@@ -277,8 +275,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T195214+0600",
-      "endTime" : "20160524T195509+0600",
+      "startTime" : "20160524T185214+0500",
+      "endTime" : "20160524T185509+0500",
       "place" : {
         "id" : 334413706,
         "type" : "unknown",
@@ -298,8 +296,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160524T211346+0600",
-      "endTime" : "20160525T084709+0600",
+      "startTime" : "20160524T201346+0500",
+      "endTime" : "20160525T074709+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",

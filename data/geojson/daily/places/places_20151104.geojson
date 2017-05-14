@@ -4,33 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.6148520947, 56.8319036536 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151103T232212+0600",
-      "endTime" : "20151104T000912+0600",
-      "place" : {
-        "id" : 276850773,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.8319036536,
-          "lon" : 60.6148520947
-        }
-      },
-      "lastUpdate" : "20151104T032459Z",
-      "date" : "20151104"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6149925827, 56.8313908867 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T075344+0600",
-      "endTime" : "20151104T131402+0600",
+      "startTime" : "20151104T065344+0500",
+      "endTime" : "20151104T121402+0500",
       "place" : {
         "id" : 280596482,
         "type" : "unknown",
@@ -50,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T133558+0600",
-      "endTime" : "20151104T140748+0600",
+      "startTime" : "20151104T123558+0500",
+      "endTime" : "20151104T130748+0500",
       "place" : {
         "id" : 280608757,
         "type" : "unknown",
@@ -71,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T142201+0600",
-      "endTime" : "20151104T165059+0600",
+      "startTime" : "20151104T132201+0500",
+      "endTime" : "20151104T155059+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -92,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T171414+0600",
-      "endTime" : "20151104T191053+0600",
+      "startTime" : "20151104T161414+0500",
+      "endTime" : "20151104T181053+0500",
       "place" : {
         "id" : 279188622,
         "name" : "СКБ Контур",
@@ -115,8 +94,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T194105+0600",
-      "endTime" : "20151104T221730+0600",
+      "startTime" : "20151104T184105+0500",
+      "endTime" : "20151104T211730+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -126,7 +105,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151104"
     }
   }, {
@@ -137,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T223336+0600",
-      "endTime" : "20151104T224301+0600",
+      "startTime" : "20151104T213336+0500",
+      "endTime" : "20151104T214301+0500",
       "place" : {
         "id" : 271963191,
         "name" : "McDonald's",
@@ -160,8 +139,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T230134+0600",
-      "endTime" : "20151104T230537+0600",
+      "startTime" : "20151104T220134+0500",
+      "endTime" : "20151104T220537+0500",
       "place" : {
         "id" : 280752843,
         "type" : "unknown",
@@ -181,8 +160,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151104T231329+0600",
-      "endTime" : "20151105T002017+0600",
+      "startTime" : "20151104T221329+0500",
+      "endTime" : "20151104T232017+0500",
       "place" : {
         "id" : 267526899,
         "name" : "New Bar",
@@ -194,6 +173,27 @@
         }
       },
       "lastUpdate" : "20151104T215633Z",
+      "date" : "20151104"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151104T235548+0500",
+      "endTime" : "20151105T073928+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151105T053055Z",
       "date" : "20151104"
     }
   } ]

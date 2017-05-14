@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160515T000709+0600",
-      "endTime" : "20160515T110959+0600",
+      "startTime" : "20160514T230709+0500",
+      "endTime" : "20160515T100959+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160515"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160515T123518+0600",
-      "endTime" : "20160516T000518+0600",
+      "startTime" : "20160515T113518+0500",
+      "endTime" : "20160515T230518+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -42,6 +42,27 @@
         }
       },
       "lastUpdate" : "20160515T183428Z",
+      "date" : "20160515"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160515T232747+0500",
+      "endTime" : "20160516T080812+0500",
+      "place" : {
+        "id" : 277165475,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8316409084,
+          "lon" : 60.6153290033
+        }
+      },
+      "lastUpdate" : "20160516T035549Z",
       "date" : "20160515"
     }
   } ]

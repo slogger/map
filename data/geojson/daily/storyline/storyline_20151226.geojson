@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151225T215840+0600",
-      "endTime" : "20151227T125302+0600",
+      "startTime" : "20151225T205840+0500",
+      "endTime" : "20151227T115302+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -22,8 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20151226T172347+0600",
-        "endTime" : "20151226T172447+0600",
+        "startTime" : "20151226T162347+0500",
+        "endTime" : "20151226T162447+0500",
         "duration" : 60.0,
         "distance" : 30.0,
         "steps" : 60
@@ -31,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20151226T180624+0600",
-        "endTime" : "20151226T180642+0600",
+        "startTime" : "20151226T170624+0500",
+        "endTime" : "20151226T170642+0500",
         "duration" : 18.0,
         "distance" : 11.0,
         "steps" : 21
@@ -40,8 +40,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20151226T190123+0600",
-        "endTime" : "20151226T190153+0600",
+        "startTime" : "20151226T180123+0500",
+        "endTime" : "20151226T180153+0500",
         "duration" : 30.0,
         "distance" : 25.0,
         "steps" : 51

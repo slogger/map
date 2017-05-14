@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160308T104503+0600",
-      "endTime" : "20160309T074648+0600",
+      "startTime" : "20160308T094503+0500",
+      "endTime" : "20160309T064648+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T074649+0600",
-      "endTime" : "20160309T092003+0600",
+      "startTime" : "20160309T064649+0500",
+      "endTime" : "20160309T082003+0500",
       "place" : {
         "id" : 311912992,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T092003+0600",
-      "endTime" : "20160309T111614+0600",
+      "startTime" : "20160309T082003+0500",
+      "endTime" : "20160309T101614+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -61,7 +61,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160309"
     }
   }, {
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T112909+0600",
-      "endTime" : "20160309T114934+0600",
+      "startTime" : "20160309T102909+0500",
+      "endTime" : "20160309T104934+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -95,19 +95,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T114935+0600",
-      "endTime" : "20160309T124950+0600",
+      "startTime" : "20160309T104935+0500",
+      "endTime" : "20160309T114950+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160309T075401Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160309"
     }
   }, {
@@ -118,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T125937+0600",
-      "endTime" : "20160309T132313+0600",
+      "startTime" : "20160309T115937+0500",
+      "endTime" : "20160309T122313+0500",
       "place" : {
         "id" : 311932302,
         "type" : "unknown",
@@ -139,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T133250+0600",
-      "endTime" : "20160309T133833+0600",
+      "startTime" : "20160309T123250+0500",
+      "endTime" : "20160309T123833+0500",
       "place" : {
         "id" : 87976294,
         "name" : "Yellow Submarine",
@@ -162,19 +161,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T133918+0600",
-      "endTime" : "20160309T170753+0600",
+      "startTime" : "20160309T123918+0500",
+      "endTime" : "20160309T160753+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160309T122501Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160309"
     }
   }, {
@@ -185,8 +183,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T173005+0600",
-      "endTime" : "20160309T174101+0600",
+      "startTime" : "20160309T163005+0500",
+      "endTime" : "20160309T164101+0500",
       "place" : {
         "id" : 278380714,
         "type" : "unknown",
@@ -206,8 +204,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160309T182759+0600",
-      "endTime" : "20160310T085156+0600",
+      "startTime" : "20160309T172759+0500",
+      "endTime" : "20160310T075156+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -217,7 +215,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160309"
     }
   } ]

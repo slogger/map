@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151130T215217+0600",
-      "endTime" : "20151201T104010+0600",
+      "startTime" : "20151130T205217+0500",
+      "endTime" : "20151201T094010+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T105842+0600",
-      "endTime" : "20151201T122839+0600",
+      "startTime" : "20151201T095842+0500",
+      "endTime" : "20151201T112839+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151201T074458Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151201"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T124453+0600",
-      "endTime" : "20151201T144618+0600",
+      "startTime" : "20151201T114453+0500",
+      "endTime" : "20151201T134618+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -63,7 +62,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151201"
     }
   }, {
@@ -74,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T150518+0600",
-      "endTime" : "20151201T194003+0600",
+      "startTime" : "20151201T140518+0500",
+      "endTime" : "20151201T184003+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151201T162453Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151201"
     }
   }, {
@@ -97,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T194323+0600",
-      "endTime" : "20151201T195550+0600",
+      "startTime" : "20151201T184323+0500",
+      "endTime" : "20151201T185550+0500",
       "place" : {
         "id" : 65297944,
         "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
@@ -120,8 +118,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T200410+0600",
-      "endTime" : "20151201T204357+0600",
+      "startTime" : "20151201T190410+0500",
+      "endTime" : "20151201T194357+0500",
       "place" : {
         "id" : 283080676,
         "name" : "3-Я УРАЛЬСКАЯ ИНДУСТРИАЛЬНАЯ БИЕННАЛЕ СОВРЕМЕННОГО ИСКУССТВА",
@@ -143,8 +141,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T210043+0600",
-      "endTime" : "20151201T221755+0600",
+      "startTime" : "20151201T200043+0500",
+      "endTime" : "20151201T211755+0500",
       "place" : {
         "id" : 105045163,
         "type" : "unknown",
@@ -164,8 +162,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151201T224239+0600",
-      "endTime" : "20151202T104547+0600",
+      "startTime" : "20151201T214239+0500",
+      "endTime" : "20151202T094547+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

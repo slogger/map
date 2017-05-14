@@ -4,34 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151102T213408+0600",
-      "endTime" : "20151103T000641+0600",
-      "place" : {
-        "id" : 267526997,
-        "name" : "СКБ Контур",
-        "type" : "user",
-        "location" : {
-          "lat" : 56.82947461635581,
-          "lon" : 60.58612623391936
-        }
-      },
-      "lastUpdate" : "20160516T162957Z",
-      "date" : "20151103"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6138876007, 56.8321437088 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T003641+0600",
-      "endTime" : "20151103T091813+0600",
+      "startTime" : "20151102T233641+0500",
+      "endTime" : "20151103T081813+0500",
       "place" : {
         "id" : 279249044,
         "type" : "unknown",
@@ -51,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T093325+0600",
-      "endTime" : "20151103T135455+0600",
+      "startTime" : "20151103T083325+0500",
+      "endTime" : "20151103T125455+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -72,19 +50,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T141447+0600",
-      "endTime" : "20151103T171053+0600",
+      "startTime" : "20151103T131447+0500",
+      "endTime" : "20151103T161053+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151103T161128Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151103"
     }
   }, {
@@ -95,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T171053+0600",
-      "endTime" : "20151103T183200+0600",
+      "startTime" : "20151103T161053+0500",
+      "endTime" : "20151103T173200+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -118,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T184033+0600",
-      "endTime" : "20151103T190656+0600",
+      "startTime" : "20151103T174033+0500",
+      "endTime" : "20151103T180656+0500",
       "place" : {
         "id" : 280459402,
         "type" : "unknown",
@@ -139,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T192427+0600",
-      "endTime" : "20151103T192640+0600",
+      "startTime" : "20151103T182427+0500",
+      "endTime" : "20151103T182640+0500",
       "place" : {
         "id" : 280459403,
         "type" : "unknown",
@@ -160,8 +137,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T194720+0600",
-      "endTime" : "20151103T221921+0600",
+      "startTime" : "20151103T184720+0500",
+      "endTime" : "20151103T211921+0500",
       "place" : {
         "id" : 70232971,
         "type" : "unknown",
@@ -181,8 +158,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151103T232212+0600",
-      "endTime" : "20151104T000912+0600",
+      "startTime" : "20151103T222212+0500",
+      "endTime" : "20151103T230912+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151007T201138+0600",
-      "endTime" : "20151008T150527+0600",
+      "startTime" : "20151007T191138+0500",
+      "endTime" : "20151008T140527+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -30,19 +30,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151008T153238+0600",
-      "endTime" : "20151008T180846+0600",
+      "startTime" : "20151008T143238+0500",
+      "endTime" : "20151008T170846+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151008T165804Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151008"
     }
   }, {
@@ -53,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151008T183858+0600",
-      "endTime" : "20151008T203511+0600",
+      "startTime" : "20151008T173858+0500",
+      "endTime" : "20151008T193511+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -75,14 +74,37 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151008T205041+0600",
-      "endTime" : "20151008T235111+0600",
+      "startTime" : "20151008T195041+0500",
+      "endTime" : "20151008T225111+0500",
       "place" : {
         "id" : 272524160,
         "type" : "unknown",
         "location" : {
           "lat" : 56.8288359639,
           "lon" : 60.5991686611
+        }
+      },
+      "lastUpdate" : "20151008T230119Z",
+      "date" : "20151008"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.60359734273205, 56.82697230624986 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151008T234933+0500",
+      "endTime" : "20151009T000341+0500",
+      "place" : {
+        "id" : 71375729,
+        "name" : "У Цирка",
+        "type" : "foursquare",
+        "foursquareId" : "522c457311d277f9ef6b4268",
+        "location" : {
+          "lat" : 56.82697230624986,
+          "lon" : 60.60359734273205
         }
       },
       "lastUpdate" : "20151008T230119Z",

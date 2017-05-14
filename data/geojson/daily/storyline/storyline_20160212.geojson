@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160211T230643+0600",
-      "endTime" : "20160212T130612+0600",
+      "startTime" : "20160211T220643+0500",
+      "endTime" : "20160212T120612+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -22,8 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T010313+0600",
-        "endTime" : "20160212T010343+0600",
+        "startTime" : "20160212T000313+0500",
+        "endTime" : "20160212T000343+0500",
         "duration" : 30.0,
         "distance" : 30.0,
         "steps" : 60
@@ -31,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T022248+0600",
-        "endTime" : "20160212T022318+0600",
+        "startTime" : "20160212T012248+0500",
+        "endTime" : "20160212T012318+0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 30
@@ -40,8 +40,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T032501+0600",
-        "endTime" : "20160212T032531+0600",
+        "startTime" : "20160212T022501+0500",
+        "endTime" : "20160212T022531+0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 15
@@ -49,8 +49,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T130203+0600",
-        "endTime" : "20160212T130233+0600",
+        "startTime" : "20160212T120203+0500",
+        "endTime" : "20160212T120233+0500",
         "duration" : 30.0,
         "distance" : 15.0,
         "steps" : 30
@@ -62,18 +62,18 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.6148361378, 56.8323195042 ], [ 60.60672778, 56.8301295257 ], [ 60.6066773521, 56.830112288 ], [ 60.6046038662, 56.8303441206 ], [ 60.5993653831, 56.8308973002 ], [ 60.5990810597, 56.8306777394 ], [ 60.5938933919, 56.8303049673 ], [ 60.5937136618, 56.8302413183 ], [ 60.5876662193, 56.8296708027 ], [ 60.5861262339, 56.8294746164 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20160212T130612+0600",
-      "endTime" : "20160212T133014+0600",
+      "startTime" : "20160212T120612+0500",
+      "endTime" : "20160212T123014+0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T130612+0600",
-        "endTime" : "20160212T133014+0600",
+        "startTime" : "20160212T120612+0500",
+        "endTime" : "20160212T123014+0500",
         "duration" : 1442.0,
         "distance" : 2107.0,
         "steps" : 2673
@@ -89,8 +89,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160212T133114+0600",
-      "endTime" : "20160212T232336+0600",
+      "startTime" : "20160212T123114+0500",
+      "endTime" : "20160212T222336+0500",
       "place" : {
         "id" : 305708121,
         "type" : "unknown",
@@ -103,8 +103,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T133238+0600",
-        "endTime" : "20160212T133948+0600",
+        "startTime" : "20160212T123238+0500",
+        "endTime" : "20160212T123948+0500",
         "duration" : 430.0,
         "distance" : 343.0,
         "steps" : 457
@@ -112,8 +112,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T155946+0600",
-        "endTime" : "20160212T160047+0600",
+        "startTime" : "20160212T145946+0500",
+        "endTime" : "20160212T150047+0500",
         "duration" : 61.0,
         "distance" : 46.0,
         "steps" : 91
@@ -121,8 +121,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T230837+0600",
-        "endTime" : "20160212T231042+0600",
+        "startTime" : "20160212T220837+0500",
+        "endTime" : "20160212T221042+0500",
         "duration" : 125.0,
         "distance" : 150.0,
         "steps" : 201
@@ -134,18 +134,18 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.5879200314, 56.8298421774 ], [ 60.5917295994, 56.8301507777 ], [ 60.6047166309, 56.8303054736 ], [ 60.6049380248, 56.8303811226 ], [ 60.6158033807, 56.8319787308 ], [ 60.6143425556, 56.8323090196 ] ] ]
+      "coordinates" : [ [ ] ]
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20160212T232336+0600",
-      "endTime" : "20160212T235257+0600",
+      "startTime" : "20160212T222336+0500",
+      "endTime" : "20160212T225257+0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160212T232336+0600",
-        "endTime" : "20160212T235258+0600",
+        "startTime" : "20160212T222336+0500",
+        "endTime" : "20160212T225258+0500",
         "duration" : 1762.0,
         "distance" : 2094.0,
         "steps" : 2321
@@ -161,8 +161,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160212T235258+0600",
-      "endTime" : "20160213T112612+0600",
+      "startTime" : "20160212T225258+0500",
+      "endTime" : "20160213T102612+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",
@@ -171,6 +171,16 @@
           "lon" : 60.6148361378
         }
       },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160212T230409+0500",
+        "endTime" : "20160212T230806+0500",
+        "duration" : 237.0,
+        "distance" : 191.0,
+        "steps" : 255
+      } ],
       "lastUpdate" : "20160213T082913Z",
       "date" : "20160212"
     }

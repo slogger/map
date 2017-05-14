@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160213T183015+0600",
-      "endTime" : "20160215T105527+0600",
+      "startTime" : "20160213T173015+0500",
+      "endTime" : "20160215T095527+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -22,17 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160214T003459+0600",
-        "endTime" : "20160214T003529+0600",
-        "duration" : 30.0,
-        "distance" : 15.0,
-        "steps" : 25
-      }, {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20160214T173911+0600",
-        "endTime" : "20160214T173929+0600",
+        "startTime" : "20160214T163911+0500",
+        "endTime" : "20160214T163929+0500",
         "duration" : 18.0,
         "distance" : 9.0,
         "steps" : 16
@@ -40,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160214T184917+0600",
-        "endTime" : "20160214T184928+0600",
+        "startTime" : "20160214T174917+0500",
+        "endTime" : "20160214T174928+0500",
         "duration" : 11.0,
         "distance" : 11.0,
         "steps" : 22
@@ -49,8 +40,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160214T190708+0600",
-        "endTime" : "20160214T190839+0600",
+        "startTime" : "20160214T180708+0500",
+        "endTime" : "20160214T180839+0500",
         "duration" : 91.0,
         "distance" : 58.0,
         "steps" : 117
@@ -58,8 +49,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160214T220327+0600",
-        "endTime" : "20160214T220354+0600",
+        "startTime" : "20160214T210327+0500",
+        "endTime" : "20160214T210354+0500",
         "duration" : 27.0,
         "distance" : 16.0,
         "steps" : 31
@@ -67,11 +58,20 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160214T230025+0600",
-        "endTime" : "20160214T230148+0600",
+        "startTime" : "20160214T220025+0500",
+        "endTime" : "20160214T220148+0500",
         "duration" : 83.0,
         "distance" : 47.0,
         "steps" : 94
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20160214T230203+0500",
+        "endTime" : "20160214T230301+0500",
+        "duration" : 58.0,
+        "distance" : 30.0,
+        "steps" : 59
       } ],
       "lastUpdate" : "20160215T055112Z",
       "date" : "20160214"

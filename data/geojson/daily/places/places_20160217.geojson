@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T010817+0600",
-      "endTime" : "20160217T115353+0600",
+      "startTime" : "20160217T000817+0500",
+      "endTime" : "20160217T105353+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160217"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T115354+0600",
-      "endTime" : "20160217T120315+0600",
+      "startTime" : "20160217T105354+0500",
+      "endTime" : "20160217T110315+0500",
       "place" : {
         "id" : 306814339,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T120316+0600",
-      "endTime" : "20160217T122710+0600",
+      "startTime" : "20160217T110316+0500",
+      "endTime" : "20160217T112710+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -62,7 +62,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160217"
     }
   }, {
@@ -73,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T124308+0600",
-      "endTime" : "20160217T141002+0600",
+      "startTime" : "20160217T114308+0500",
+      "endTime" : "20160217T131002+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160217T092701Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160217"
     }
   }, {
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T141545+0600",
-      "endTime" : "20160217T151047+0600",
+      "startTime" : "20160217T131545+0500",
+      "endTime" : "20160217T141047+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -119,19 +118,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T151744+0600",
-      "endTime" : "20160217T180157+0600",
+      "startTime" : "20160217T141744+0500",
+      "endTime" : "20160217T170157+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160217T121502Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160217"
     }
   }, {
@@ -142,8 +140,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T182424+0600",
-      "endTime" : "20160217T183808+0600",
+      "startTime" : "20160217T172424+0500",
+      "endTime" : "20160217T173808+0500",
       "place" : {
         "id" : 307010921,
         "type" : "unknown",
@@ -163,8 +161,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160217T183809+0600",
-      "endTime" : "20160217T195012+0600",
+      "startTime" : "20160217T173809+0500",
+      "endTime" : "20160217T185012+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

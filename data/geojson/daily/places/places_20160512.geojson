@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160511T193641+0600",
-      "endTime" : "20160512T112709+0600",
+      "startTime" : "20160511T183641+0500",
+      "endTime" : "20160512T102709+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T114429+0600",
-      "endTime" : "20160512T131110+0600",
+      "startTime" : "20160512T104429+0500",
+      "endTime" : "20160512T121110+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160512T081653Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160512"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T132057+0600",
-      "endTime" : "20160512T134955+0600",
+      "startTime" : "20160512T122057+0500",
+      "endTime" : "20160512T124955+0500",
       "place" : {
         "id" : 103871559,
         "name" : "ост. Театр музкомедии",
@@ -75,19 +74,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T135910+0600",
-      "endTime" : "20160512T152405+0600",
+      "startTime" : "20160512T125910+0500",
+      "endTime" : "20160512T142405+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160512T095145Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160512"
     }
   }, {
@@ -98,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T152406+0600",
-      "endTime" : "20160512T184643+0600",
+      "startTime" : "20160512T142406+0500",
+      "endTime" : "20160512T174643+0500",
       "place" : {
         "id" : 65062140,
         "type" : "unknown",
@@ -119,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T190218+0600",
-      "endTime" : "20160512T190650+0600",
+      "startTime" : "20160512T180218+0500",
+      "endTime" : "20160512T180650+0500",
       "place" : {
         "id" : 103871477,
         "name" : "Ленина, 41",
@@ -142,8 +140,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160512T202248+0600",
-      "endTime" : "20160513T083321+0600",
+      "startTime" : "20160512T192248+0500",
+      "endTime" : "20160513T073321+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -153,7 +151,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160512"
     }
   } ]

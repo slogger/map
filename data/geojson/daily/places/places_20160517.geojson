@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160516T233943+0600",
-      "endTime" : "20160517T112235+0600",
+      "startTime" : "20160516T223943+0500",
+      "endTime" : "20160517T102235+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160517"
     }
   }, {
@@ -30,19 +30,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T113925+0600",
-      "endTime" : "20160517T125545+0600",
+      "startTime" : "20160517T103925+0500",
+      "endTime" : "20160517T115545+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160517T080920Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160517"
     }
   }, {
@@ -53,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T131127+0600",
-      "endTime" : "20160517T170755+0600",
+      "startTime" : "20160517T121127+0500",
+      "endTime" : "20160517T160755+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -74,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T172335+0600",
-      "endTime" : "20160517T183806+0600",
+      "startTime" : "20160517T162335+0500",
+      "endTime" : "20160517T173806+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T184212+0600",
-      "endTime" : "20160517T184739+0600",
+      "startTime" : "20160517T174212+0500",
+      "endTime" : "20160517T174739+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -120,8 +119,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T190456+0600",
-      "endTime" : "20160517T191036+0600",
+      "startTime" : "20160517T180456+0500",
+      "endTime" : "20160517T181036+0500",
       "place" : {
         "id" : 332009893,
         "type" : "unknown",
@@ -141,8 +140,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T193258+0600",
-      "endTime" : "20160517T210241+0600",
+      "startTime" : "20160517T183258+0500",
+      "endTime" : "20160517T200241+0500",
       "place" : {
         "id" : 70232971,
         "type" : "unknown",
@@ -162,8 +161,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T214027+0600",
-      "endTime" : "20160517T215116+0600",
+      "startTime" : "20160517T204027+0500",
+      "endTime" : "20160517T205116+0500",
       "place" : {
         "id" : 271350490,
         "type" : "unknown",
@@ -183,8 +182,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160517T220437+0600",
-      "endTime" : "20160518T094519+0600",
+      "startTime" : "20160517T210437+0500",
+      "endTime" : "20160518T084519+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

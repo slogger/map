@@ -4,7 +4,7 @@
   "description": "slogger.me/map – geodata visualisation ",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint src",
     "lint-fix": "eslint src --fix",
     "build": "NODE_ENV=production webpack",
     "start": "webpack-dev-server"
@@ -32,7 +32,8 @@
     "react-dom": "^15.1.0",
     "react-lite": "^0.15.14",
     "react-mapboxmap": "0.0.3",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.13.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",

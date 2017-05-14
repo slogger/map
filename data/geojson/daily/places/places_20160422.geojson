@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160421T172455+0600",
-      "endTime" : "20160422T074055+0600",
+      "startTime" : "20160421T162455+0500",
+      "endTime" : "20160422T064055+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160422"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160422T080544+0600",
-      "endTime" : "20160422T093104+0600",
+      "startTime" : "20160422T070544+0500",
+      "endTime" : "20160422T083104+0500",
       "place" : {
         "id" : 314160425,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160422T093329+0600",
-      "endTime" : "20160422T182438+0600",
+      "startTime" : "20160422T083329+0500",
+      "endTime" : "20160422T172438+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -73,19 +73,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160422T185954+0600",
-      "endTime" : "20160422T203735+0600",
+      "startTime" : "20160422T175954+0500",
+      "endTime" : "20160422T193735+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160422T161033Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160422"
     }
   }, {
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160422T205150+0600",
-      "endTime" : "20160422T205353+0600",
+      "startTime" : "20160422T195150+0500",
+      "endTime" : "20160422T195353+0500",
       "place" : {
         "id" : 318097179,
         "type" : "unknown",

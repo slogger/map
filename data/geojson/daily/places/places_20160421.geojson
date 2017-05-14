@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160420T185442+0600",
-      "endTime" : "20160421T112749+0600",
+      "startTime" : "20160420T175442+0500",
+      "endTime" : "20160421T102749+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160421"
     }
   }, {
@@ -30,19 +30,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160421T114313+0600",
-      "endTime" : "20160421T130025+0600",
+      "startTime" : "20160421T104313+0500",
+      "endTime" : "20160421T120025+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160421T084121Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160421"
     }
   }, {
@@ -53,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160421T130922+0600",
-      "endTime" : "20160421T133752+0600",
+      "startTime" : "20160421T120922+0500",
+      "endTime" : "20160421T123752+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -76,19 +75,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160421T134533+0600",
-      "endTime" : "20160421T170134+0600",
+      "startTime" : "20160421T124533+0500",
+      "endTime" : "20160421T160134+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160421T114440Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160421"
     }
   }, {
@@ -99,8 +97,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160421T172455+0600",
-      "endTime" : "20160422T074055+0600",
+      "startTime" : "20160421T162455+0500",
+      "endTime" : "20160422T064055+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -110,7 +108,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160421"
     }
   } ]

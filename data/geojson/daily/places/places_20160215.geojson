@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160213T183015+0600",
-      "endTime" : "20160215T105527+0600",
+      "startTime" : "20160213T173015+0500",
+      "endTime" : "20160215T095527+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T111827+0600",
-      "endTime" : "20160215T160552+0600",
+      "startTime" : "20160215T101827+0500",
+      "endTime" : "20160215T150552+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T160552+0600",
-      "endTime" : "20160215T160921+0600",
+      "startTime" : "20160215T150552+0500",
+      "endTime" : "20160215T150921+0500",
       "place" : {
         "id" : 306410171,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T162548+0600",
-      "endTime" : "20160215T162926+0600",
+      "startTime" : "20160215T152548+0500",
+      "endTime" : "20160215T152926+0500",
       "place" : {
         "id" : 306417373,
         "type" : "unknown",
@@ -93,19 +93,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T164028+0600",
-      "endTime" : "20160215T213450+0600",
+      "startTime" : "20160215T154028+0500",
+      "endTime" : "20160215T203450+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160215T162952Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160215"
     }
   }, {
@@ -116,8 +115,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T213451+0600",
-      "endTime" : "20160215T214620+0600",
+      "startTime" : "20160215T203451+0500",
+      "endTime" : "20160215T204620+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -139,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T220033+0600",
-      "endTime" : "20160215T220430+0600",
+      "startTime" : "20160215T210033+0500",
+      "endTime" : "20160215T210430+0500",
       "place" : {
         "id" : 101499102,
         "type" : "unknown",
@@ -160,8 +159,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T222039+0600",
-      "endTime" : "20160215T222234+0600",
+      "startTime" : "20160215T212039+0500",
+      "endTime" : "20160215T212234+0500",
       "place" : {
         "id" : 306481323,
         "type" : "unknown",
@@ -181,8 +180,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T223947+0600",
-      "endTime" : "20160215T230241+0600",
+      "startTime" : "20160215T213947+0500",
+      "endTime" : "20160215T220241+0500",
       "place" : {
         "id" : 278730878,
         "type" : "unknown",
@@ -202,8 +201,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160215T230241+0600",
-      "endTime" : "20160216T121309+0600",
+      "startTime" : "20160215T220241+0500",
+      "endTime" : "20160216T111309+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

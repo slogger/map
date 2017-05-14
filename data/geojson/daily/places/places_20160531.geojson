@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T184138+0600",
-      "endTime" : "20160531T142839+0600",
+      "startTime" : "20160530T174138+0500",
+      "endTime" : "20160531T132839+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160531T144435+0600",
-      "endTime" : "20160531T144804+0600",
+      "startTime" : "20160531T134435+0500",
+      "endTime" : "20160531T134804+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160531T101251Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160531"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160531T153010+0600",
-      "endTime" : "20160531T210937+0600",
+      "startTime" : "20160531T143010+0500",
+      "endTime" : "20160531T200937+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -70,21 +69,22 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.6153290033, 56.8316409084 ]
+      "coordinates" : [ 60.6143, 56.8323 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160531T214014+0600",
-      "endTime" : "20160531T222600+0600",
+      "startTime" : "20160531T204014+0500",
+      "endTime" : "20160601T132101+0500",
       "place" : {
-        "id" : 277165475,
-        "type" : "unknown",
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
         "location" : {
-          "lat" : 56.8316409084,
-          "lon" : 60.6153290033
+          "lat" : 56.8323,
+          "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T162606Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160531"
     }
   } ]

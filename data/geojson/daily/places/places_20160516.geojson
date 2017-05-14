@@ -4,34 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.5721325365, 56.891013545 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20160515T123518+0600",
-      "endTime" : "20160516T000518+0600",
-      "place" : {
-        "id" : 65236298,
-        "name" : "Home",
-        "type" : "home",
-        "location" : {
-          "lat" : 56.891013545,
-          "lon" : 60.5721325365
-        }
-      },
-      "lastUpdate" : "20160515T183428Z",
-      "date" : "20160516"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6153290033, 56.8316409084 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160516T002747+0600",
-      "endTime" : "20160516T090812+0600",
+      "startTime" : "20160515T232747+0500",
+      "endTime" : "20160516T080812+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -51,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160516T093605+0600",
-      "endTime" : "20160516T224330+0600",
+      "startTime" : "20160516T083605+0500",
+      "endTime" : "20160516T214330+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -73,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160516T230253+0600",
-      "endTime" : "20160516T231337+0600",
+      "startTime" : "20160516T220253+0500",
+      "endTime" : "20160516T221337+0500",
       "place" : {
         "id" : 331787573,
         "type" : "unknown",
@@ -94,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160516T233943+0600",
-      "endTime" : "20160517T112235+0600",
+      "startTime" : "20160516T223943+0500",
+      "endTime" : "20160517T102235+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -105,7 +83,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160516"
     }
   } ]

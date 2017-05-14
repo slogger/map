@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160330T185708+0600",
-      "endTime" : "20160331T111019+0600",
+      "startTime" : "20160330T175708+0500",
+      "endTime" : "20160331T101019+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160331"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T112429+0600",
-      "endTime" : "20160331T114353+0600",
+      "startTime" : "20160331T102429+0500",
+      "endTime" : "20160331T104353+0500",
       "place" : {
         "id" : 271963087,
         "name" : "Бургер-бар «Огонь»",
@@ -53,19 +53,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T114354+0600",
-      "endTime" : "20160331T130522+0600",
+      "startTime" : "20160331T104354+0500",
+      "endTime" : "20160331T120522+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160331T081511Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160331"
     }
   }, {
@@ -76,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T131420+0600",
-      "endTime" : "20160331T134345+0600",
+      "startTime" : "20160331T121420+0500",
+      "endTime" : "20160331T124345+0500",
       "place" : {
         "id" : 65246349,
         "name" : "Кофе Хауз",
@@ -99,19 +98,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T135149+0600",
-      "endTime" : "20160331T170337+0600",
+      "startTime" : "20160331T125149+0500",
+      "endTime" : "20160331T160337+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160331T111908Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160331"
     }
   }, {
@@ -122,8 +120,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T171430+0600",
-      "endTime" : "20160331T203449+0600",
+      "startTime" : "20160331T161430+0500",
+      "endTime" : "20160331T193449+0500",
       "place" : {
         "id" : 305372097,
         "type" : "unknown",
@@ -143,8 +141,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160331T204814+0600",
-      "endTime" : "20160401T101255+0600",
+      "startTime" : "20160331T194814+0500",
+      "endTime" : "20160401T091255+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

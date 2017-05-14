@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T000604+0600",
-      "endTime" : "20150926T140301+0600",
+      "startTime" : "20150925T230604+0500",
+      "endTime" : "20150926T130301+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T175458+0600",
-      "endTime" : "20150926T210100+0600",
+      "startTime" : "20150926T165458+0500",
+      "endTime" : "20150926T200100+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -52,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T213648+0600",
-      "endTime" : "20150927T001348+0600",
+      "startTime" : "20150926T203648+0500",
+      "endTime" : "20150926T231348+0500",
       "place" : {
         "id" : 77460969,
         "name" : "Freelance Café",
@@ -62,6 +62,29 @@
         "location" : {
           "lat" : 56.83509972586457,
           "lon" : 60.59929847717285
+        }
+      },
+      "lastUpdate" : "20150926T205858Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150926T231719+0500",
+      "endTime" : "20150926T233035+0500",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
         }
       },
       "lastUpdate" : "20150926T205858Z",

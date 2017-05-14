@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150928T235048+0600",
-      "endTime" : "20150929T085901+0600",
+      "startTime" : "20150928T225048+0500",
+      "endTime" : "20150929T075901+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T091143+0600",
-      "endTime" : "20150929T092252+0600",
+      "startTime" : "20150929T081143+0500",
+      "endTime" : "20150929T082252+0500",
       "place" : {
         "id" : 267541946,
         "name" : "Почта России 620039",
@@ -53,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T094104+0600",
-      "endTime" : "20150929T094504+0600",
+      "startTime" : "20150929T084104+0500",
+      "endTime" : "20150929T084504+0500",
       "place" : {
         "id" : 72695087,
         "type" : "unknown",
@@ -74,19 +74,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T101650+0600",
-      "endTime" : "20150929T130851+0600",
+      "startTime" : "20150929T091650+0500",
+      "endTime" : "20150929T120851+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150929T085543Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150929"
     }
   }, {
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T131553+0600",
-      "endTime" : "20150929T133928+0600",
+      "startTime" : "20150929T121553+0500",
+      "endTime" : "20150929T123928+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -120,19 +119,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T134933+0600",
-      "endTime" : "20150929T164130+0600",
+      "startTime" : "20150929T124933+0500",
+      "endTime" : "20150929T154130+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150929T184253Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150929"
     }
   }, {
@@ -143,8 +141,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150929T164653+0600",
-      "endTime" : "20150929T183636+0600",
+      "startTime" : "20150929T154653+0500",
+      "endTime" : "20150929T173636+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -156,6 +154,28 @@
         }
       },
       "lastUpdate" : "20150930T014758Z",
+      "date" : "20150929"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.5721325365, 56.891013545 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150929T234308+0500",
+      "endTime" : "20150930T004446+0500",
+      "place" : {
+        "id" : 65236298,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.891013545,
+          "lon" : 60.5721325365
+        }
+      },
+      "lastUpdate" : "20150930T044904Z",
       "date" : "20150929"
     }
   } ]

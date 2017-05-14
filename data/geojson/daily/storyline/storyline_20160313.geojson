@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160313T085641+0600",
-      "endTime" : "20160313T195347+0600",
+      "startTime" : "20160313T075641+0500",
+      "endTime" : "20160313T185347+0500",
       "place" : {
         "id" : 280596482,
         "type" : "unknown",
@@ -22,8 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160313T104953+0600",
-        "endTime" : "20160313T104958+0600",
+        "startTime" : "20160313T094953+0500",
+        "endTime" : "20160313T094958+0500",
         "duration" : 5.0,
         "distance" : 4.0,
         "steps" : 8
@@ -31,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160313T111152+0600",
-        "endTime" : "20160313T111216+0600",
+        "startTime" : "20160313T101152+0500",
+        "endTime" : "20160313T101216+0500",
         "duration" : 24.0,
         "distance" : 18.0,
         "steps" : 36
@@ -48,8 +48,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160313T195348+0600",
-      "endTime" : "20160314T154919+0600",
+      "startTime" : "20160313T185348+0500",
+      "endTime" : "20160314T144919+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -59,7 +59,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160313"
     }
   } ]

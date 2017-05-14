@@ -8,29 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151117T235802+0600",
-      "endTime" : "20151118T003442+0600",
-      "place" : {
-        "id" : 276850773,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.8319036536,
-          "lon" : 60.6148520947
-        }
-      },
-      "lastUpdate" : "20151117T233656Z",
-      "date" : "20151118"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 60.6148520947, 56.8319036536 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151118T033637+0600",
-      "endTime" : "20151118T101630+0600",
+      "startTime" : "20151118T023637+0500",
+      "endTime" : "20151118T091630+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -50,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151118T104215+0600",
-      "endTime" : "20151118T155229+0600",
+      "startTime" : "20151118T094215+0500",
+      "endTime" : "20151118T145229+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -72,19 +51,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151118T163241+0600",
-      "endTime" : "20151118T194651+0600",
+      "startTime" : "20151118T153241+0500",
+      "endTime" : "20151118T184651+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151118T143826Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151118"
     }
   }, {
@@ -95,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151118T200252+0600",
-      "endTime" : "20151118T205543+0600",
+      "startTime" : "20151118T190252+0500",
+      "endTime" : "20151118T195543+0500",
       "place" : {
         "id" : 278463715,
         "type" : "unknown",
@@ -116,8 +94,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151118T212310+0600",
-      "endTime" : "20151118T232343+0600",
+      "startTime" : "20151118T202310+0500",
+      "endTime" : "20151118T222343+0500",
       "place" : {
         "id" : 279188622,
         "name" : "СКБ Контур",
@@ -139,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151118T234947+0600",
-      "endTime" : "20151119T103608+0600",
+      "startTime" : "20151118T224947+0500",
+      "endTime" : "20151119T093608+0500",
       "place" : {
         "id" : 277165476,
         "type" : "unknown",

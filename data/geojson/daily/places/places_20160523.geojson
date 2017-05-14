@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160522T184742+0600",
-      "endTime" : "20160523T062233+0600",
+      "startTime" : "20160522T174742+0500",
+      "endTime" : "20160523T052233+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T063202+0600",
-      "endTime" : "20160523T100252+0600",
+      "startTime" : "20160523T053202+0500",
+      "endTime" : "20160523T090252+0500",
       "place" : {
         "id" : 317449856,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T100252+0600",
-      "endTime" : "20160523T151049+0600",
+      "startTime" : "20160523T090252+0500",
+      "endTime" : "20160523T141049+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T152620+0600",
-      "endTime" : "20160523T173906+0600",
+      "startTime" : "20160523T142620+0500",
+      "endTime" : "20160523T163906+0500",
       "place" : {
         "id" : 283080836,
         "name" : "Red Cup",
@@ -95,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T175456+0600",
-      "endTime" : "20160523T201238+0600",
+      "startTime" : "20160523T165456+0500",
+      "endTime" : "20160523T191238+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -106,7 +106,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160523"
     }
   }, {
@@ -117,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T202800+0600",
-      "endTime" : "20160523T205334+0600",
+      "startTime" : "20160523T192800+0500",
+      "endTime" : "20160523T195334+0500",
       "place" : {
         "id" : 283963002,
         "type" : "unknown",
@@ -138,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T213111+0600",
-      "endTime" : "20160523T213939+0600",
+      "startTime" : "20160523T203111+0500",
+      "endTime" : "20160523T203939+0500",
       "place" : {
         "id" : 278380714,
         "type" : "unknown",
@@ -159,8 +159,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160523T213940+0600",
-      "endTime" : "20160524T094423+0600",
+      "startTime" : "20160523T203940+0500",
+      "endTime" : "20160524T084423+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -170,7 +170,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160523"
     }
   } ]

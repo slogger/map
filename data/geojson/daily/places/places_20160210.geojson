@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160209T223216+0600",
-      "endTime" : "20160210T134120+0600",
+      "startTime" : "20160209T213216+0500",
+      "endTime" : "20160210T124120+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160210T135714+0600",
-      "endTime" : "20160210T151625+0600",
+      "startTime" : "20160210T125714+0500",
+      "endTime" : "20160210T141625+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160210T115055Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160210"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160210T152129+0600",
-      "endTime" : "20160210T153419+0600",
+      "startTime" : "20160210T142129+0500",
+      "endTime" : "20160210T143419+0500",
       "place" : {
         "id" : 66103230,
         "name" : "Демидовский Зал",
@@ -75,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160210T153924+0600",
-      "endTime" : "20160210T220727+0600",
+      "startTime" : "20160210T143924+0500",
+      "endTime" : "20160210T210727+0500",
       "place" : {
         "id" : 82663389,
         "type" : "unknown",
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160210T222331+0600",
-      "endTime" : "20160211T082306+0600",
+      "startTime" : "20160210T212331+0500",
+      "endTime" : "20160211T072306+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

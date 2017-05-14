@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160411T214407+0600",
-      "endTime" : "20160412T111354+0600",
+      "startTime" : "20160411T204407+0500",
+      "endTime" : "20160412T101354+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T113056+0600",
-      "endTime" : "20160412T182450+0600",
+      "startTime" : "20160412T103056+0500",
+      "endTime" : "20160412T172450+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160412T123626Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160412"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T182450+0600",
-      "endTime" : "20160412T183223+0600",
+      "startTime" : "20160412T172450+0500",
+      "endTime" : "20160412T173223+0500",
       "place" : {
         "id" : 65297944,
         "name" : "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
@@ -75,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T184135+0600",
-      "endTime" : "20160412T184834+0600",
+      "startTime" : "20160412T174135+0500",
+      "endTime" : "20160412T174834+0500",
       "place" : {
         "id" : 321120174,
         "type" : "unknown",
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T185814+0600",
-      "endTime" : "20160412T190930+0600",
+      "startTime" : "20160412T175814+0500",
+      "endTime" : "20160412T180930+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -107,7 +106,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160412"
     }
   }, {
@@ -118,8 +117,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T191812+0600",
-      "endTime" : "20160412T192223+0600",
+      "startTime" : "20160412T181812+0500",
+      "endTime" : "20160412T182223+0500",
       "place" : {
         "id" : 299965218,
         "type" : "unknown",
@@ -139,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160412T192938+0600",
-      "endTime" : "20160413T111321+0600",
+      "startTime" : "20160412T182938+0500",
+      "endTime" : "20160413T101321+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

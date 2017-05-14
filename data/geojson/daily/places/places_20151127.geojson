@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151126T214136+0600",
-      "endTime" : "20151127T010230+0600",
+      "startTime" : "20151126T204136+0500",
+      "endTime" : "20151127T000230+0500",
       "place" : {
         "id" : 287155495,
         "name" : "Дом печати",
@@ -31,8 +31,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151127T011542+0600",
-      "endTime" : "20151127T014129+0600",
+      "startTime" : "20151127T001542+0500",
+      "endTime" : "20151127T004129+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -42,7 +42,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151127"
     }
   }, {
@@ -53,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151127T025314+0600",
-      "endTime" : "20151127T105155+0600",
+      "startTime" : "20151127T015314+0500",
+      "endTime" : "20151127T095155+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -74,19 +74,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151127T110903+0600",
-      "endTime" : "20151127T162140+0600",
+      "startTime" : "20151127T100903+0500",
+      "endTime" : "20151127T152140+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151127T110145Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151127"
     }
   }, {
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151127T164320+0600",
-      "endTime" : "20151128T104311+0600",
+      "startTime" : "20151127T154320+0500",
+      "endTime" : "20151128T094311+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",

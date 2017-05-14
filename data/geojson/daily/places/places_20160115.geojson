@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160114T215922+0600",
-      "endTime" : "20160115T105327+0600",
+      "startTime" : "20160114T205922+0500",
+      "endTime" : "20160115T095327+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160115T112102+0600",
-      "endTime" : "20160115T214431+0600",
+      "startTime" : "20160115T102102+0500",
+      "endTime" : "20160115T204431+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160115T221516+0600",
-      "endTime" : "20160115T233116+0600",
+      "startTime" : "20160115T211516+0500",
+      "endTime" : "20160115T223116+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160115T234116+0600",
-      "endTime" : "20160116T001931+0600",
+      "startTime" : "20160115T224116+0500",
+      "endTime" : "20160115T231931+0500",
       "place" : {
         "id" : 299332102,
         "type" : "unknown",
@@ -83,6 +83,27 @@
         }
       },
       "lastUpdate" : "20160115T185820Z",
+      "date" : "20160115"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160115T231932+0500",
+      "endTime" : "20160116T114822+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20160116T075742Z",
       "date" : "20160115"
     }
   } ]

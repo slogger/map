@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160129T194632+0600",
-      "endTime" : "20160131T111004+0600",
+      "startTime" : "20160129T184632+0500",
+      "endTime" : "20160131T101004+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -22,17 +22,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160130T000612+0600",
-        "endTime" : "20160130T000644+0600",
-        "duration" : 32.0,
-        "distance" : 18.0,
-        "steps" : 35
-      }, {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20160130T012340+0600",
-        "endTime" : "20160130T012424+0600",
+        "startTime" : "20160130T002340+0500",
+        "endTime" : "20160130T002424+0500",
         "duration" : 44.0,
         "distance" : 22.0,
         "steps" : 37
@@ -40,8 +31,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160130T190746+0600",
-        "endTime" : "20160130T190756+0600",
+        "startTime" : "20160130T180746+0500",
+        "endTime" : "20160130T180756+0500",
         "duration" : 10.0,
         "distance" : 6.0,
         "steps" : 11
@@ -49,8 +40,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20160130T230906+0600",
-        "endTime" : "20160130T230913+0600",
+        "startTime" : "20160130T220906+0500",
+        "endTime" : "20160130T220913+0500",
         "duration" : 7.0,
         "distance" : 4.0,
         "steps" : 6

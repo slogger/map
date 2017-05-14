@@ -4,35 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.596251487731934, 56.83629702663897 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151016T001511+0600",
-      "endTime" : "20151016T002916+0600",
-      "place" : {
-        "id" : 99703772,
-        "name" : "ЦУМ",
-        "type" : "foursquare",
-        "foursquareId" : "4d7e297b87003704c5a36b99",
-        "location" : {
-          "lat" : 56.83629702663897,
-          "lon" : 60.596251487731934
-        }
-      },
-      "lastUpdate" : "20151015T204225Z",
-      "date" : "20151016"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.5721325365, 56.891013545 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T010646+0600",
-      "endTime" : "20151016T091123+0600",
+      "startTime" : "20151016T000646+0500",
+      "endTime" : "20151016T081123+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -53,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T095608+0600",
-      "endTime" : "20151016T114425+0600",
+      "startTime" : "20151016T085608+0500",
+      "endTime" : "20151016T104425+0500",
       "place" : {
         "id" : 65246349,
         "name" : "Кофе Хауз",
@@ -76,19 +53,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T114426+0600",
-      "endTime" : "20151016T131841+0600",
+      "startTime" : "20151016T104426+0500",
+      "endTime" : "20151016T121841+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151016T100548Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151016"
     }
   }, {
@@ -99,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T131842+0600",
-      "endTime" : "20151016T143431+0600",
+      "startTime" : "20151016T121842+0500",
+      "endTime" : "20151016T133431+0500",
       "place" : {
         "id" : 274646188,
         "type" : "unknown",
@@ -120,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T160423+0600",
-      "endTime" : "20151016T194420+0600",
+      "startTime" : "20151016T150423+0500",
+      "endTime" : "20151016T184420+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -142,8 +118,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T195926+0600",
-      "endTime" : "20151016T200103+0600",
+      "startTime" : "20151016T185926+0500",
+      "endTime" : "20151016T190103+0500",
       "place" : {
         "id" : 274992647,
         "type" : "unknown",
@@ -163,8 +139,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151016T213046+0600",
-      "endTime" : "20151018T201400+0600",
+      "startTime" : "20151016T203046+0500",
+      "endTime" : "20151018T191400+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

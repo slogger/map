@@ -4,33 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.6810261146, 56.8388239071 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20160409T235133+0600",
-      "endTime" : "20160410T002113+0600",
-      "place" : {
-        "id" : 304324487,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.8388239071,
-          "lon" : 60.6810261146
-        }
-      },
-      "lastUpdate" : "20160409T194249Z",
-      "date" : "20160410"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6143, 56.8323 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160410T003127+0600",
-      "endTime" : "20160410T161007+0600",
+      "startTime" : "20160409T233127+0500",
+      "endTime" : "20160410T151007+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -40,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160410"
     }
   }, {
@@ -51,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160410T161952+0600",
-      "endTime" : "20160410T214451+0600",
+      "startTime" : "20160410T151952+0500",
+      "endTime" : "20160410T204451+0500",
       "place" : {
         "id" : 87976294,
         "name" : "Yellow Submarine",
@@ -74,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160410T214911+0600",
-      "endTime" : "20160410T222010+0600",
+      "startTime" : "20160410T204911+0500",
+      "endTime" : "20160410T212010+0500",
       "place" : {
         "id" : 301496117,
         "type" : "unknown",
@@ -95,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160410T223458+0600",
-      "endTime" : "20160411T103848+0600",
+      "startTime" : "20160410T213458+0500",
+      "endTime" : "20160411T093848+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -106,7 +85,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160410"
     }
   } ]

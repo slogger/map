@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160324T223834+0600",
-      "endTime" : "20160325T160241+0600",
+      "startTime" : "20160324T213834+0500",
+      "endTime" : "20160325T150241+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T162758+0600",
-      "endTime" : "20160325T163039+0600",
+      "startTime" : "20160325T152758+0500",
+      "endTime" : "20160325T153039+0500",
       "place" : {
         "id" : 316059919,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T164857+0600",
-      "endTime" : "20160325T165526+0600",
+      "startTime" : "20160325T154857+0500",
+      "endTime" : "20160325T155526+0500",
       "place" : {
         "id" : 316059920,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T171019+0600",
-      "endTime" : "20160325T171711+0600",
+      "startTime" : "20160325T161019+0500",
+      "endTime" : "20160325T161711+0500",
       "place" : {
         "id" : 316084406,
         "type" : "unknown",
@@ -92,8 +92,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T172453+0600",
-      "endTime" : "20160325T173734+0600",
+      "startTime" : "20160325T162453+0500",
+      "endTime" : "20160325T163734+0500",
       "place" : {
         "id" : 316084407,
         "type" : "unknown",
@@ -113,8 +113,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T180306+0600",
-      "endTime" : "20160325T182635+0600",
+      "startTime" : "20160325T170306+0500",
+      "endTime" : "20160325T172635+0500",
       "place" : {
         "id" : 316084408,
         "type" : "unknown",
@@ -134,8 +134,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T191616+0600",
-      "endTime" : "20160325T195628+0600",
+      "startTime" : "20160325T181616+0500",
+      "endTime" : "20160325T185628+0500",
       "place" : {
         "id" : 69317326,
         "name" : "Клуб настольных игр \"Лепрекон\"",
@@ -156,8 +156,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T201151+0600",
-      "endTime" : "20160325T201229+0600",
+      "startTime" : "20160325T191151+0500",
+      "endTime" : "20160325T191229+0500",
       "place" : {
         "id" : 316140426,
         "type" : "unknown",
@@ -177,8 +177,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T203428+0600",
-      "endTime" : "20160325T210534+0600",
+      "startTime" : "20160325T193428+0500",
+      "endTime" : "20160325T200534+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -188,7 +188,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160325"
     }
   }, {
@@ -199,8 +199,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T211936+0600",
-      "endTime" : "20160325T231343+0600",
+      "startTime" : "20160325T201936+0500",
+      "endTime" : "20160325T221343+0500",
       "place" : {
         "id" : 77460969,
         "name" : "Freelance Café",
@@ -222,8 +222,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160325T233628+0600",
-      "endTime" : "20160325T235318+0600",
+      "startTime" : "20160325T223628+0500",
+      "endTime" : "20160325T225318+0500",
       "place" : {
         "id" : 104956761,
         "type" : "unknown",
@@ -233,6 +233,28 @@
         }
       },
       "lastUpdate" : "20160325T184923Z",
+      "date" : "20160325"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6143, 56.8323 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20160325T232158+0500",
+      "endTime" : "20160326T144812+0500",
+      "place" : {
+        "id" : 278156785,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 56.8323,
+          "lon" : 60.6143
+        }
+      },
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160325"
     }
   } ]

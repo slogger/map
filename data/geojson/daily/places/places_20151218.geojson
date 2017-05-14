@@ -4,34 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.58612623391936, 56.82947461635581 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20151217T112739+0600",
-      "endTime" : "20151218T002534+0600",
-      "place" : {
-        "id" : 267526997,
-        "name" : "СКБ Контур",
-        "type" : "user",
-        "location" : {
-          "lat" : 56.82947461635581,
-          "lon" : 60.58612623391936
-        }
-      },
-      "lastUpdate" : "20160516T162957Z",
-      "date" : "20151218"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6148884149, 56.8310523742 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T013102+0600",
-      "endTime" : "20151218T014836+0600",
+      "startTime" : "20151218T003102+0500",
+      "endTime" : "20151218T004836+0500",
       "place" : {
         "id" : 292217259,
         "type" : "unknown",
@@ -51,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T014837+0600",
-      "endTime" : "20151218T062054+0600",
+      "startTime" : "20151218T004837+0500",
+      "endTime" : "20151218T052054+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -72,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T062200+0600",
-      "endTime" : "20151218T063229+0600",
+      "startTime" : "20151218T052200+0500",
+      "endTime" : "20151218T053229+0500",
       "place" : {
         "id" : 292248912,
         "type" : "unknown",
@@ -93,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T065246+0600",
-      "endTime" : "20151218T082509+0600",
+      "startTime" : "20151218T055246+0500",
+      "endTime" : "20151218T072509+0500",
       "place" : {
         "id" : 292273101,
         "type" : "unknown",
@@ -114,8 +92,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T112050+0600",
-      "endTime" : "20151218T134509+0600",
+      "startTime" : "20151218T102050+0500",
+      "endTime" : "20151218T124509+0500",
       "place" : {
         "id" : 292314265,
         "type" : "unknown",
@@ -135,8 +113,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T135711+0600",
-      "endTime" : "20151218T141056+0600",
+      "startTime" : "20151218T125711+0500",
+      "endTime" : "20151218T131056+0500",
       "place" : {
         "id" : 292337749,
         "type" : "unknown",
@@ -156,8 +134,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T143300+0600",
-      "endTime" : "20151218T143428+0600",
+      "startTime" : "20151218T133300+0500",
+      "endTime" : "20151218T133428+0500",
       "place" : {
         "id" : 292337750,
         "type" : "unknown",
@@ -177,8 +155,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T145526+0600",
-      "endTime" : "20151218T152614+0600",
+      "startTime" : "20151218T135526+0500",
+      "endTime" : "20151218T142614+0500",
       "place" : {
         "id" : 292337751,
         "type" : "unknown",
@@ -198,8 +176,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T171704+0600",
-      "endTime" : "20151218T173636+0600",
+      "startTime" : "20151218T161704+0500",
+      "endTime" : "20151218T163636+0500",
       "place" : {
         "id" : 292372920,
         "type" : "unknown",
@@ -219,8 +197,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T183225+0600",
-      "endTime" : "20151218T185634+0600",
+      "startTime" : "20151218T173225+0500",
+      "endTime" : "20151218T175634+0500",
       "place" : {
         "id" : 292443949,
         "type" : "unknown",
@@ -240,8 +218,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151218T191856+0600",
-      "endTime" : "20151219T032430+0600",
+      "startTime" : "20151218T181856+0500",
+      "endTime" : "20151219T022430+0500",
       "place" : {
         "id" : 292443950,
         "type" : "unknown",

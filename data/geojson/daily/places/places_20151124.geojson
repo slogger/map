@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151123T232921+0600",
-      "endTime" : "20151124T085748+0600",
+      "startTime" : "20151123T222921+0500",
+      "endTime" : "20151124T075748+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -19,7 +19,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20151124"
     }
   }, {
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T090103+0600",
-      "endTime" : "20151124T095559+0600",
+      "startTime" : "20151124T080103+0500",
+      "endTime" : "20151124T085559+0500",
       "place" : {
         "id" : 286268864,
         "type" : "unknown",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T095914+0600",
-      "endTime" : "20151124T102940+0600",
+      "startTime" : "20151124T085914+0500",
+      "endTime" : "20151124T092940+0500",
       "place" : {
         "id" : 282133891,
         "type" : "unknown",
@@ -72,8 +72,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T103825+0600",
-      "endTime" : "20151124T104052+0600",
+      "startTime" : "20151124T093825+0500",
+      "endTime" : "20151124T094052+0500",
       "place" : {
         "id" : 101446699,
         "type" : "unknown",
@@ -93,8 +93,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T105002+0600",
-      "endTime" : "20151124T105827+0600",
+      "startTime" : "20151124T095002+0500",
+      "endTime" : "20151124T095827+0500",
       "place" : {
         "id" : 286075447,
         "type" : "unknown",
@@ -114,19 +114,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T110237+0600",
-      "endTime" : "20151124T122935+0600",
+      "startTime" : "20151124T100237+0500",
+      "endTime" : "20151124T112935+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151124T224802Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151124"
     }
   }, {
@@ -137,8 +136,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T125122+0600",
-      "endTime" : "20151124T142244+0600",
+      "startTime" : "20151124T115122+0500",
+      "endTime" : "20151124T132244+0500",
       "place" : {
         "id" : 282133891,
         "type" : "unknown",
@@ -158,8 +157,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T142245+0600",
-      "endTime" : "20151124T143312+0600",
+      "startTime" : "20151124T132245+0500",
+      "endTime" : "20151124T133312+0500",
       "place" : {
         "id" : 88711415,
         "type" : "unknown",
@@ -179,19 +178,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T145152+0600",
-      "endTime" : "20151124T193223+0600",
+      "startTime" : "20151124T135152+0500",
+      "endTime" : "20151124T183223+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151124T224802Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151124"
     }
   }, {
@@ -202,8 +200,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T193224+0600",
-      "endTime" : "20151124T194257+0600",
+      "startTime" : "20151124T183224+0500",
+      "endTime" : "20151124T184257+0500",
       "place" : {
         "id" : 286184331,
         "type" : "unknown",
@@ -223,8 +221,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T194748+0600",
-      "endTime" : "20151124T201445+0600",
+      "startTime" : "20151124T184748+0500",
+      "endTime" : "20151124T191445+0500",
       "place" : {
         "id" : 283080676,
         "name" : "3-Я УРАЛЬСКАЯ ИНДУСТРИАЛЬНАЯ БИЕННАЛЕ СОВРЕМЕННОГО ИСКУССТВА",
@@ -246,8 +244,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T201716+0600",
-      "endTime" : "20151124T203003+0600",
+      "startTime" : "20151124T191716+0500",
+      "endTime" : "20151124T193003+0500",
       "place" : {
         "id" : 65246242,
         "name" : "Вилка-Ложка",
@@ -269,8 +267,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T204749+0600",
-      "endTime" : "20151124T213205+0600",
+      "startTime" : "20151124T194749+0500",
+      "endTime" : "20151124T203205+0500",
       "place" : {
         "id" : 286202517,
         "type" : "unknown",
@@ -290,8 +288,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T213206+0600",
-      "endTime" : "20151124T221315+0600",
+      "startTime" : "20151124T203206+0500",
+      "endTime" : "20151124T211315+0500",
       "place" : {
         "id" : 284306511,
         "type" : "unknown",
@@ -311,8 +309,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T222313+0600",
-      "endTime" : "20151124T223118+0600",
+      "startTime" : "20151124T212313+0500",
+      "endTime" : "20151124T213118+0500",
       "place" : {
         "id" : 67996312,
         "type" : "unknown",
@@ -332,8 +330,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151124T223824+0600",
-      "endTime" : "20151125T005749+0600",
+      "startTime" : "20151124T213824+0500",
+      "endTime" : "20151124T235749+0500",
       "place" : {
         "id" : 286202518,
         "type" : "unknown",

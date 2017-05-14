@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151105T210218+0600",
-      "endTime" : "20151106T095621+0600",
+      "startTime" : "20151105T200218+0500",
+      "endTime" : "20151106T085621+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151106T101327+0600",
-      "endTime" : "20151106T165709+0600",
+      "startTime" : "20151106T091327+0500",
+      "endTime" : "20151106T155709+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151106T132130Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151106"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151106T173637+0600",
-      "endTime" : "20151106T231229+0600",
+      "startTime" : "20151106T163637+0500",
+      "endTime" : "20151106T221229+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -74,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151106T234235+0600",
-      "endTime" : "20151107T003915+0600",
+      "startTime" : "20151106T224235+0500",
+      "endTime" : "20151106T233915+0500",
       "place" : {
         "id" : 281298716,
         "type" : "unknown",
@@ -85,6 +84,27 @@
         }
       },
       "lastUpdate" : "20151106T191101Z",
+      "date" : "20151106"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6148520947, 56.8319036536 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20151106T233915+0500",
+      "endTime" : "20151108T165154+0500",
+      "place" : {
+        "id" : 276850773,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 56.8319036536,
+          "lon" : 60.6148520947
+        }
+      },
+      "lastUpdate" : "20151108T145424Z",
       "date" : "20151106"
     }
   } ]

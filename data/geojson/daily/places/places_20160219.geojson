@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160218T171947+0600",
-      "endTime" : "20160219T094916+0600",
+      "startTime" : "20160218T161947+0500",
+      "endTime" : "20160219T084916+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160219T101336+0600",
-      "endTime" : "20160219T223739+0600",
+      "startTime" : "20160219T091336+0500",
+      "endTime" : "20160219T213739+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -51,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160219T230932+0600",
-      "endTime" : "20160220T052225+0600",
+      "startTime" : "20160219T220932+0500",
+      "endTime" : "20160220T042225+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -62,7 +62,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160219"
     }
   } ]

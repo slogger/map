@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151018T214829+0600",
-      "endTime" : "20151019T125530+0600",
+      "startTime" : "20151018T204829+0500",
+      "endTime" : "20151019T115530+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T130105+0600",
-      "endTime" : "20151019T131310+0600",
+      "startTime" : "20151019T120105+0500",
+      "endTime" : "20151019T121310+0500",
       "place" : {
         "id" : 65236285,
         "name" : "остановка Донбасская",
@@ -53,8 +53,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T132828+0600",
-      "endTime" : "20151019T133119+0600",
+      "startTime" : "20151019T122828+0500",
+      "endTime" : "20151019T123119+0500",
       "place" : {
         "id" : 100335997,
         "type" : "unknown",
@@ -74,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T133547+0600",
-      "endTime" : "20151019T133750+0600",
+      "startTime" : "20151019T123547+0500",
+      "endTime" : "20151019T123750+0500",
       "place" : {
         "id" : 275935337,
         "type" : "unknown",
@@ -95,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T135003+0600",
-      "endTime" : "20151019T143641+0600",
+      "startTime" : "20151019T125003+0500",
+      "endTime" : "20151019T133641+0500",
       "place" : {
         "id" : 86687129,
         "type" : "unknown",
@@ -116,8 +116,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T151156+0600",
-      "endTime" : "20151019T154443+0600",
+      "startTime" : "20151019T141156+0500",
+      "endTime" : "20151019T144443+0500",
       "place" : {
         "id" : 275969748,
         "type" : "unknown",
@@ -137,19 +137,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T155623+0600",
-      "endTime" : "20151019T171000+0600",
+      "startTime" : "20151019T145623+0500",
+      "endTime" : "20151019T161000+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151019T124858Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151019"
     }
   }, {
@@ -160,8 +159,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T172047+0600",
-      "endTime" : "20151019T174310+0600",
+      "startTime" : "20151019T162047+0500",
+      "endTime" : "20151019T164310+0500",
       "place" : {
         "id" : 271963191,
         "name" : "McDonald's",
@@ -183,8 +182,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T181545+0600",
-      "endTime" : "20151019T214943+0600",
+      "startTime" : "20151019T171545+0500",
+      "endTime" : "20151019T204943+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -205,8 +204,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T221329+0600",
-      "endTime" : "20151019T223327+0600",
+      "startTime" : "20151019T211329+0500",
+      "endTime" : "20151019T213327+0500",
       "place" : {
         "id" : 276060643,
         "type" : "unknown",
@@ -226,8 +225,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151019T224211+0600",
-      "endTime" : "20151020T091400+0600",
+      "startTime" : "20151019T214211+0500",
+      "endTime" : "20151020T081400+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

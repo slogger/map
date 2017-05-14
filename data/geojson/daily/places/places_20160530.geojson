@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160529T131006+0600",
-      "endTime" : "20160530T093551+0600",
+      "startTime" : "20160529T121006+0500",
+      "endTime" : "20160530T083551+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -29,19 +29,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T095342+0600",
-      "endTime" : "20160530T130805+0600",
+      "startTime" : "20160530T085342+0500",
+      "endTime" : "20160530T120805+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160530T084410Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160530"
     }
   }, {
@@ -52,8 +51,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T131203+0600",
-      "endTime" : "20160530T135110+0600",
+      "startTime" : "20160530T121203+0500",
+      "endTime" : "20160530T125110+0500",
       "place" : {
         "id" : 65246322,
         "name" : "Viberoom",
@@ -75,8 +74,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T142325+0600",
-      "endTime" : "20160530T143349+0600",
+      "startTime" : "20160530T132325+0500",
+      "endTime" : "20160530T133349+0500",
       "place" : {
         "id" : 336582399,
         "type" : "unknown",
@@ -96,8 +95,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T145000+0600",
-      "endTime" : "20160530T165206+0600",
+      "startTime" : "20160530T135000+0500",
+      "endTime" : "20160530T155206+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -117,19 +116,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T170815+0600",
-      "endTime" : "20160530T181925+0600",
+      "startTime" : "20160530T160815+0500",
+      "endTime" : "20160530T171925+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160530T132403Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160530"
     }
   }, {
@@ -140,8 +138,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160530T184138+0600",
-      "endTime" : "20160531T142839+0600",
+      "startTime" : "20160530T174138+0500",
+      "endTime" : "20160531T132839+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",

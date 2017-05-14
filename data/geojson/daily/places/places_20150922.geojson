@@ -8,19 +8,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T144047+0600",
-      "endTime" : "20150922T152636+0600",
+      "startTime" : "20150922T134047+0500",
+      "endTime" : "20150922T142636+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20150923T053942Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20150922"
     }
   }, {
@@ -31,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T155844+0600",
-      "endTime" : "20150922T161235+0600",
+      "startTime" : "20150922T145844+0500",
+      "endTime" : "20150922T151235+0500",
       "place" : {
         "id" : 267526925,
         "name" : "Coffee Box",
@@ -54,13 +53,12 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T162312+0600",
-      "endTime" : "20150922T165309+0600",
+      "startTime" : "20150922T152312+0500",
+      "endTime" : "20150922T155309+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
@@ -77,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T173152+0600",
-      "endTime" : "20150922T184855+0600",
+      "startTime" : "20150922T163152+0500",
+      "endTime" : "20150922T174855+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",
@@ -99,8 +97,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T190632+0600",
-      "endTime" : "20150922T192450+0600",
+      "startTime" : "20150922T180632+0500",
+      "endTime" : "20150922T182450+0500",
       "place" : {
         "id" : 70827257,
         "name" : "Красный Леопард",
@@ -122,8 +120,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T193100+0600",
-      "endTime" : "20150922T194423+0600",
+      "startTime" : "20150922T183100+0500",
+      "endTime" : "20150922T184423+0500",
       "place" : {
         "id" : 267526899,
         "name" : "New Bar",
@@ -145,8 +143,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T211104+0600",
-      "endTime" : "20150922T221953+0600",
+      "startTime" : "20150922T201104+0500",
+      "endTime" : "20150922T211953+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -167,8 +165,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150922T230448+0600",
-      "endTime" : "20150923T100032+0600",
+      "startTime" : "20150922T220448+0500",
+      "endTime" : "20150923T090032+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",

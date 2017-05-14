@@ -4,56 +4,12 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 60.5955731909, 56.8371642608 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20160327T001457+0600",
-      "endTime" : "20160327T001533+0600",
-      "place" : {
-        "id" : 89057088,
-        "type" : "unknown",
-        "location" : {
-          "lat" : 56.8371642608,
-          "lon" : 60.5955731909
-        }
-      },
-      "lastUpdate" : "20160326T193609Z",
-      "date" : "20160327"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 60.60715198516846, 56.83394934199781 ]
-    },
-    "properties" : {
-      "type" : "place",
-      "startTime" : "20160327T003537+0600",
-      "endTime" : "20160327T004317+0600",
-      "place" : {
-        "id" : 70826847,
-        "name" : "Памятник The Beatles",
-        "type" : "foursquare",
-        "foursquareId" : "4c9dbe0346978cfa96a59a7f",
-        "location" : {
-          "lat" : 56.83394934199781,
-          "lon" : 60.60715198516846
-        }
-      },
-      "lastUpdate" : "20160326T193609Z",
-      "date" : "20160327"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 60.6148520947, 56.8319036536 ]
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T005405+0600",
-      "endTime" : "20160327T144450+0600",
+      "startTime" : "20160326T235405+0500",
+      "endTime" : "20160327T134450+0500",
       "place" : {
         "id" : 276850773,
         "type" : "unknown",
@@ -73,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T145750+0600",
-      "endTime" : "20160327T154046+0600",
+      "startTime" : "20160327T135750+0500",
+      "endTime" : "20160327T144046+0500",
       "place" : {
         "id" : 283080811,
         "name" : "Галерея уличного искусства Свитер",
@@ -96,8 +52,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T154046+0600",
-      "endTime" : "20160327T155714+0600",
+      "startTime" : "20160327T144046+0500",
+      "endTime" : "20160327T145714+0500",
       "place" : {
         "id" : 267664517,
         "type" : "unknown",
@@ -117,8 +73,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T160552+0600",
-      "endTime" : "20160327T161712+0600",
+      "startTime" : "20160327T150552+0500",
+      "endTime" : "20160327T151712+0500",
       "place" : {
         "id" : 316741502,
         "type" : "unknown",
@@ -138,8 +94,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T162047+0600",
-      "endTime" : "20160327T201143+0600",
+      "startTime" : "20160327T152047+0500",
+      "endTime" : "20160327T191143+0500",
       "place" : {
         "id" : 276475865,
         "type" : "unknown",
@@ -159,8 +115,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160327T203020+0600",
-      "endTime" : "20160328T151325+0600",
+      "startTime" : "20160327T193020+0500",
+      "endTime" : "20160328T141325+0500",
       "place" : {
         "id" : 278156785,
         "name" : "Home",
@@ -170,7 +126,7 @@
           "lon" : 60.6143
         }
       },
-      "lastUpdate" : "20160531T040259Z",
+      "lastUpdate" : "20170225T080940Z",
       "date" : "20160327"
     }
   } ]

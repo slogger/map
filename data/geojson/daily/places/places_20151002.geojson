@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151001T223706+0600",
-      "endTime" : "20151002T090441+0600",
+      "startTime" : "20151001T213706+0500",
+      "endTime" : "20151002T080441+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -30,8 +30,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151002T090757+0600",
-      "endTime" : "20151002T091641+0600",
+      "startTime" : "20151002T080757+0500",
+      "endTime" : "20151002T081641+0500",
       "place" : {
         "id" : 65236285,
         "name" : "остановка Донбасская",
@@ -53,19 +53,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151002T100419+0600",
-      "endTime" : "20151002T131233+0600",
+      "startTime" : "20151002T090419+0500",
+      "endTime" : "20151002T121233+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20151002T075955Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20151002"
     }
   }, {
@@ -76,8 +75,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151002T132116+0600",
-      "endTime" : "20151002T133424+0600",
+      "startTime" : "20151002T122116+0500",
+      "endTime" : "20151002T123424+0500",
       "place" : {
         "id" : 270466838,
         "type" : "unknown",
@@ -97,8 +96,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20151002T135429+0600",
-      "endTime" : "20151002T233044+0600",
+      "startTime" : "20151002T125429+0500",
+      "endTime" : "20151002T223044+0500",
       "place" : {
         "id" : 267526997,
         "name" : "СКБ Контур",

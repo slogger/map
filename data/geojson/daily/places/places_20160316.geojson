@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160315T232550+0600",
-      "endTime" : "20160316T023646+0600",
+      "startTime" : "20160315T222550+0500",
+      "endTime" : "20160316T013646+0500",
       "place" : {
         "id" : 277165475,
         "type" : "unknown",
@@ -29,8 +29,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T023646+0600",
-      "endTime" : "20160316T024624+0600",
+      "startTime" : "20160316T013646+0500",
+      "endTime" : "20160316T014624+0500",
       "place" : {
         "id" : 300930959,
         "type" : "unknown",
@@ -50,8 +50,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T024625+0600",
-      "endTime" : "20160316T105854+0600",
+      "startTime" : "20160316T014625+0500",
+      "endTime" : "20160316T095854+0500",
       "place" : {
         "id" : 280596482,
         "type" : "unknown",
@@ -71,8 +71,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T105854+0600",
-      "endTime" : "20160316T112217+0600",
+      "startTime" : "20160316T095854+0500",
+      "endTime" : "20160316T102217+0500",
       "place" : {
         "id" : 298584407,
         "type" : "unknown",
@@ -92,8 +92,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T113637+0600",
-      "endTime" : "20160316T113914+0600",
+      "startTime" : "20160316T103637+0500",
+      "endTime" : "20160316T103914+0500",
       "place" : {
         "id" : 65246322,
         "name" : "Viberoom",
@@ -115,8 +115,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T114434+0600",
-      "endTime" : "20160316T125703+0600",
+      "startTime" : "20160316T104434+0500",
+      "endTime" : "20160316T115703+0500",
       "place" : {
         "id" : 68725751,
         "type" : "unknown",
@@ -136,8 +136,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T130707+0600",
-      "endTime" : "20160316T141905+0600",
+      "startTime" : "20160316T120707+0500",
+      "endTime" : "20160316T131905+0500",
       "place" : {
         "id" : 65241987,
         "name" : "Кофехаус",
@@ -158,8 +158,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T141906+0600",
-      "endTime" : "20160316T143729+0600",
+      "startTime" : "20160316T131906+0500",
+      "endTime" : "20160316T133729+0500",
       "place" : {
         "id" : 65241987,
         "name" : "Кофехаус",
@@ -180,19 +180,18 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T143730+0600",
-      "endTime" : "20160316T184523+0600",
+      "startTime" : "20160316T133730+0500",
+      "endTime" : "20160316T174523+0500",
       "place" : {
         "id" : 65245957,
         "name" : "УрФУ ИМКН (Матмех)",
-        "type" : "foursquare",
-        "foursquareId" : "4f38d904e4b02a70e2b4ca7a",
+        "type" : "user",
         "location" : {
           "lat" : 56.84156114616754,
           "lon" : 60.61488940022382
         }
       },
-      "lastUpdate" : "20160316T132215Z",
+      "lastUpdate" : "20160602T083418Z",
       "date" : "20160316"
     }
   }, {
@@ -203,8 +202,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T191419+0600",
-      "endTime" : "20160316T200625+0600",
+      "startTime" : "20160316T181419+0500",
+      "endTime" : "20160316T190625+0500",
       "place" : {
         "id" : 78201188,
         "name" : "Глобус",
@@ -226,8 +225,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T202303+0600",
-      "endTime" : "20160316T202527+0600",
+      "startTime" : "20160316T192303+0500",
+      "endTime" : "20160316T192527+0500",
       "place" : {
         "id" : 65241987,
         "name" : "Кофехаус",
@@ -248,8 +247,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20160316T203742+0600",
-      "endTime" : "20160317T112445+0600",
+      "startTime" : "20160316T193742+0500",
+      "endTime" : "20160317T102445+0500",
       "place" : {
         "id" : 280596482,
         "type" : "unknown",

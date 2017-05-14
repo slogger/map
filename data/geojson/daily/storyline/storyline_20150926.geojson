@@ -8,8 +8,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T000604+0600",
-      "endTime" : "20150926T140301+0600",
+      "startTime" : "20150925T230604+0500",
+      "endTime" : "20150926T130301+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -23,8 +23,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T095531+0600",
-        "endTime" : "20150926T095600+0600",
+        "startTime" : "20150926T085531+0500",
+        "endTime" : "20150926T085600+0500",
         "duration" : 29.0,
         "distance" : 15.0,
         "steps" : 20
@@ -32,8 +32,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T100250+0600",
-        "endTime" : "20150926T100305+0600",
+        "startTime" : "20150926T090250+0500",
+        "endTime" : "20150926T090305+0500",
         "duration" : 15.0,
         "distance" : 8.0,
         "steps" : 9
@@ -41,8 +41,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T110520+0600",
-        "endTime" : "20150926T110529+0600",
+        "startTime" : "20150926T100520+0500",
+        "endTime" : "20150926T100529+0500",
         "duration" : 9.0,
         "distance" : 5.0,
         "steps" : 6
@@ -58,8 +58,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T175458+0600",
-      "endTime" : "20150926T210100+0600",
+      "startTime" : "20150926T165458+0500",
+      "endTime" : "20150926T200100+0500",
       "place" : {
         "id" : 65236298,
         "name" : "Home",
@@ -73,8 +73,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T183131+0600",
-        "endTime" : "20150926T183142+0600",
+        "startTime" : "20150926T173131+0500",
+        "endTime" : "20150926T173142+0500",
         "duration" : 11.0,
         "distance" : 6.0,
         "steps" : 12
@@ -82,8 +82,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T203933+0600",
-        "endTime" : "20150926T204001+0600",
+        "startTime" : "20150926T193933+0500",
+        "endTime" : "20150926T194001+0500",
         "duration" : 28.0,
         "distance" : 16.0,
         "steps" : 31
@@ -91,8 +91,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T210020+0600",
-        "endTime" : "20150926T210240+0600",
+        "startTime" : "20150926T200020+0500",
+        "endTime" : "20150926T200240+0500",
         "duration" : 140.0,
         "distance" : 108.0,
         "steps" : 144
@@ -104,18 +104,18 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiLineString",
-      "coordinates" : [ [ [ 60.5721325365, 56.891013545 ], [ 60.5727922022, 56.8911621194 ], [ 60.5727459382, 56.8911553795 ], [ 60.5727170008, 56.891151001 ], [ 60.5726722057, 56.8911445106 ], [ 60.5726402924, 56.8911399427 ], [ 60.5726056628, 56.8911353819 ], [ 60.5724875129, 56.8911072593 ], [ 60.5713947031, 56.8908415651 ], [ 60.5706597583, 56.8905336206 ], [ 60.570458971, 56.8904709984 ], [ 60.570429578, 56.8905061219 ] ], [ [ 60.570429578, 56.8905061219 ], [ 60.5705067901, 56.8907137425 ], [ 60.5711110728, 56.8914955473 ], [ 60.5722288414, 56.8926019896 ], [ 60.5753721085, 56.8956389512 ], [ 60.5778910571, 56.8976099339 ], [ 60.5780801174, 56.8976969576 ], [ 60.5785956992, 56.8980209549 ], [ 60.5861962189, 56.903379772 ], [ 60.5866398333, 56.9032578659 ], [ 60.5866288926, 56.9032567565 ], [ 60.5930772961, 56.9011728729 ], [ 60.5936472914, 56.9008698635 ], [ 60.5937188417, 56.9008245029 ], [ 60.5956407614, 56.9002162744 ], [ 60.60102014, 56.8982171919 ], [ 60.6117753414, 56.8940639478 ], [ 60.6124002087, 56.8938690047 ], [ 60.6128441266, 56.8936561578 ], [ 60.6129716959, 56.893503883 ], [ 60.6129797801, 56.8934683626 ], [ 60.6098885601, 56.890108831 ], [ 60.6079168011, 56.8876833549 ], [ 60.608116425, 56.8875728488 ], [ 60.6106218575, 56.8871066886 ], [ 60.6111848588, 56.8869853265 ], [ 60.6059130661, 56.8680237576 ], [ 60.5997769557, 56.8391936428 ] ], [ [ 60.5997769557, 56.8391936428 ], [ 60.5991297593, 56.8359802875 ], [ 60.5991298773, 56.8359777117 ], [ 60.5991375697, 56.8359425717 ], [ 60.5992984772, 56.8350997259 ] ] ]
+      "coordinates" : [ [ ], [ ], [ ] ]
     },
     "properties" : {
       "type" : "move",
-      "startTime" : "20150926T210100+0600",
-      "endTime" : "20150926T213648+0600",
+      "startTime" : "20150926T200100+0500",
+      "endTime" : "20150926T203648+0500",
       "activities" : [ {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T210100+0600",
-        "endTime" : "20150926T210529+0600",
+        "startTime" : "20150926T200100+0500",
+        "endTime" : "20150926T200529+0500",
         "duration" : 269.0,
         "distance" : 230.0,
         "steps" : 284
@@ -123,16 +123,16 @@
         "activity" : "transport",
         "group" : "transport",
         "manual" : false,
-        "startTime" : "20150926T210529+0600",
-        "endTime" : "20150926T213408+0600",
+        "startTime" : "20150926T200529+0500",
+        "endTime" : "20150926T203408+0500",
         "duration" : 1719.0,
         "distance" : 11486.0
       }, {
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T213408+0600",
-        "endTime" : "20150926T213648+0600",
+        "startTime" : "20150926T203408+0500",
+        "endTime" : "20150926T203648+0500",
         "duration" : 160.0,
         "distance" : 254.0,
         "steps" : 212
@@ -148,8 +148,8 @@
     },
     "properties" : {
       "type" : "place",
-      "startTime" : "20150926T213648+0600",
-      "endTime" : "20150927T001348+0600",
+      "startTime" : "20150926T203648+0500",
+      "endTime" : "20150926T231348+0500",
       "place" : {
         "id" : 77460969,
         "name" : "Freelance Café",
@@ -164,8 +164,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T213648+0600",
-        "endTime" : "20150926T213721+0600",
+        "startTime" : "20150926T203648+0500",
+        "endTime" : "20150926T203721+0500",
         "duration" : 33.0,
         "distance" : 23.0,
         "steps" : 46
@@ -173,8 +173,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T220922+0600",
-        "endTime" : "20150926T221212+0600",
+        "startTime" : "20150926T210922+0500",
+        "endTime" : "20150926T211212+0500",
         "duration" : 170.0,
         "distance" : 139.0,
         "steps" : 186
@@ -182,8 +182,8 @@
         "activity" : "walking",
         "group" : "walking",
         "manual" : false,
-        "startTime" : "20150926T230627+0600",
-        "endTime" : "20150926T232515+0600",
+        "startTime" : "20150926T220627+0500",
+        "endTime" : "20150926T222515+0500",
         "duration" : 1128.0,
         "distance" : 1236.0,
         "steps" : 1648
@@ -191,11 +191,99 @@
         "activity" : "running",
         "group" : "running",
         "manual" : false,
-        "startTime" : "20150926T233446+0600",
-        "endTime" : "20150926T233646+0600",
+        "startTime" : "20150926T223446+0500",
+        "endTime" : "20150926T223646+0500",
         "duration" : 120.0,
         "distance" : 111.0,
         "steps" : 123
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20150926T230240+0500",
+        "endTime" : "20150926T230340+0500",
+        "duration" : 60.0,
+        "distance" : 31.0,
+        "steps" : 61
+      } ],
+      "lastUpdate" : "20150926T205858Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20150926T231348+0500",
+      "endTime" : "20150926T231719+0500",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20150926T231348+0500",
+        "endTime" : "20150926T231719+0500",
+        "duration" : 211.0,
+        "distance" : 6782.0,
+        "steps" : 295
+      } ],
+      "lastUpdate" : "20150926T205858Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.61280071735382, 56.88756892148201 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150926T231719+0500",
+      "endTime" : "20150926T233035+0500",
+      "place" : {
+        "id" : 71375801,
+        "name" : "Остановка «Метро Уралмаш»",
+        "type" : "foursquare",
+        "foursquareId" : "4d7e63df34468eec9989d293",
+        "location" : {
+          "lat" : 56.88756892148201,
+          "lon" : 60.61280071735382
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20150926T231829+0500",
+        "endTime" : "20150926T232049+0500",
+        "duration" : 140.0,
+        "distance" : 159.0,
+        "steps" : 212
+      } ],
+      "lastUpdate" : "20150926T205858Z",
+      "date" : "20150926"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20150926T233035+0500",
+      "endTime" : "20150927T001000+0500",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20150926T233035+0500",
+        "endTime" : "20150926T235959+0500",
+        "duration" : 1764.0,
+        "distance" : 2264.0,
+        "steps" : 2469
       } ],
       "lastUpdate" : "20150926T205858Z",
       "date" : "20150926"
